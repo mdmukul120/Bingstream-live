@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiAMYhhwCKWDxswKiBWSUIMlhCSYUkFpUh5ICYbLCQymCJDqItyynKyBQkU0VOwhYElzinITBuTllpMicCeXJgmTkIIA.webp" group-title="Football", Sparta Praha vs. Zlín (Czech - Oneplay Sport 1 HD)
+https://embed.st/embed/admin/ppv-sparta-praha-vs-zl-n/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiAMYhhwCKWDxswKiBWSUIMlhCSYUkFpUh5ICYbLCQymCJDqItyynKyBQkU0VOwhYElzinITBuTllpMicCeXJgmTkIIA.webp" group-title="Football", Sparta Praha vs. Zlín (Czech - Oneplay Sport 1 SD)
+https://embed.st/embed/admin/ppv-sparta-praha-vs-zl-n/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Cricket (English HD)
 https://embed.st/embed/admin/admin-willow-cricket/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Cricket (Willow 2 HD)
@@ -17,10 +21,6 @@ https://embed.st/embed/admin/admin-tennis-channel/1
 https://embed.st/embed/admin/admin-tennis-channel/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp" group-title="Motorsport", Rally TV (English HD)
 https://embed.st/embed/admin/admin-rally-tv/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiAMYhhwCKWDxswKiBWSUIMlhCSYUkFpUh5ICYbLCQymCJDqItyynKyBQkU0VOwhYElzinITBuTllpMicCeXJgmTkIIA.webp" group-title="Football", Sparta Praha vs. Zlín (Czech - Oneplay Sport 1 HD)
-https://embed.st/embed/admin/ppv-sparta-praha-vs-zl-n/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiAMYhhwCKWDxswKiBWSUIMlhCSYUkFpUh5ICYbLCQymCJDqItyynKyBQkU0VOwhYElzinITBuTllpMicCeXJgmTkIIA.webp" group-title="Football", Sparta Praha vs. Zlín (Czech - Oneplay Sport 1 SD)
-https://embed.st/embed/admin/ppv-sparta-praha-vs-zl-n/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVrxIheS7SD76QEPTgOItKAsCQU+w2fRRgVKLs-L0ss101phnYqIQQA.webp" group-title="Baseball", Chicago Cubs vs New York Yankees (English - Marquee Sports Net HD)
 https://embed.st/embed/admin/ppv-new-york-yankees-vs-chicago-cubs/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVrxIheS7SD76QEPTgOItKAsCQU+w2fRRgVKLs-L0ss101phnYqIQQA.webp" group-title="Baseball", Chicago Cubs vs New York Yankees (English - Marquee Sports Net SD)
@@ -39,14 +39,14 @@ https://embed.st/embed/golf/24080/1
 https://embed.st/embed/admin/ppv-dundee-united-vs-rangers/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKhBD1pYaSBIgsIXoZBnqxkCi0gLRlCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football", Dundee United vs Rangers (English - SPFL Premiership SD)
 https://embed.st/embed/admin/ppv-dundee-united-vs-rangers/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp" group-title="Other", Lollapalooza Chicago 2026 | Channel 2 (English - Disney+ HD)
-https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp" group-title="Other", Lollapalooza Chicago 2026 | Channel 2 (English - Disney+ SD)
-https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp" group-title="Other", Lollapalooza Chicago 2026 | Channel 1 (English - Disney+ HD)
 https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp" group-title="Other", Lollapalooza Chicago 2026 | Channel 1 (English - Disney+ SD)
 https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp" group-title="Other", Lollapalooza Chicago 2026 | Channel 2 (English - Disney+ HD)
+https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp" group-title="Other", Lollapalooza Chicago 2026 | Channel 2 (English - Disney+ SD)
+https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKimx8w-MAxC8QWECZIgzh6iETGsLJBTvtR4zapQ8wZeEWpyP+KzAYF7iYhBAA.webp" group-title="Combat sports", PFL New York Nurmagomedov vs Colgan (English - DAZN HD)
 https://embed.st/embed/admin/ppv-pfl-new-york-usman-nurmagomedov-vs-archie-colgan/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKimx8w-MAxC8QWECZIgzh6iETGsLJBTvtR4zapQ8wZeEWpyP+KzAYF7iYhBAA.webp" group-title="Combat sports", PFL New York Nurmagomedov vs Colgan (English - DAZN SD)
@@ -183,6 +183,10 @@ https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/4
 https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/5
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmIAMDELxAkQ1XSCwgzBmCBQhL041fzAkFLCLmMUYVSh5fyjajkfR3owL3ExCCA.webp" group-title="Combat sports", UFC Fight Night 283 Medić vs Rodriguez (Portuguese - Paramount+ SD)
 https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/6
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmKowBpECRC8QWECeogzKEJf0mr+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Football", Baník Ostrava vs Slavia Prague (Czech - Oneplay Sport 1 HD)
+https://embed.st/embed/admin/ppv-ban-k-ostrava-vs-slavia-prague/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmKowBpECRC8QWECeogzKEJf0mr+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Football", Baník Ostrava vs Slavia Prague (Czech - Oneplay Sport 1 SD)
+https://embed.st/embed/admin/ppv-ban-k-ostrava-vs-slavia-prague/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiCwiQieMBpkI4ycuEgQwJWsQBjbJpBKyalCDXaQiszOC6U5CKDCCRTffbCFgSXDvtDnVkdhUnoCW3JnTVCIIA.webp" group-title="American football", Firenze Red Lions vs Paris Lights (English - AFLE+ HD)
 https://embed.st/embed/admin/ppv-paris-lights-vs-firenze-red-lions/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiCwiQieMBpkI4ycuEgQwJWsQBjbJpBKyalCDXaQiszOC6U5CKDCCRTffbCFgSXDvtDnVkdhUnoCW3JnTVCIIA.webp" group-title="American football", Firenze Red Lions vs Paris Lights (English - AFLE+ SD)
@@ -261,6 +265,10 @@ https://embed.st/embed/admin/ppv-aew-saturday-night-collision/1
 https://embed.st/embed/admin/ppv-aew-saturday-night-collision/2
 #EXTINF:-1 tvg-logo="None" group-title="Baseball", Colorado Rockies - Kansas City Royals (English HD)
 https://embed.st/embed/golf/24074/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBDZJIRChAwQVcaRHAaZZWSwgd8+QGMlIkMODxzuy1J0H1slOQigwgtQWz0whYElwHHIVdWZzMyRw8LMFdgZzIIIA.webp" group-title="Football", St. Louis CITY SC vs. Real Salt Lake (English - Apple TV HD)
+https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-real-salt-lake/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBDZJIRChAwQVcaRHAaZZWSwgd8+QGMlIkMODxzuy1J0H1slOQigwgtQWz0whYElwHHIVdWZzMyRw8LMFdgZzIIIA.webp" group-title="Football", St. Louis CITY SC vs. Real Salt Lake (English - Apple TV SD)
+https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-real-salt-lake/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiADG4kcHhzsIeRFlUQwxYjISs6xdMQoQMRRp3AaNM8ZTkVAobILZ6YQsCS5JtoWG6cVM3pneTA-YBUyCCA.webp" group-title="Football", Chicago Fire FC vs. Charlotte FC (English - Apple TV HD)
 https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-charlotte-fc/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiADG4kcHhzsIeRFlUQwxYjISs6xdMQoQMRRp3AaNM8ZTkVAobILZ6YQsCS5JtoWG6cVM3pneTA-YBUyCCA.webp" group-title="Football", Chicago Fire FC vs. Charlotte FC (English - Apple TV SD)
@@ -273,20 +281,16 @@ https://embed.st/embed/admin/ppv-minnesota-united-fc-vs-san-diego-fc/2
 https://embed.st/embed/admin/ppv-sporting-kansas-city-vs-houston-dynamo-fc/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCNLBEJEAGNSIYSBQgaw7EpAQ1W1aqrjgEEVrKyTiFNJBYQiXuRMChkgtnphCwJLjnWhMG5OEw0ya3d4ciDjKQggA.webp" group-title="Football", Sporting Kansas City vs. Houston Dynamo FC (English - Apple TV SD)
 https://embed.st/embed/admin/ppv-sporting-kansas-city-vs-houston-dynamo-fc/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBDZJIRChAwQVcaRHAaZZWSwgd8+QGMlIkMODxzuy1J0H1slOQigwgtQWz0whYElwHHIVdWZzMyRw8LMFdgZzIIIA.webp" group-title="Football", St. Louis CITY SC vs. Real Salt Lake (English - Apple TV HD)
-https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-real-salt-lake/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBDZJIRChAwQVcaRHAaZZWSwgd8+QGMlIkMODxzuy1J0H1slOQigwgtQWz0whYElwHHIVdWZzMyRw8LMFdgZzIIIA.webp" group-title="Football", St. Louis CITY SC vs. Real Salt Lake (English - Apple TV SD)
-https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-real-salt-lake/2
 #EXTINF:-1 tvg-logo="None" group-title="Baseball", San Diego Padres - San Francisco Giants (English HD)
 https://embed.st/embed/golf/24075/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IGCBQgIILNJBVxpScEURswGcJDwR2EAZDKSCnSBMGJMo7rn5y6gUL0ENKcoWBJcAY3dCwbk51YVJ6V10wQM0wiCA.webp" group-title="Football", León vs. Pachuca (Spanish - ViX Premium Deportes 4 HD)
-https://embed.st/embed/admin/ppv-le-n-vs-pachuca/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IGCBQgIILNJBVxpScEURswGcJDwR2EAZDKSCnSBMGJMo7rn5y6gUL0ENKcoWBJcAY3dCwbk51YVJ6V10wQM0wiCA.webp" group-title="Football", León vs. Pachuca (Spanish - ViX Premium Deportes 4 SD)
-https://embed.st/embed/admin/ppv-le-n-vs-pachuca/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IkCmAQQiKiDI05w8SglSpaxNK0glMkAeEhpC3SCzypk-mEEim2emELAkuAMaSht1hHtlJAmB4clt1MgggA.webp" group-title="Football", Atlas vs. Monterrey (Spanish - TUDN HD)
 https://embed.st/embed/admin/ppv-atlas-vs-monterrey/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IkCmAQQiKiDI05w8SglSpaxNK0glMkAeEhpC3SCzypk-mEEim2emELAkuAMaSht1hHtlJAmB4clt1MgggA.webp" group-title="Football", Atlas vs. Monterrey (Spanish - TUDN SD)
 https://embed.st/embed/admin/ppv-atlas-vs-monterrey/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IGCBQgIILNJBVxpScEURswGcJDwR2EAZDKSCnSBMGJMo7rn5y6gUL0ENKcoWBJcAY3dCwbk51YVJ6V10wQM0wiCA.webp" group-title="Football", León vs. Pachuca (Spanish - ViX Premium Deportes 4 HD)
+https://embed.st/embed/admin/ppv-le-n-vs-pachuca/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IGCBQgIILNJBVxpScEURswGcJDwR2EAZDKSCnSBMGJMo7rn5y6gUL0ENKcoWBJcAY3dCwbk51YVJ6V10wQM0wiCA.webp" group-title="Football", León vs. Pachuca (Spanish - ViX Premium Deportes 4 SD)
+https://embed.st/embed/admin/ppv-le-n-vs-pachuca/2
 #EXTINF:-1 tvg-logo="None" group-title="Baseball", Los Angeles Dodgers - Boston Red Sox (English HD)
 https://embed.st/embed/golf/24076/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEYBBBYQiEiGHBEC4SBil5E9WUni5CmmRUqAxiBQiQxi1UsyQZ8uIFCRTbPTCFgSXMfNCwbk5xBTJzAkVyQM1tIA.webp" group-title="Football", Colorado Rapids vs. Austin FC (English - Apple TV HD)
