@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcYiwhEw0sBpZsIRcJAplIVePUkQNROoDGSxCBHyNiCCAilpKcrYFDzBbPTCFgSXIYdCwbk5bWTIHN3hyQOBbMgggA.webp" group-title="Combat sports", ONE Inner Circle 24 (English - ONE PPV HD)
-https://embed.st/embed/admin/ppv-one-inner-circle-24/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcYiwhEw0sBpZsIRcJAplIVePUkQNROoDGSxCBHyNiCCAilpKcrYFDzBbPTCFgSXIYdCwbk5bWTIHN3hyQOBbMgggA.webp" group-title="Combat sports", ONE Inner Circle 24 (English - ONE PPV SD)
-https://embed.st/embed/admin/ppv-one-inner-circle-24/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCD5gkFYNhDdNIKSFMkDIRBFymCwHTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Rugby", Melbourne Storm vs Canterbury Bankstown Bulldogs (English - Fox League HD)
-https://embed.st/embed/admin/ppv-storm-vs-bulldogs/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCD5gkFYNhDdNIKSFMkDIRBFymCwHTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Rugby", Melbourne Storm vs Canterbury Bankstown Bulldogs (English - Fox League SD)
-https://embed.st/embed/admin/ppv-storm-vs-bulldogs/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Cricket (English HD)
 https://embed.st/embed/admin/admin-willow-cricket/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Cricket (Willow 2 HD)
@@ -289,14 +281,14 @@ https://embed.st/embed/admin/ppv-colorado-rapids-vs-austin-fc/2
 https://embed.st/embed/golf/24077/1
 #EXTINF:-1 tvg-logo="None" group-title="Baseball", Athletics - Detroit Tigers (English HD)
 https://embed.st/embed/golf/24078/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNEiBilgVEDQjAIIJSGwgJWZSE1TNsndhFyQq4VrNKp8IwGMU5BQKEimh+2ELAkuO87DdOBWFpewJgazB-RWkIIA.webp" group-title="Football", Portland Timbers vs. Seattle Sounders FC (English - Apple TV HD)
-https://embed.st/embed/admin/ppv-portland-timbers-vs-seattle-sounders-fc/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNEiBilgVEDQjAIIJSGwgJWZSE1TNsndhFyQq4VrNKp8IwGMU5BQKEimh+2ELAkuO87DdOBWFpewJgazB-RWkIIA.webp" group-title="Football", Portland Timbers vs. Seattle Sounders FC (English - Apple TV SD)
-https://embed.st/embed/admin/ppv-portland-timbers-vs-seattle-sounders-fc/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiCwgYIFCBpZg8YBGwiR80iGVVxIfQGNZII-sTKywpRolldq3uVUCh6gmpTlCwJLgOehMG5OVSsyT3dlMCCVUhUgA.webp" group-title="Football", LA Galaxy vs. FC Dallas (English - Apple TV HD)
 https://embed.st/embed/admin/ppv-la-galaxy-vs-fc-dallas/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiCwgYIFCBpZg8YBGwiR80iGVVxIfQGNZII-sTKywpRolldq3uVUCh6gmpTlCwJLgOehMG5OVSsyT3dlMCCVUhUgA.webp" group-title="Football", LA Galaxy vs. FC Dallas (English - Apple TV SD)
 https://embed.st/embed/admin/ppv-la-galaxy-vs-fc-dallas/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNEiBilgVEDQjAIIJSGwgJWZSE1TNsndhFyQq4VrNKp8IwGMU5BQKEimh+2ELAkuO87DdOBWFpewJgazB-RWkIIA.webp" group-title="Football", Portland Timbers vs. Seattle Sounders FC (English - Apple TV HD)
+https://embed.st/embed/admin/ppv-portland-timbers-vs-seattle-sounders-fc/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNEiBilgVEDQjAIIJSGwgJWZSE1TNsndhFyQq4VrNKp8IwGMU5BQKEimh+2ELAkuO87DdOBWFpewJgazB-RWkIIA.webp" group-title="Football", Portland Timbers vs. Seattle Sounders FC (English - Apple TV SD)
+https://embed.st/embed/admin/ppv-portland-timbers-vs-seattle-sounders-fc/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBikQWYPDkgQCiQGNsIjbNlksIFHsnAqIY7MQkTwCOokwZMlOWsChGgusdhCwJLhWOhMG5Oa2FSend5MCCrcIggA.webp" group-title="Football", Cruz Azul vs. Atlante (Spanish - ViX Premium Deportes 2 HD)
 https://embed.st/embed/admin/ppv-cruz-azul-vs-atlante/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBikQWYPDkgQCiQGNsIjbNlksIFHsnAqIY7MQkTwCOokwZMlOWsChGgusdhCwJLhWOhMG5Oa2FSend5MCCrcIggA.webp" group-title="Football", Cruz Azul vs. Atlante (Spanish - ViX Premium Deportes 2 SD)
