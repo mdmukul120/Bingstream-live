@@ -1,524 +1,35 @@
 {
-  "total": 158,
+  "total": 155,
   "categories": {
-    "combat sports": [
+    "football": [
       {
-        "id": "ufc-fight-night-283-medi--vs-rodriguez-2476379",
-        "slug": "ufc-fight-night-283-medi--vs-rodriguez-2476379",
-        "title": "UFC Fight Night 283 Medić vs Rodriguez",
-        "category": "combat sports",
-        "sport": "combat sports",
+        "id": "ban-k-ostrava-vs-slavia-prague-2497735",
+        "slug": "ban-k-ostrava-vs-slavia-prague-2497735",
+        "title": "Baník Ostrava vs Slavia Prague",
+        "category": "football",
+        "sport": "football",
         "league": "",
-        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmIAMDELxAkQ1XSCwgzBmCBQhL041fzAkFLCLmMUYVSh5fyjajkfR3owL3ExCCA.webp",
-        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmIAMDELxAkQ1XSCwgzBmCBQhL041fzAkFLCLmMUYVSh5fyjajkfR3owL3ExCCA.webp",
-        "date": 1785592800000,
-        "kickoffMs": 1785592800000,
-        "endTimeMs": 1785614400000,
+        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmKowBpECRC8QWECeogzKEJf0mr+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp",
+        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmKowBpECRC8QWECeogzKEJf0mr+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp",
+        "date": 1785596400000,
+        "kickoffMs": 1785596400000,
+        "endTimeMs": 1785607200000,
         "isLive": true,
         "status": "live",
         "iframes": [
           {
-            "server": "English - Paramount+ HD",
-            "url": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/1",
+            "server": "Czech - Oneplay Sport 1 HD",
+            "url": "https://embed.st/embed/admin/ppv-ban-k-ostrava-vs-slavia-prague/1",
             "hd": true,
-            "language": "English - Paramount+",
+            "language": "Czech - Oneplay Sport 1",
             "streamNo": 1,
             "fromStreamedPk": true
           },
           {
-            "server": "English - Paramount+ SD",
-            "url": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/2",
+            "server": "Czech - Oneplay Sport 1 SD",
+            "url": "https://embed.st/embed/admin/ppv-ban-k-ostrava-vs-slavia-prague/2",
             "hd": false,
-            "language": "English - Paramount+",
-            "streamNo": 2,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "Spanish - Paramount+ HD",
-            "url": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/3",
-            "hd": true,
-            "language": "Spanish - Paramount+",
-            "streamNo": 3,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "Spanish - Paramount+ SD",
-            "url": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/4",
-            "hd": false,
-            "language": "Spanish - Paramount+",
-            "streamNo": 4,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "Portuguese - Paramount+ HD",
-            "url": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/5",
-            "hd": true,
-            "language": "Portuguese - Paramount+",
-            "streamNo": 5,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "Portuguese - Paramount+ SD",
-            "url": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/6",
-            "hd": false,
-            "language": "Portuguese - Paramount+",
-            "streamNo": 6,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "German - DAZN HD",
-            "url": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/7",
-            "hd": true,
-            "language": "German - DAZN",
-            "streamNo": 7,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "German - DAZN SD",
-            "url": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/8",
-            "hd": false,
-            "language": "German - DAZN",
-            "streamNo": 8,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "Czech - Nova Sport 6 HD",
-            "url": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/9",
-            "hd": true,
-            "language": "Czech - Nova Sport 6",
-            "streamNo": 9,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "Czech - Nova Sport 6 SD",
-            "url": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/10",
-            "hd": false,
-            "language": "Czech - Nova Sport 6",
-            "streamNo": 10,
-            "fromStreamedPk": true
-          }
-        ],
-        "sources": [
-          {
-            "source": "admin",
-            "id": "ppv-ufc-fight-night-medi-vs-rodriguez"
-          },
-          {
-            "source": "delta",
-            "id": "live-event_ufc-fight-night-belgrade-live-stream"
-          },
-          {
-            "source": "golf",
-            "id": "24097"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": true,
-        "teams": {
-          "home": {
-            "name": "UFC Fight Night 283 Medić",
-            "badge": null
-          },
-          "away": {
-            "name": "Rodriguez",
-            "badge": null
-          }
-        },
-        "_streamedData": {
-          "id": "ufc-fight-night-283-medi--vs-rodriguez-2476379",
-          "sources": [
-            {
-              "source": "admin",
-              "id": "ppv-ufc-fight-night-medi-vs-rodriguez"
-            },
-            {
-              "source": "delta",
-              "id": "live-event_ufc-fight-night-belgrade-live-stream"
-            },
-            {
-              "source": "golf",
-              "id": "24097"
-            }
-          ],
-          "popular": true
-        },
-        "generated_poster": "output/images/ufc-fight-night-283-medi--vs-rodriguez-2476379.png"
-      },
-      {
-        "id": "pierce-o-leary-vs-mark-chamberlain-2483553",
-        "slug": "pierce-o-leary-vs-mark-chamberlain-2483553",
-        "title": "Pierce O'Leary vs Mark Chamberlain",
-        "category": "combat sports",
-        "sport": "combat sports",
-        "league": "",
-        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjFAgSIKPDBIQvEFhBnEMENO1mr2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
-        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjFAgSIKPDBIQvEFhBnEMENO1mr2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
-        "date": 1785600000000,
-        "kickoffMs": 1785600000000,
-        "endTimeMs": 1785621600000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [
-          {
-            "server": "English HD",
-            "url": "https://embed.st/embed/delta/live-event_pierce-o-leary-vs-mark-chamberlain-live-stream/1",
-            "hd": true,
-            "language": "English",
-            "streamNo": 1,
-            "fromStreamedPk": true
-          }
-        ],
-        "sources": [
-          {
-            "source": "delta",
-            "id": "live-event_pierce-o-leary-vs-mark-chamberlain-live-stream"
-          },
-          {
-            "source": "golf",
-            "id": "24100"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": true,
-        "teams": {
-          "home": {
-            "name": "Pierce O'Leary",
-            "badge": null
-          },
-          "away": {
-            "name": "Mark Chamberlain",
-            "badge": null
-          }
-        },
-        "_streamedData": {
-          "id": "pierce-o-leary-vs-mark-chamberlain-2483553",
-          "sources": [
-            {
-              "source": "delta",
-              "id": "live-event_pierce-o-leary-vs-mark-chamberlain-live-stream"
-            },
-            {
-              "source": "golf",
-              "id": "24100"
-            }
-          ],
-          "popular": true
-        },
-        "generated_poster": "output/images/pierce-o-leary-vs-mark-chamberlain-2483553.png"
-      },
-      {
-        "id": "oktagon-92-szabov--vs-pudilov--2475855",
-        "slug": "oktagon-92-szabov--vs-pudilov--2475855",
-        "title": "Oktagon 92 Szabová vs Pudilová",
-        "category": "combat sports",
-        "sport": "combat sports",
-        "league": "",
-        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdjhyyx9FCF4gsIYyRCmDEEIiOT8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp",
-        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdjhyyx9FCF4gsIYyRCmDEEIiOT8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp",
-        "date": 1785601800000,
-        "kickoffMs": 1785601800000,
-        "endTimeMs": 1785623400000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [
-          {
-            "server": "English - OKTAGON.TV HD",
-            "url": "https://embed.st/embed/admin/ppv-oktagon-92-szabov-vs-pudilov/1",
-            "hd": true,
-            "language": "English - OKTAGON.TV",
-            "streamNo": 1,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "English - OKTAGON.TV SD",
-            "url": "https://embed.st/embed/admin/ppv-oktagon-92-szabov-vs-pudilov/2",
-            "hd": false,
-            "language": "English - OKTAGON.TV",
-            "streamNo": 2,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "German - OKTAGON.TV HD",
-            "url": "https://embed.st/embed/admin/ppv-oktagon-92-szabov-vs-pudilov/3",
-            "hd": true,
-            "language": "German - OKTAGON.TV",
-            "streamNo": 3,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "German - OKTAGON.TV SD",
-            "url": "https://embed.st/embed/admin/ppv-oktagon-92-szabov-vs-pudilov/4",
-            "hd": false,
-            "language": "German - OKTAGON.TV",
-            "streamNo": 4,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "Czech - OKTAGON.TV HD",
-            "url": "https://embed.st/embed/admin/ppv-oktagon-92-szabov-vs-pudilov/5",
-            "hd": true,
-            "language": "Czech - OKTAGON.TV",
-            "streamNo": 5,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "Czech - OKTAGON.TV SD",
-            "url": "https://embed.st/embed/admin/ppv-oktagon-92-szabov-vs-pudilov/6",
-            "hd": false,
-            "language": "Czech - OKTAGON.TV",
-            "streamNo": 6,
-            "fromStreamedPk": true
-          }
-        ],
-        "sources": [
-          {
-            "source": "admin",
-            "id": "ppv-oktagon-92-szabov-vs-pudilov"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": true,
-        "teams": {
-          "home": {
-            "name": "Oktagon 92 Szabová",
-            "badge": null
-          },
-          "away": {
-            "name": "Pudilová",
-            "badge": null
-          }
-        },
-        "_streamedData": {
-          "id": "oktagon-92-szabov--vs-pudilov--2475855",
-          "sources": [
-            {
-              "source": "admin",
-              "id": "ppv-oktagon-92-szabov-vs-pudilov"
-            }
-          ],
-          "popular": true
-        },
-        "generated_poster": "output/images/oktagon-92-szabov--vs-pudilov--2475855.png"
-      },
-      {
-        "id": "24101",
-        "slug": "24101",
-        "title": "BKFC Fight Night Garside - Taylor",
-        "category": "combat sports",
-        "sport": "combat sports",
-        "league": "",
-        "poster": null,
-        "thumbnail": null,
-        "date": 1785607200000,
-        "kickoffMs": 1785607200000,
-        "endTimeMs": 1785628800000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [
-          {
-            "server": "English HD",
-            "url": "https://embed.st/embed/golf/24101/1",
-            "hd": true,
-            "language": "English",
-            "streamNo": 1,
-            "fromStreamedPk": true
-          }
-        ],
-        "sources": [
-          {
-            "source": "golf",
-            "id": "24101"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": true,
-        "teams": {
-          "home": {
-            "name": "BKFC Fight Night Garside",
-            "badge": null
-          },
-          "away": {
-            "name": "Taylor",
-            "badge": null
-          }
-        },
-        "_streamedData": {
-          "id": "24101",
-          "sources": [
-            {
-              "source": "golf",
-              "id": "24101"
-            }
-          ],
-          "popular": true
-        },
-        "generated_poster": "output/images/24101.png"
-      },
-      {
-        "id": "24099",
-        "slug": "24099",
-        "title": "Roach Jr - Zepede",
-        "category": "combat sports",
-        "sport": "combat sports",
-        "league": "",
-        "poster": null,
-        "thumbnail": null,
-        "date": 1785618000000,
-        "kickoffMs": 1785618000000,
-        "endTimeMs": 1785639600000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [
-          {
-            "server": "English HD",
-            "url": "https://embed.st/embed/golf/24099/1",
-            "hd": true,
-            "language": "English",
-            "streamNo": 1,
-            "fromStreamedPk": true
-          }
-        ],
-        "sources": [
-          {
-            "source": "golf",
-            "id": "24099"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": true,
-        "teams": {
-          "home": {
-            "name": "Roach Jr",
-            "badge": null
-          },
-          "away": {
-            "name": "Zepede",
-            "badge": null
-          }
-        },
-        "_streamedData": {
-          "id": "24099",
-          "sources": [
-            {
-              "source": "golf",
-              "id": "24099"
-            }
-          ],
-          "popular": true
-        },
-        "generated_poster": "output/images/24099.png"
-      },
-      {
-        "id": "ppv-wwe-summer-slam-night-1",
-        "slug": "ppv-wwe-summer-slam-night-1",
-        "title": "WWE SummerSlam | Night 1",
-        "category": "combat sports",
-        "sport": "combat sports",
-        "league": "",
-        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjAaEaSBQgAxuOnAIIKbKohtMHdnkgjehTFJKQ65SSXmjw7CnKyBQkU2z0whYElyKnITBuTlkHMicCSXJgtVI1IA.webp",
-        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjAaEaSBQgAxuOnAIIKbKohtMHdnkgjehTFJKQ65SSXmjw7CnKyBQkU2z0whYElyKnITBuTlkHMicCSXJgtVI1IA.webp",
-        "date": 1785621600000,
-        "kickoffMs": 1785621600000,
-        "endTimeMs": 1785643200000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [
-          {
-            "server": "English - ESPN Unlimited HD",
-            "url": "https://embed.st/embed/admin/ppv-wwe-summer-slam-night-1/1",
-            "hd": true,
-            "language": "English - ESPN Unlimited",
-            "streamNo": 1,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "English - ESPN Unlimited SD",
-            "url": "https://embed.st/embed/admin/ppv-wwe-summer-slam-night-1/2",
-            "hd": false,
-            "language": "English - ESPN Unlimited",
-            "streamNo": 2,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "Spanish - ESPN Unlimited HD",
-            "url": "https://embed.st/embed/admin/ppv-wwe-summer-slam-night-1/3",
-            "hd": true,
-            "language": "Spanish - ESPN Unlimited",
-            "streamNo": 3,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "Spanish - ESPN Unlimited SD",
-            "url": "https://embed.st/embed/admin/ppv-wwe-summer-slam-night-1/4",
-            "hd": false,
-            "language": "Spanish - ESPN Unlimited",
-            "streamNo": 4,
-            "fromStreamedPk": true
-          }
-        ],
-        "sources": [
-          {
-            "source": "admin",
-            "id": "ppv-wwe-summer-slam-night-1"
-          },
-          {
-            "source": "golf",
-            "id": "24098"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": true,
-        "teams": null,
-        "_streamedData": {
-          "id": "ppv-wwe-summer-slam-night-1",
-          "sources": [
-            {
-              "source": "admin",
-              "id": "ppv-wwe-summer-slam-night-1"
-            },
-            {
-              "source": "golf",
-              "id": "24098"
-            }
-          ],
-          "popular": true
-        },
-        "generated_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjAaEaSBQgAxuOnAIIKbKohtMHdnkgjehTFJKQ65SSXmjw7CnKyBQkU2z0whYElyKnITBuTlkHMicCSXJgtVI1IA.webp"
-      },
-      {
-        "id": "ppv-aew-saturday-night-collision",
-        "slug": "ppv-aew-saturday-night-collision",
-        "title": "AEW: Saturday Night Collision",
-        "category": "combat sports",
-        "sport": "combat sports",
-        "league": "",
-        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRDCQKESCwi5VEAGMZwCBpCSsIRPGCIQ2xcOznNiM4k3TdvcpoFDFBc7LCFgSXCtlCwbk5bUno3AzBAjVCIIA.webp",
-        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRDCQKESCwi5VEAGMZwCBpCSsIRPGCIQ2xcOznNiM4k3TdvcpoFDFBc7LCFgSXCtlCwbk5bUno3AzBAjVCIIA.webp",
-        "date": 1785628800000,
-        "kickoffMs": 1785628800000,
-        "endTimeMs": 1785650400000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [
-          {
-            "server": "English - TNT HD",
-            "url": "https://embed.st/embed/admin/ppv-aew-saturday-night-collision/1",
-            "hd": true,
-            "language": "English - TNT",
-            "streamNo": 1,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "English - TNT SD",
-            "url": "https://embed.st/embed/admin/ppv-aew-saturday-night-collision/2",
-            "hd": false,
-            "language": "English - TNT",
+            "language": "Czech - Oneplay Sport 1",
             "streamNo": 2,
             "fromStreamedPk": true
           }
@@ -526,89 +37,7 @@
         "sources": [
           {
             "source": "admin",
-            "id": "ppv-aew-saturday-night-collision"
-          },
-          {
-            "source": "echo",
-            "id": "aew-saturday-night-collision-aew-1"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": true,
-        "teams": null,
-        "_streamedData": {
-          "id": "ppv-aew-saturday-night-collision",
-          "sources": [
-            {
-              "source": "admin",
-              "id": "ppv-aew-saturday-night-collision"
-            },
-            {
-              "source": "echo",
-              "id": "aew-saturday-night-collision-aew-1"
-            }
-          ],
-          "popular": true
-        },
-        "generated_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRDCQKESCwi5VEAGMZwCBpCSsIRPGCIQ2xcOznNiM4k3TdvcpoFDFBc7LCFgSXCtlCwbk5bUno3AzBAjVCIIA.webp"
-      },
-      {
-        "id": "lamont-roach-jr--vs-william-zepeda-2483555",
-        "slug": "lamont-roach-jr--vs-william-zepeda-2483555",
-        "title": "Lamont Roach Jr. vs William Zepeda",
-        "category": "combat sports",
-        "sport": "combat sports",
-        "league": "",
-        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrSTyQIBiBgheILDpCID0kJZIgUIEiyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp",
-        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrSTyQIBiBgheILDpCID0kJZIgUIEiyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp",
-        "date": 1785628800000,
-        "kickoffMs": 1785628800000,
-        "endTimeMs": 1785650400000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [
-          {
-            "server": "English - TNT HD",
-            "url": "https://embed.st/embed/admin/ppv-roach-jr-vs-zepeda/1",
-            "hd": true,
-            "language": "English - TNT",
-            "streamNo": 1,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "English - TNT SD",
-            "url": "https://embed.st/embed/admin/ppv-roach-jr-vs-zepeda/2",
-            "hd": false,
-            "language": "English - TNT",
-            "streamNo": 2,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "English - DAZN HD",
-            "url": "https://embed.st/embed/admin/ppv-roach-jr-vs-zepeda/3",
-            "hd": true,
-            "language": "English - DAZN",
-            "streamNo": 3,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "English - DAZN SD",
-            "url": "https://embed.st/embed/admin/ppv-roach-jr-vs-zepeda/4",
-            "hd": false,
-            "language": "English - DAZN",
-            "streamNo": 4,
-            "fromStreamedPk": true
-          }
-        ],
-        "sources": [
-          {
-            "source": "admin",
-            "id": "ppv-roach-jr-vs-zepeda"
-          },
-          {
-            "source": "delta",
-            "id": "live-event_lamont-roach-vs-william-zepeda-live-stream"
+            "id": "ppv-ban-k-ostrava-vs-slavia-prague"
           }
         ],
         "embedUrl": null,
@@ -616,353 +45,37 @@
         "popular": true,
         "teams": {
           "home": {
-            "name": "Lamont Roach Jr.",
-            "badge": null
+            "name": "Baník Ostrava",
+            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQhuFFMCQgIakABMQq7jr2qYIS3wIUm1rmDLwi80Zqa0wjsaIhA.webp"
           },
           "away": {
-            "name": "William Zepeda",
-            "badge": null
+            "name": "Slavia Prague",
+            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAgBABmCr6+ENzUgSIFLkOn9iFAQpM+KLmDLwi80faa0wjsaIhA.webp"
           }
         },
         "_streamedData": {
-          "id": "lamont-roach-jr--vs-william-zepeda-2483555",
+          "id": "ban-k-ostrava-vs-slavia-prague-2497735",
           "sources": [
             {
               "source": "admin",
-              "id": "ppv-roach-jr-vs-zepeda"
-            },
-            {
-              "source": "delta",
-              "id": "live-event_lamont-roach-vs-william-zepeda-live-stream"
+              "id": "ppv-ban-k-ostrava-vs-slavia-prague"
             }
           ],
           "popular": true
         },
-        "generated_poster": "output/images/lamont-roach-jr--vs-william-zepeda-2483555.png"
+        "generated_poster": "output/images/ban-k-ostrava-vs-slavia-prague-2497735.png"
       },
       {
-        "id": "ppv-wwe-summer-slam-night-2",
-        "slug": "ppv-wwe-summer-slam-night-2",
-        "title": "WWE SummerSlam | Night 2",
-        "category": "combat sports",
-        "sport": "combat sports",
-        "league": "",
-        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjAaEaSBQgAxuOnAIIKbKohtMHdnkgjehTFJKQ65SSXmjw7CnKyBQkU2z0whYElyKnITBuTlkHMicCSXJgtVI1IA.webp",
-        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjAaEaSBQgAxuOnAIIKbKohtMHdnkgjehTFJKQ65SSXmjw7CnKyBQkU2z0whYElyKnITBuTlkHMicCSXJgtVI1IA.webp",
-        "date": 1785708000000,
-        "kickoffMs": 1785708000000,
-        "endTimeMs": 1785729600000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [
-          {
-            "server": "English - ESPN Unlimited HD",
-            "url": "https://embed.st/embed/admin/ppv-wwe-summer-slam-night-2/1",
-            "hd": true,
-            "language": "English - ESPN Unlimited",
-            "streamNo": 1,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "English - ESPN Unlimited SD",
-            "url": "https://embed.st/embed/admin/ppv-wwe-summer-slam-night-2/2",
-            "hd": false,
-            "language": "English - ESPN Unlimited",
-            "streamNo": 2,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "Spanish - ESPN Unlimited HD",
-            "url": "https://embed.st/embed/admin/ppv-wwe-summer-slam-night-2/3",
-            "hd": true,
-            "language": "Spanish - ESPN Unlimited",
-            "streamNo": 3,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "Spanish - ESPN Unlimited SD",
-            "url": "https://embed.st/embed/admin/ppv-wwe-summer-slam-night-2/4",
-            "hd": false,
-            "language": "Spanish - ESPN Unlimited",
-            "streamNo": 4,
-            "fromStreamedPk": true
-          }
-        ],
-        "sources": [
-          {
-            "source": "admin",
-            "id": "ppv-wwe-summer-slam-night-2"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": true,
-        "teams": null,
-        "_streamedData": {
-          "id": "ppv-wwe-summer-slam-night-2",
-          "sources": [
-            {
-              "source": "admin",
-              "id": "ppv-wwe-summer-slam-night-2"
-            }
-          ],
-          "popular": true
-        },
-        "generated_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjAaEaSBQgAxuOnAIIKbKohtMHdnkgjehTFJKQ65SSXmjw7CnKyBQkU2z0whYElyKnITBuTlkHMicCSXJgtVI1IA.webp"
-      },
-      {
-        "id": "live-event_pfl-charlotte-battle-vs-rosta-live-stream",
-        "slug": "live-event_pfl-charlotte-battle-vs-rosta-live-stream",
-        "title": "PFL Charlotte: Battle vs Rosta",
-        "category": "combat sports",
-        "sport": "combat sports",
+        "id": "hamburg-vs-everton-2521760",
+        "slug": "hamburg-vs-everton-2521760",
+        "title": "Hamburg vs Everton",
+        "category": "football",
+        "sport": "football",
         "league": "",
         "poster": null,
         "thumbnail": null,
-        "date": 1786143600000,
-        "kickoffMs": 1786143600000,
-        "endTimeMs": 1786165200000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [],
-        "sources": [
-          {
-            "source": "delta",
-            "id": "live-event_pfl-charlotte-battle-vs-rosta-live-stream"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": false,
-        "teams": {
-          "home": {
-            "name": "Battle",
-            "badge": null
-          },
-          "away": {
-            "name": "Rosta",
-            "badge": null
-          }
-        },
-        "_streamedData": {
-          "id": "live-event_pfl-charlotte-battle-vs-rosta-live-stream",
-          "sources": [
-            {
-              "source": "delta",
-              "id": "live-event_pfl-charlotte-battle-vs-rosta-live-stream"
-            }
-          ],
-          "popular": false
-        },
-        "generated_poster": "output/images/live-event_pfl-charlotte-battle-vs-rosta-live-stream.png"
-      },
-      {
-        "id": "live-event_david-nyika-vs-floyd-masson-live-stream",
-        "slug": "live-event_david-nyika-vs-floyd-masson-live-stream",
-        "title": "David Nyika vs Floyd Masson",
-        "category": "combat sports",
-        "sport": "combat sports",
-        "league": "",
-        "poster": null,
-        "thumbnail": null,
-        "date": 1786176000000,
-        "kickoffMs": 1786176000000,
-        "endTimeMs": 1786197600000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [],
-        "sources": [
-          {
-            "source": "delta",
-            "id": "live-event_david-nyika-vs-floyd-masson-live-stream"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": false,
-        "teams": null,
-        "_streamedData": {
-          "id": "live-event_david-nyika-vs-floyd-masson-live-stream",
-          "sources": [
-            {
-              "source": "delta",
-              "id": "live-event_david-nyika-vs-floyd-masson-live-stream"
-            }
-          ],
-          "popular": false
-        },
-        "generated_poster": null
-      },
-      {
-        "id": "live-event_ufc-fight-night-gamrot-vs-salkilld-live-stream",
-        "slug": "live-event_ufc-fight-night-gamrot-vs-salkilld-live-stream",
-        "title": "UFC Fight Night: Gamrot vs Salkilld",
-        "category": "combat sports",
-        "sport": "combat sports",
-        "league": "",
-        "poster": null,
-        "thumbnail": null,
-        "date": 1786212000000,
-        "kickoffMs": 1786212000000,
-        "endTimeMs": 1786233600000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [],
-        "sources": [
-          {
-            "source": "delta",
-            "id": "live-event_ufc-fight-night-gamrot-vs-salkilld-live-stream"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": false,
-        "teams": {
-          "home": {
-            "name": "Gamrot",
-            "badge": null
-          },
-          "away": {
-            "name": "Salkilld",
-            "badge": null
-          }
-        },
-        "_streamedData": {
-          "id": "live-event_ufc-fight-night-gamrot-vs-salkilld-live-stream",
-          "sources": [
-            {
-              "source": "delta",
-              "id": "live-event_ufc-fight-night-gamrot-vs-salkilld-live-stream"
-            }
-          ],
-          "popular": false
-        },
-        "generated_poster": "output/images/live-event_ufc-fight-night-gamrot-vs-salkilld-live-stream.png"
-      },
-      {
-        "id": "live-event_troy-williamson-vs-callum-simpson-live-stream",
-        "slug": "live-event_troy-williamson-vs-callum-simpson-live-stream",
-        "title": "Troy Williamson vs Callum Simpson",
-        "category": "combat sports",
-        "sport": "combat sports",
-        "league": "",
-        "poster": null,
-        "thumbnail": null,
-        "date": 1786212000000,
-        "kickoffMs": 1786212000000,
-        "endTimeMs": 1786233600000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [],
-        "sources": [
-          {
-            "source": "delta",
-            "id": "live-event_troy-williamson-vs-callum-simpson-live-stream"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": false,
-        "teams": null,
-        "_streamedData": {
-          "id": "live-event_troy-williamson-vs-callum-simpson-live-stream",
-          "sources": [
-            {
-              "source": "delta",
-              "id": "live-event_troy-williamson-vs-callum-simpson-live-stream"
-            }
-          ],
-          "popular": false
-        },
-        "generated_poster": null
-      },
-      {
-        "id": "live-event_aaron-mckenna-vs-etinosa-oliha-live-stream",
-        "slug": "live-event_aaron-mckenna-vs-etinosa-oliha-live-stream",
-        "title": "Aaron McKenna vs Etinosa Oliha",
-        "category": "combat sports",
-        "sport": "combat sports",
-        "league": "",
-        "poster": null,
-        "thumbnail": null,
-        "date": 1786212000000,
-        "kickoffMs": 1786212000000,
-        "endTimeMs": 1786233600000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [],
-        "sources": [
-          {
-            "source": "delta",
-            "id": "live-event_aaron-mckenna-vs-etinosa-oliha-live-stream"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": false,
-        "teams": null,
-        "_streamedData": {
-          "id": "live-event_aaron-mckenna-vs-etinosa-oliha-live-stream",
-          "sources": [
-            {
-              "source": "delta",
-              "id": "live-event_aaron-mckenna-vs-etinosa-oliha-live-stream"
-            }
-          ],
-          "popular": false
-        },
-        "generated_poster": null
-      },
-      {
-        "id": "live-event_cherneka-johnson-vs-dina-thorslund-live-stream",
-        "slug": "live-event_cherneka-johnson-vs-dina-thorslund-live-stream",
-        "title": "Cherneka Johnson vs Dina Thorslund",
-        "category": "combat sports",
-        "sport": "combat sports",
-        "league": "",
-        "poster": null,
-        "thumbnail": null,
-        "date": 1786240800000,
-        "kickoffMs": 1786240800000,
-        "endTimeMs": 1786262400000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [],
-        "sources": [
-          {
-            "source": "delta",
-            "id": "live-event_cherneka-johnson-vs-dina-thorslund-live-stream"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": false,
-        "teams": null,
-        "_streamedData": {
-          "id": "live-event_cherneka-johnson-vs-dina-thorslund-live-stream",
-          "sources": [
-            {
-              "source": "delta",
-              "id": "live-event_cherneka-johnson-vs-dina-thorslund-live-stream"
-            }
-          ],
-          "popular": false
-        },
-        "generated_poster": null
-      }
-    ],
-    "rugby": [
-      {
-        "id": "castleford-tigers-vs-warrington-wolves-2395985",
-        "slug": "castleford-tigers-vs-warrington-wolves-2395985",
-        "title": "Castleford Tigers vs Warrington Wolves",
-        "category": "rugby",
-        "sport": "rugby",
-        "league": "",
-        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJOVF8wKYAAYQ3EHxBSQJEJcuJEKYwWAaY-YbPoowK3W0-l6WWV0mWjBPMVEIIA.webp",
-        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJOVF8wKYAAYQ3EHxBSQJEJcuJEKYwWAaY-YbPoowK3W0-l6WWV0mWjBPMVEIIA.webp",
-        "date": 1785592800000,
-        "kickoffMs": 1785592800000,
+        "date": 1785596400000,
+        "kickoffMs": 1785596400000,
         "endTimeMs": 1785607200000,
         "isLive": true,
         "status": "live",
@@ -970,273 +83,53 @@
         "sources": [
           {
             "source": "echo",
-            "id": "castleford-tigers-vs-warrington-wolves-game-182283"
+            "id": "hamburger-sv-vs-everton-game-2787886"
           }
         ],
         "embedUrl": null,
         "source": "streamed",
-        "popular": true,
+        "popular": false,
         "teams": {
           "home": {
-            "name": "Castleford Tigers",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzJlu0FCC3cQfEABMQOnYYghEe5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+            "name": "Hamburg",
+            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLAATaHDgQQ3ENr4hE2kodwgUIVQQpM+KLmDLwi80faa0wjsaIhA.webp"
           },
           "away": {
-            "name": "Warrington Wolves",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplq8UXJMAAMIbiAAmIEgZB8Q5lCb36CFJn3VswZeEXmj1TWmGdjREIA.webp"
+            "name": "Everton",
+            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzK9uYFNmAATENxAlcIRPpAgIIPiBTmCFJnxRcwZeEXminTWmBdjREEA.webp"
           }
         },
         "_streamedData": {
-          "id": "castleford-tigers-vs-warrington-wolves-2395985",
+          "id": "hamburg-vs-everton-2521760",
           "sources": [
             {
               "source": "echo",
-              "id": "castleford-tigers-vs-warrington-wolves-game-182283"
+              "id": "hamburger-sv-vs-everton-game-2787886"
             }
           ],
-          "popular": true
+          "popular": false
         },
-        "generated_poster": "output/images/castleford-tigers-vs-warrington-wolves-2395985.png"
+        "generated_poster": "output/images/hamburg-vs-everton-2521760.png"
       },
       {
-        "id": "york-city-knights-vs-st-helens-2395986",
-        "slug": "york-city-knights-vs-st-helens-2395986",
-        "title": "York City Knights vs St Helens",
-        "category": "rugby",
-        "sport": "rugby",
-        "league": "",
-        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLKDBTc-ECRDcQfENv0hzIRBBAw9BYEgp9hs+ijAqUXD+XobRXky0YB5iohBAA.webp",
-        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLKDBTc-ECRDcQfENv0hzIRBBAw9BYEgp9hs+ijAqUXD+XobRXky0YB5iohBAA.webp",
-        "date": 1785601800000,
-        "kickoffMs": 1785601800000,
-        "endTimeMs": 1785616200000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [],
-        "sources": [
-          {
-            "source": "echo",
-            "id": "york-knights-vs-st-helens-game-184842"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": true,
-        "teams": {
-          "home": {
-            "name": "York City Knights",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIoQAgAzAAJghDd1IEiDXajIC4gggIBCkz4ouYMvCLzRTprTAuxoiCA.webp"
-          },
-          "away": {
-            "name": "St Helens",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCVgYQbT4huIbTBAATI7hAGQeswQpM+KLmDLwi80faa0wjsaIhA.webp"
-          }
-        },
-        "_streamedData": {
-          "id": "york-city-knights-vs-st-helens-2395986",
-          "sources": [
-            {
-              "source": "echo",
-              "id": "york-knights-vs-st-helens-game-184842"
-            }
-          ],
-          "popular": true
-        },
-        "generated_poster": "output/images/york-city-knights-vs-st-helens-2395986.png"
-      },
-      {
-        "id": "catalans-dragons-vs-wakefield-trinity-wildcats-2395987",
-        "slug": "catalans-dragons-vs-wakefield-trinity-wildcats-2395987",
-        "title": "Catalans Dragons vs Wakefield Trinity Wildcats",
-        "category": "rugby",
-        "sport": "rugby",
-        "league": "",
-        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHFn7EmibiD4gpIEiFOnEEEHsbAkFPsNn0UYFSi6vy9TaPc7gYK5iohBAA.webp",
-        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHFn7EmibiD4gpIEiFOnEEEHsbAkFPsNn0UYFSi6vy9TaPc7gYK5iohBAA.webp",
-        "date": 1785610800000,
-        "kickoffMs": 1785610800000,
-        "endTimeMs": 1785625200000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [],
-        "sources": [
-          {
-            "source": "echo",
-            "id": "catalans-dragons-vs-wakefield-trinity-game-37322"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": true,
-        "teams": {
-          "home": {
-            "name": "Catalans Dragons",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOoATMOBQaQ3EBFwhVIFCER8D+5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-          },
-          "away": {
-            "name": "Wakefield Trinity Wildcats",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBIQIYGu5gSIbiD4gYR3KYjqLEAhSZ8UXHeXrzR9prTA6xoiEA.webp"
-          }
-        },
-        "_streamedData": {
-          "id": "catalans-dragons-vs-wakefield-trinity-wildcats-2395987",
-          "sources": [
-            {
-              "source": "echo",
-              "id": "catalans-dragons-vs-wakefield-trinity-game-37322"
-            }
-          ],
-          "popular": true
-        },
-        "generated_poster": "output/images/catalans-dragons-vs-wakefield-trinity-wildcats-2395987.png"
-      },
-      {
-        "id": "cronulla-sharks-vs-south-sydney-rabbitohs-2417332",
-        "slug": "cronulla-sharks-vs-south-sydney-rabbitohs-2417332",
-        "title": "Cronulla Sharks vs South Sydney Rabbitohs",
-        "category": "rugby",
-        "sport": "rugby",
-        "league": "",
-        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJJBD0NUsCBDcQfEFP0gSBkIghajBYBpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJJBD0NUsCBDcQfEFP0gSBkIghajBYBpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "date": 1785643200000,
-        "kickoffMs": 1785643200000,
-        "endTimeMs": 1785657600000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [
-          {
-            "server": "English - Fox League HD",
-            "url": "https://embed.st/embed/admin/ppv-sharks-vs-rabbitohs/1",
-            "hd": true,
-            "language": "English - Fox League",
-            "streamNo": 1,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "English - Fox League SD",
-            "url": "https://embed.st/embed/admin/ppv-sharks-vs-rabbitohs/2",
-            "hd": false,
-            "language": "English - Fox League",
-            "streamNo": 2,
-            "fromStreamedPk": true
-          }
-        ],
-        "sources": [
-          {
-            "source": "admin",
-            "id": "ppv-sharks-vs-rabbitohs"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": true,
-        "teams": {
-          "home": {
-            "name": "Cronulla Sharks",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl74QtNWRzcQJXbhAwQfdYZDmQBCkz4ouYMvCLzRdprTAOxoiEA.webp"
-          },
-          "away": {
-            "name": "South Sydney Rabbitohs",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAw2IKKMIwQ3ECX25VIPkYAmJkwQpM+KLmDLwi80faa0wjsaIhA.webp"
-          }
-        },
-        "_streamedData": {
-          "id": "cronulla-sharks-vs-south-sydney-rabbitohs-2417332",
-          "sources": [
-            {
-              "source": "admin",
-              "id": "ppv-sharks-vs-rabbitohs"
-            }
-          ],
-          "popular": true
-        },
-        "generated_poster": "output/images/cronulla-sharks-vs-south-sydney-rabbitohs-2417332.png"
-      },
-      {
-        "id": "wests-tigers-vs-parramatta-eels-2417333",
-        "slug": "wests-tigers-vs-parramatta-eels-2417333",
-        "title": "Wests Tigers vs Parramatta Eels",
-        "category": "rugby",
-        "sport": "rugby",
-        "league": "",
-        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rULxlYKaENxB8QUkCZJ6QiCCDONgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rULxlYKaENxB8QUkCZJ6QiCCDONgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "date": 1785650700000,
-        "kickoffMs": 1785650700000,
-        "endTimeMs": 1785665100000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [
-          {
-            "server": "English - Fox League HD",
-            "url": "https://embed.st/embed/admin/ppv-wests-tigers-vs-eels/1",
-            "hd": true,
-            "language": "English - Fox League",
-            "streamNo": 1,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "English - Fox League SD",
-            "url": "https://embed.st/embed/admin/ppv-wests-tigers-vs-eels/2",
-            "hd": false,
-            "language": "English - Fox League",
-            "streamNo": 2,
-            "fromStreamedPk": true
-          }
-        ],
-        "sources": [
-          {
-            "source": "admin",
-            "id": "ppv-wests-tigers-vs-eels"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": true,
-        "teams": {
-          "home": {
-            "name": "Wests Tigers",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3gIQAE3Ybg6kNw0gIBxEb4hzKQwQpM+KLmDKr680faa0wjsaIhA.webp"
-          },
-          "away": {
-            "name": "Parramatta Eels",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBkoAEy7dcIbepAQQ+xIb4hzh9QQpM+KLmDLwi80faa0wjsaIhA.webp"
-          }
-        },
-        "_streamedData": {
-          "id": "wests-tigers-vs-parramatta-eels-2417333",
-          "sources": [
-            {
-              "source": "admin",
-              "id": "ppv-wests-tigers-vs-eels"
-            }
-          ],
-          "popular": true
-        },
-        "generated_poster": "output/images/wests-tigers-vs-parramatta-eels-2417333.png"
-      }
-    ],
-    "football": [
-      {
-        "id": "middlesbrough-vs-espanyol-2482891",
-        "slug": "middlesbrough-vs-espanyol-2482891",
-        "title": "Middlesbrough vs Espanyol",
+        "id": "rio-ave-vs-tondela-2521719",
+        "slug": "rio-ave-vs-tondela-2521719",
+        "title": "Rio Ave vs Tondela",
         "category": "football",
         "sport": "football",
         "league": "",
         "poster": null,
         "thumbnail": null,
-        "date": 1785592800000,
-        "kickoffMs": 1785592800000,
-        "endTimeMs": 1785603600000,
+        "date": 1785594600000,
+        "kickoffMs": 1785594600000,
+        "endTimeMs": 1785605400000,
         "isLive": true,
         "status": "live",
         "iframes": [],
         "sources": [
           {
             "source": "echo",
-            "id": "middlesbrough-vs-espanyol-gameas-131"
+            "id": "rio-ave-vs-tondela-game-311111"
           }
         ],
         "embedUrl": null,
@@ -1244,71 +137,25 @@
         "popular": false,
         "teams": {
           "home": {
-            "name": "Middlesbrough",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh15QAJsCT8QfENx0hDMEMbWGQKE7gIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+            "name": "Rio Ave",
+            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyYD5ABmBgw3ELoAmuEMeMk9RxCgIVVKLmDLwi80Xaa1toqXSA.webp"
           },
           "away": {
-            "name": "Espanyol",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqAJiAGEkYJCG4gNqg3xAwQiHFYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+            "name": "Tondela",
+            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzQgBhXgBNgmkNxC6cIYyBIGQMExMIxgTPii5gy8IvNGOmtMM7GiIQA.webp"
           }
         },
         "_streamedData": {
-          "id": "middlesbrough-vs-espanyol-2482891",
+          "id": "rio-ave-vs-tondela-2521719",
           "sources": [
             {
               "source": "echo",
-              "id": "middlesbrough-vs-espanyol-gameas-131"
+              "id": "rio-ave-vs-tondela-game-311111"
             }
           ],
           "popular": false
         },
-        "generated_poster": "output/images/middlesbrough-vs-espanyol-2482891.png"
-      },
-      {
-        "id": "tranmere-rovers-vs-rochdale-2491635",
-        "slug": "tranmere-rovers-vs-rochdale-2491635",
-        "title": "Tranmere Rovers vs Rochdale",
-        "category": "football",
-        "sport": "football",
-        "league": "",
-        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGUhwKhCF4gs2-YZNGjBxfmBIKWEXMYowqlDxflG1OW+v0wLuJiEEA.webp",
-        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGUhwKhCF4gs2-YZNGjBxfmBIKWEXMYowqlDxflG1OW+v0wLuJiEEA.webp",
-        "date": 1785592800000,
-        "kickoffMs": 1785592800000,
-        "endTimeMs": 1785603600000,
-        "isLive": true,
-        "status": "live",
-        "iframes": [],
-        "sources": [
-          {
-            "source": "echo",
-            "id": "tranmere-vs-rochdale-football-1554097"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": false,
-        "teams": {
-          "home": {
-            "name": "Tranmere Rovers",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh15oQJXGHAQQ3EABNcB3SBSmQfEFYmEYwJnxRcwZeEXminTWmBdjREEA.webp"
-          },
-          "away": {
-            "name": "Rochdale",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjLcwfdWHA5uICLj0gYIRDhIgAJiAmEYwJnxRcwZeEXminTWmBdjREEA.webp"
-          }
-        },
-        "_streamedData": {
-          "id": "tranmere-rovers-vs-rochdale-2491635",
-          "sources": [
-            {
-              "source": "echo",
-              "id": "tranmere-vs-rochdale-football-1554097"
-            }
-          ],
-          "popular": false
-        },
-        "generated_poster": "output/images/tranmere-rovers-vs-rochdale-2491635.png"
+        "generated_poster": "output/images/rio-ave-vs-tondela-2521719.png"
       },
       {
         "id": "falkirk-vs-st-mirren-2494411",
@@ -1382,52 +229,6 @@
         "generated_poster": "output/images/falkirk-vs-st-mirren-2494411.png"
       },
       {
-        "id": "cardiff-city-vs-roma-2521739",
-        "slug": "cardiff-city-vs-roma-2521739",
-        "title": "Cardiff City vs Roma",
-        "category": "football",
-        "sport": "football",
-        "league": "",
-        "poster": null,
-        "thumbnail": null,
-        "date": 1785592800000,
-        "kickoffMs": 1785592800000,
-        "endTimeMs": 1785603600000,
-        "isLive": true,
-        "status": "live",
-        "iframes": [],
-        "sources": [
-          {
-            "source": "echo",
-            "id": "cardiff-city-vs-as-roma-game-415151"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": false,
-        "teams": {
-          "home": {
-            "name": "Cardiff City",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBQU0OBBDcQWrSAMgYhnAeWEYwJnxRcwZeEXmjbTWmHtjREIA.webp"
-          },
-          "away": {
-            "name": "Roma",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRg+2SrgQhuIPiAAmIGCFM4TR-RAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-          }
-        },
-        "_streamedData": {
-          "id": "cardiff-city-vs-roma-2521739",
-          "sources": [
-            {
-              "source": "echo",
-              "id": "cardiff-city-vs-as-roma-game-415151"
-            }
-          ],
-          "popular": false
-        },
-        "generated_poster": "output/images/cardiff-city-vs-roma-2521739.png"
-      },
-      {
         "id": "manchester-united-vs-atl-tico-madrid-2467932",
         "slug": "manchester-united-vs-atl-tico-madrid-2467932",
         "title": "Manchester United vs Atlético Madrid",
@@ -1463,14 +264,6 @@
           {
             "source": "admin",
             "id": "ppv-manchester-united-vs-atl-tico-madrid"
-          },
-          {
-            "source": "delta",
-            "id": "live_club-friendly-games_man-utd-atl-madrid-live-streaming-597944592"
-          },
-          {
-            "source": "echo",
-            "id": "manchester-united-vs-atletico-madrid-game-6111"
           }
         ],
         "embedUrl": null,
@@ -1492,245 +285,11 @@
             {
               "source": "admin",
               "id": "ppv-manchester-united-vs-atl-tico-madrid"
-            },
-            {
-              "source": "delta",
-              "id": "live_club-friendly-games_man-utd-atl-madrid-live-streaming-597944592"
-            },
-            {
-              "source": "echo",
-              "id": "manchester-united-vs-atletico-madrid-game-6111"
             }
           ],
           "popular": true
         },
         "generated_poster": "output/images/manchester-united-vs-atl-tico-madrid-2467932.png"
-      },
-      {
-        "id": "magdeburg-vs-west-ham-united-2527447",
-        "slug": "magdeburg-vs-west-ham-united-2527447",
-        "title": "Magdeburg vs West Ham United",
-        "category": "football",
-        "sport": "football",
-        "league": "",
-        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKRBVxIYSETDgEufGxSQAY03qIIParm7EW-XpBYZWYNOlyYKchIFCRTbPTCFgSXBodCwbk5lUnoCYFUwQKVQiCA.webp",
-        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKRBVxIYSETDgEufGxSQAY03qIIParm7EW-XpBYZWYNOlyYKchIFCRTbPTCFgSXBodCwbk5lUnoCYFUwQKVQiCA.webp",
-        "date": 1785587400000,
-        "kickoffMs": 1785587400000,
-        "endTimeMs": 1785598200000,
-        "isLive": true,
-        "status": "live",
-        "iframes": [
-          {
-            "server": "English - West Ham TV HD",
-            "url": "https://embed.st/embed/admin/ppv-1-fc-magdeburg-vs-west-ham-united/1",
-            "hd": true,
-            "language": "English - West Ham TV",
-            "streamNo": 1,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "English - West Ham TV SD",
-            "url": "https://embed.st/embed/admin/ppv-1-fc-magdeburg-vs-west-ham-united/2",
-            "hd": false,
-            "language": "English - West Ham TV",
-            "streamNo": 2,
-            "fromStreamedPk": true
-          }
-        ],
-        "sources": [
-          {
-            "source": "admin",
-            "id": "ppv-1-fc-magdeburg-vs-west-ham-united"
-          },
-          {
-            "source": "echo",
-            "id": "magdeburg-vs-west-ham-united-gamefeg-1433"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": true,
-        "teams": {
-          "home": {
-            "name": "Magdeburg",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmuYCrBlwibiBIhEOEPpBqcelQQpM+KLlvL15o+01pgtY0RCA.webp"
-          },
-          "away": {
-            "name": "West Ham United",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRgyUVeETcQEEABMQfXSBIgU50wYIUmfFFzXl680Q6a0wasaIhA.webp"
-          }
-        },
-        "_streamedData": {
-          "id": "magdeburg-vs-west-ham-united-2527447",
-          "sources": [
-            {
-              "source": "admin",
-              "id": "ppv-1-fc-magdeburg-vs-west-ham-united"
-            },
-            {
-              "source": "echo",
-              "id": "magdeburg-vs-west-ham-united-gamefeg-1433"
-            }
-          ],
-          "popular": true
-        },
-        "generated_poster": "output/images/magdeburg-vs-west-ham-united-2527447.png"
-      },
-      {
-        "id": "rio-ave-vs-tondela-2521719",
-        "slug": "rio-ave-vs-tondela-2521719",
-        "title": "Rio Ave vs Tondela",
-        "category": "football",
-        "sport": "football",
-        "league": "",
-        "poster": null,
-        "thumbnail": null,
-        "date": 1785594600000,
-        "kickoffMs": 1785594600000,
-        "endTimeMs": 1785605400000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [],
-        "sources": [
-          {
-            "source": "echo",
-            "id": "rio-ave-vs-tondela-game-311111"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": false,
-        "teams": {
-          "home": {
-            "name": "Rio Ave",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyYD5ABmBgw3ELoAmuEMeMk9RxCgIVVKLmDLwi80Xaa1toqXSA.webp"
-          },
-          "away": {
-            "name": "Tondela",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzQgBhXgBNgmkNxC6cIYyBIGQMExMIxgTPii5gy8IvNGOmtMM7GiIQA.webp"
-          }
-        },
-        "_streamedData": {
-          "id": "rio-ave-vs-tondela-2521719",
-          "sources": [
-            {
-              "source": "echo",
-              "id": "rio-ave-vs-tondela-game-311111"
-            }
-          ],
-          "popular": false
-        },
-        "generated_poster": "output/images/rio-ave-vs-tondela-2521719.png"
-      },
-      {
-        "id": "hamburg-vs-everton-2521760",
-        "slug": "hamburg-vs-everton-2521760",
-        "title": "Hamburg vs Everton",
-        "category": "football",
-        "sport": "football",
-        "league": "",
-        "poster": null,
-        "thumbnail": null,
-        "date": 1785596400000,
-        "kickoffMs": 1785596400000,
-        "endTimeMs": 1785607200000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [],
-        "sources": [
-          {
-            "source": "echo",
-            "id": "hamburger-sv-vs-everton-game-2787886"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": false,
-        "teams": {
-          "home": {
-            "name": "Hamburg",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLAATaHDgQQ3ENr4hE2kodwgUIVQQpM+KLmDLwi80faa0wjsaIhA.webp"
-          },
-          "away": {
-            "name": "Everton",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzK9uYFNmAATENxAlcIRPpAgIIPiBTmCFJnxRcwZeEXminTWmBdjREEA.webp"
-          }
-        },
-        "_streamedData": {
-          "id": "hamburg-vs-everton-2521760",
-          "sources": [
-            {
-              "source": "echo",
-              "id": "hamburger-sv-vs-everton-game-2787886"
-            }
-          ],
-          "popular": false
-        },
-        "generated_poster": "output/images/hamburg-vs-everton-2521760.png"
-      },
-      {
-        "id": "ban-k-ostrava-vs-slavia-prague-2497735",
-        "slug": "ban-k-ostrava-vs-slavia-prague-2497735",
-        "title": "Baník Ostrava vs Slavia Prague",
-        "category": "football",
-        "sport": "football",
-        "league": "",
-        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmKowBpECRC8QWECeogzKEJf0mr+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp",
-        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmKowBpECRC8QWECeogzKEJf0mr+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp",
-        "date": 1785596400000,
-        "kickoffMs": 1785596400000,
-        "endTimeMs": 1785607200000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [
-          {
-            "server": "Czech - Oneplay Sport 1 HD",
-            "url": "https://embed.st/embed/admin/ppv-ban-k-ostrava-vs-slavia-prague/1",
-            "hd": true,
-            "language": "Czech - Oneplay Sport 1",
-            "streamNo": 1,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "Czech - Oneplay Sport 1 SD",
-            "url": "https://embed.st/embed/admin/ppv-ban-k-ostrava-vs-slavia-prague/2",
-            "hd": false,
-            "language": "Czech - Oneplay Sport 1",
-            "streamNo": 2,
-            "fromStreamedPk": true
-          }
-        ],
-        "sources": [
-          {
-            "source": "admin",
-            "id": "ppv-ban-k-ostrava-vs-slavia-prague"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": true,
-        "teams": {
-          "home": {
-            "name": "Baník Ostrava",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQhuFFMCQgIakABMQq7jr2qYIS3wIUm1rmDLwi80Zqa0wjsaIhA.webp"
-          },
-          "away": {
-            "name": "Slavia Prague",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAgBABmCr6+ENzUgSIFLkOn9iFAQpM+KLmDLwi80faa0wjsaIhA.webp"
-          }
-        },
-        "_streamedData": {
-          "id": "ban-k-ostrava-vs-slavia-prague-2497735",
-          "sources": [
-            {
-              "source": "admin",
-              "id": "ppv-ban-k-ostrava-vs-slavia-prague"
-            }
-          ],
-          "popular": true
-        },
-        "generated_poster": "output/images/ban-k-ostrava-vs-slavia-prague-2497735.png"
       },
       {
         "id": "wieczysta-krak-w-vs-lech-pozna--2490206",
@@ -5867,6 +4426,1327 @@
         "generated_poster": "output/images/ppv-tottenham-hotspur-vs-tsg-hoffenheim.png"
       }
     ],
+    "combat sports": [
+      {
+        "id": "ufc-fight-night-283-medi--vs-rodriguez-2476379",
+        "slug": "ufc-fight-night-283-medi--vs-rodriguez-2476379",
+        "title": "UFC Fight Night 283 Medić vs Rodriguez",
+        "category": "combat sports",
+        "sport": "combat sports",
+        "league": "",
+        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmIAMDELxAkQ1XSCwgzBmCBQhL041fzAkFLCLmMUYVSh5fyjajkfR3owL3ExCCA.webp",
+        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmIAMDELxAkQ1XSCwgzBmCBQhL041fzAkFLCLmMUYVSh5fyjajkfR3owL3ExCCA.webp",
+        "date": 1785592800000,
+        "kickoffMs": 1785592800000,
+        "endTimeMs": 1785614400000,
+        "isLive": true,
+        "status": "live",
+        "iframes": [
+          {
+            "server": "English - Paramount+ HD",
+            "url": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/1",
+            "hd": true,
+            "language": "English - Paramount+",
+            "streamNo": 1,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "English - Paramount+ SD",
+            "url": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/2",
+            "hd": false,
+            "language": "English - Paramount+",
+            "streamNo": 2,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "Spanish - Paramount+ HD",
+            "url": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/3",
+            "hd": true,
+            "language": "Spanish - Paramount+",
+            "streamNo": 3,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "Spanish - Paramount+ SD",
+            "url": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/4",
+            "hd": false,
+            "language": "Spanish - Paramount+",
+            "streamNo": 4,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "Portuguese - Paramount+ HD",
+            "url": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/5",
+            "hd": true,
+            "language": "Portuguese - Paramount+",
+            "streamNo": 5,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "Portuguese - Paramount+ SD",
+            "url": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/6",
+            "hd": false,
+            "language": "Portuguese - Paramount+",
+            "streamNo": 6,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "German - DAZN HD",
+            "url": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/7",
+            "hd": true,
+            "language": "German - DAZN",
+            "streamNo": 7,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "German - DAZN SD",
+            "url": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/8",
+            "hd": false,
+            "language": "German - DAZN",
+            "streamNo": 8,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "Czech - Nova Sport 6 HD",
+            "url": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/9",
+            "hd": true,
+            "language": "Czech - Nova Sport 6",
+            "streamNo": 9,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "Czech - Nova Sport 6 SD",
+            "url": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/10",
+            "hd": false,
+            "language": "Czech - Nova Sport 6",
+            "streamNo": 10,
+            "fromStreamedPk": true
+          }
+        ],
+        "sources": [
+          {
+            "source": "admin",
+            "id": "ppv-ufc-fight-night-medi-vs-rodriguez"
+          },
+          {
+            "source": "delta",
+            "id": "live-event_ufc-fight-night-belgrade-live-stream"
+          },
+          {
+            "source": "golf",
+            "id": "24097"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": true,
+        "teams": {
+          "home": {
+            "name": "UFC Fight Night 283 Medić",
+            "badge": null
+          },
+          "away": {
+            "name": "Rodriguez",
+            "badge": null
+          }
+        },
+        "_streamedData": {
+          "id": "ufc-fight-night-283-medi--vs-rodriguez-2476379",
+          "sources": [
+            {
+              "source": "admin",
+              "id": "ppv-ufc-fight-night-medi-vs-rodriguez"
+            },
+            {
+              "source": "delta",
+              "id": "live-event_ufc-fight-night-belgrade-live-stream"
+            },
+            {
+              "source": "golf",
+              "id": "24097"
+            }
+          ],
+          "popular": true
+        },
+        "generated_poster": "output/images/ufc-fight-night-283-medi--vs-rodriguez-2476379.png"
+      },
+      {
+        "id": "pierce-o-leary-vs-mark-chamberlain-2483553",
+        "slug": "pierce-o-leary-vs-mark-chamberlain-2483553",
+        "title": "Pierce O'Leary vs Mark Chamberlain",
+        "category": "combat sports",
+        "sport": "combat sports",
+        "league": "",
+        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjFAgSIKPDBIQvEFhBnEMENO1mr2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
+        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjFAgSIKPDBIQvEFhBnEMENO1mr2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
+        "date": 1785600000000,
+        "kickoffMs": 1785600000000,
+        "endTimeMs": 1785621600000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [
+          {
+            "server": "English HD",
+            "url": "https://embed.st/embed/delta/live-event_pierce-o-leary-vs-mark-chamberlain-live-stream/1",
+            "hd": true,
+            "language": "English",
+            "streamNo": 1,
+            "fromStreamedPk": true
+          }
+        ],
+        "sources": [
+          {
+            "source": "delta",
+            "id": "live-event_pierce-o-leary-vs-mark-chamberlain-live-stream"
+          },
+          {
+            "source": "echo",
+            "id": "ppv-event-06-oleary-v-chamberlain-gameev-06"
+          },
+          {
+            "source": "golf",
+            "id": "24100"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": true,
+        "teams": {
+          "home": {
+            "name": "Pierce O'Leary",
+            "badge": null
+          },
+          "away": {
+            "name": "Mark Chamberlain",
+            "badge": null
+          }
+        },
+        "_streamedData": {
+          "id": "pierce-o-leary-vs-mark-chamberlain-2483553",
+          "sources": [
+            {
+              "source": "delta",
+              "id": "live-event_pierce-o-leary-vs-mark-chamberlain-live-stream"
+            },
+            {
+              "source": "echo",
+              "id": "ppv-event-06-oleary-v-chamberlain-gameev-06"
+            },
+            {
+              "source": "golf",
+              "id": "24100"
+            }
+          ],
+          "popular": true
+        },
+        "generated_poster": "output/images/pierce-o-leary-vs-mark-chamberlain-2483553.png"
+      },
+      {
+        "id": "oktagon-92-szabov--vs-pudilov--2475855",
+        "slug": "oktagon-92-szabov--vs-pudilov--2475855",
+        "title": "Oktagon 92 Szabová vs Pudilová",
+        "category": "combat sports",
+        "sport": "combat sports",
+        "league": "",
+        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdjhyyx9FCF4gsIYyRCmDEEIiOT8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp",
+        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdjhyyx9FCF4gsIYyRCmDEEIiOT8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp",
+        "date": 1785601800000,
+        "kickoffMs": 1785601800000,
+        "endTimeMs": 1785623400000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [
+          {
+            "server": "English - OKTAGON.TV HD",
+            "url": "https://embed.st/embed/admin/ppv-oktagon-92-szabov-vs-pudilov/1",
+            "hd": true,
+            "language": "English - OKTAGON.TV",
+            "streamNo": 1,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "English - OKTAGON.TV SD",
+            "url": "https://embed.st/embed/admin/ppv-oktagon-92-szabov-vs-pudilov/2",
+            "hd": false,
+            "language": "English - OKTAGON.TV",
+            "streamNo": 2,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "German - OKTAGON.TV HD",
+            "url": "https://embed.st/embed/admin/ppv-oktagon-92-szabov-vs-pudilov/3",
+            "hd": true,
+            "language": "German - OKTAGON.TV",
+            "streamNo": 3,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "German - OKTAGON.TV SD",
+            "url": "https://embed.st/embed/admin/ppv-oktagon-92-szabov-vs-pudilov/4",
+            "hd": false,
+            "language": "German - OKTAGON.TV",
+            "streamNo": 4,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "Czech - OKTAGON.TV HD",
+            "url": "https://embed.st/embed/admin/ppv-oktagon-92-szabov-vs-pudilov/5",
+            "hd": true,
+            "language": "Czech - OKTAGON.TV",
+            "streamNo": 5,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "Czech - OKTAGON.TV SD",
+            "url": "https://embed.st/embed/admin/ppv-oktagon-92-szabov-vs-pudilov/6",
+            "hd": false,
+            "language": "Czech - OKTAGON.TV",
+            "streamNo": 6,
+            "fromStreamedPk": true
+          }
+        ],
+        "sources": [
+          {
+            "source": "admin",
+            "id": "ppv-oktagon-92-szabov-vs-pudilov"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": true,
+        "teams": {
+          "home": {
+            "name": "Oktagon 92 Szabová",
+            "badge": null
+          },
+          "away": {
+            "name": "Pudilová",
+            "badge": null
+          }
+        },
+        "_streamedData": {
+          "id": "oktagon-92-szabov--vs-pudilov--2475855",
+          "sources": [
+            {
+              "source": "admin",
+              "id": "ppv-oktagon-92-szabov-vs-pudilov"
+            }
+          ],
+          "popular": true
+        },
+        "generated_poster": "output/images/oktagon-92-szabov--vs-pudilov--2475855.png"
+      },
+      {
+        "id": "24101",
+        "slug": "24101",
+        "title": "BKFC Fight Night Garside - Taylor",
+        "category": "combat sports",
+        "sport": "combat sports",
+        "league": "",
+        "poster": null,
+        "thumbnail": null,
+        "date": 1785607200000,
+        "kickoffMs": 1785607200000,
+        "endTimeMs": 1785628800000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [
+          {
+            "server": "English HD",
+            "url": "https://embed.st/embed/golf/24101/1",
+            "hd": true,
+            "language": "English",
+            "streamNo": 1,
+            "fromStreamedPk": true
+          }
+        ],
+        "sources": [
+          {
+            "source": "golf",
+            "id": "24101"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": true,
+        "teams": {
+          "home": {
+            "name": "BKFC Fight Night Garside",
+            "badge": null
+          },
+          "away": {
+            "name": "Taylor",
+            "badge": null
+          }
+        },
+        "_streamedData": {
+          "id": "24101",
+          "sources": [
+            {
+              "source": "golf",
+              "id": "24101"
+            }
+          ],
+          "popular": true
+        },
+        "generated_poster": "output/images/24101.png"
+      },
+      {
+        "id": "24099",
+        "slug": "24099",
+        "title": "Roach Jr - Zepede",
+        "category": "combat sports",
+        "sport": "combat sports",
+        "league": "",
+        "poster": null,
+        "thumbnail": null,
+        "date": 1785618000000,
+        "kickoffMs": 1785618000000,
+        "endTimeMs": 1785639600000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [
+          {
+            "server": "English HD",
+            "url": "https://embed.st/embed/golf/24099/1",
+            "hd": true,
+            "language": "English",
+            "streamNo": 1,
+            "fromStreamedPk": true
+          }
+        ],
+        "sources": [
+          {
+            "source": "golf",
+            "id": "24099"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": true,
+        "teams": {
+          "home": {
+            "name": "Roach Jr",
+            "badge": null
+          },
+          "away": {
+            "name": "Zepede",
+            "badge": null
+          }
+        },
+        "_streamedData": {
+          "id": "24099",
+          "sources": [
+            {
+              "source": "golf",
+              "id": "24099"
+            }
+          ],
+          "popular": true
+        },
+        "generated_poster": "output/images/24099.png"
+      },
+      {
+        "id": "ppv-wwe-summer-slam-night-1",
+        "slug": "ppv-wwe-summer-slam-night-1",
+        "title": "WWE SummerSlam | Night 1",
+        "category": "combat sports",
+        "sport": "combat sports",
+        "league": "",
+        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjAaEaSBQgAxuOnAIIKbKohtMHdnkgjehTFJKQ65SSXmjw7CnKyBQkU2z0whYElyKnITBuTlkHMicCSXJgtVI1IA.webp",
+        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjAaEaSBQgAxuOnAIIKbKohtMHdnkgjehTFJKQ65SSXmjw7CnKyBQkU2z0whYElyKnITBuTlkHMicCSXJgtVI1IA.webp",
+        "date": 1785621600000,
+        "kickoffMs": 1785621600000,
+        "endTimeMs": 1785643200000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [
+          {
+            "server": "English - ESPN Unlimited HD",
+            "url": "https://embed.st/embed/admin/ppv-wwe-summer-slam-night-1/1",
+            "hd": true,
+            "language": "English - ESPN Unlimited",
+            "streamNo": 1,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "English - ESPN Unlimited SD",
+            "url": "https://embed.st/embed/admin/ppv-wwe-summer-slam-night-1/2",
+            "hd": false,
+            "language": "English - ESPN Unlimited",
+            "streamNo": 2,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "Spanish - ESPN Unlimited HD",
+            "url": "https://embed.st/embed/admin/ppv-wwe-summer-slam-night-1/3",
+            "hd": true,
+            "language": "Spanish - ESPN Unlimited",
+            "streamNo": 3,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "Spanish - ESPN Unlimited SD",
+            "url": "https://embed.st/embed/admin/ppv-wwe-summer-slam-night-1/4",
+            "hd": false,
+            "language": "Spanish - ESPN Unlimited",
+            "streamNo": 4,
+            "fromStreamedPk": true
+          }
+        ],
+        "sources": [
+          {
+            "source": "admin",
+            "id": "ppv-wwe-summer-slam-night-1"
+          },
+          {
+            "source": "golf",
+            "id": "24098"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": true,
+        "teams": null,
+        "_streamedData": {
+          "id": "ppv-wwe-summer-slam-night-1",
+          "sources": [
+            {
+              "source": "admin",
+              "id": "ppv-wwe-summer-slam-night-1"
+            },
+            {
+              "source": "golf",
+              "id": "24098"
+            }
+          ],
+          "popular": true
+        },
+        "generated_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjAaEaSBQgAxuOnAIIKbKohtMHdnkgjehTFJKQ65SSXmjw7CnKyBQkU2z0whYElyKnITBuTlkHMicCSXJgtVI1IA.webp"
+      },
+      {
+        "id": "ppv-aew-saturday-night-collision",
+        "slug": "ppv-aew-saturday-night-collision",
+        "title": "AEW: Saturday Night Collision",
+        "category": "combat sports",
+        "sport": "combat sports",
+        "league": "",
+        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRDCQKESCwi5VEAGMZwCBpCSsIRPGCIQ2xcOznNiM4k3TdvcpoFDFBc7LCFgSXCtlCwbk5bUno3AzBAjVCIIA.webp",
+        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRDCQKESCwi5VEAGMZwCBpCSsIRPGCIQ2xcOznNiM4k3TdvcpoFDFBc7LCFgSXCtlCwbk5bUno3AzBAjVCIIA.webp",
+        "date": 1785628800000,
+        "kickoffMs": 1785628800000,
+        "endTimeMs": 1785650400000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [
+          {
+            "server": "English - TNT HD",
+            "url": "https://embed.st/embed/admin/ppv-aew-saturday-night-collision/1",
+            "hd": true,
+            "language": "English - TNT",
+            "streamNo": 1,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "English - TNT SD",
+            "url": "https://embed.st/embed/admin/ppv-aew-saturday-night-collision/2",
+            "hd": false,
+            "language": "English - TNT",
+            "streamNo": 2,
+            "fromStreamedPk": true
+          }
+        ],
+        "sources": [
+          {
+            "source": "admin",
+            "id": "ppv-aew-saturday-night-collision"
+          },
+          {
+            "source": "echo",
+            "id": "aew-saturday-night-collision-aew-1"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": true,
+        "teams": null,
+        "_streamedData": {
+          "id": "ppv-aew-saturday-night-collision",
+          "sources": [
+            {
+              "source": "admin",
+              "id": "ppv-aew-saturday-night-collision"
+            },
+            {
+              "source": "echo",
+              "id": "aew-saturday-night-collision-aew-1"
+            }
+          ],
+          "popular": true
+        },
+        "generated_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRDCQKESCwi5VEAGMZwCBpCSsIRPGCIQ2xcOznNiM4k3TdvcpoFDFBc7LCFgSXCtlCwbk5bUno3AzBAjVCIIA.webp"
+      },
+      {
+        "id": "lamont-roach-jr--vs-william-zepeda-2483555",
+        "slug": "lamont-roach-jr--vs-william-zepeda-2483555",
+        "title": "Lamont Roach Jr. vs William Zepeda",
+        "category": "combat sports",
+        "sport": "combat sports",
+        "league": "",
+        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrSTyQIBiBgheILDpCID0kJZIgUIEiyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp",
+        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrSTyQIBiBgheILDpCID0kJZIgUIEiyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp",
+        "date": 1785628800000,
+        "kickoffMs": 1785628800000,
+        "endTimeMs": 1785650400000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [
+          {
+            "server": "English - TNT HD",
+            "url": "https://embed.st/embed/admin/ppv-roach-jr-vs-zepeda/1",
+            "hd": true,
+            "language": "English - TNT",
+            "streamNo": 1,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "English - TNT SD",
+            "url": "https://embed.st/embed/admin/ppv-roach-jr-vs-zepeda/2",
+            "hd": false,
+            "language": "English - TNT",
+            "streamNo": 2,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "English - DAZN HD",
+            "url": "https://embed.st/embed/admin/ppv-roach-jr-vs-zepeda/3",
+            "hd": true,
+            "language": "English - DAZN",
+            "streamNo": 3,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "English - DAZN SD",
+            "url": "https://embed.st/embed/admin/ppv-roach-jr-vs-zepeda/4",
+            "hd": false,
+            "language": "English - DAZN",
+            "streamNo": 4,
+            "fromStreamedPk": true
+          }
+        ],
+        "sources": [
+          {
+            "source": "admin",
+            "id": "ppv-roach-jr-vs-zepeda"
+          },
+          {
+            "source": "delta",
+            "id": "live-event_lamont-roach-vs-william-zepeda-live-stream"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": true,
+        "teams": {
+          "home": {
+            "name": "Lamont Roach Jr.",
+            "badge": null
+          },
+          "away": {
+            "name": "William Zepeda",
+            "badge": null
+          }
+        },
+        "_streamedData": {
+          "id": "lamont-roach-jr--vs-william-zepeda-2483555",
+          "sources": [
+            {
+              "source": "admin",
+              "id": "ppv-roach-jr-vs-zepeda"
+            },
+            {
+              "source": "delta",
+              "id": "live-event_lamont-roach-vs-william-zepeda-live-stream"
+            }
+          ],
+          "popular": true
+        },
+        "generated_poster": "output/images/lamont-roach-jr--vs-william-zepeda-2483555.png"
+      },
+      {
+        "id": "ppv-wwe-summer-slam-night-2",
+        "slug": "ppv-wwe-summer-slam-night-2",
+        "title": "WWE SummerSlam | Night 2",
+        "category": "combat sports",
+        "sport": "combat sports",
+        "league": "",
+        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjAaEaSBQgAxuOnAIIKbKohtMHdnkgjehTFJKQ65SSXmjw7CnKyBQkU2z0whYElyKnITBuTlkHMicCSXJgtVI1IA.webp",
+        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjAaEaSBQgAxuOnAIIKbKohtMHdnkgjehTFJKQ65SSXmjw7CnKyBQkU2z0whYElyKnITBuTlkHMicCSXJgtVI1IA.webp",
+        "date": 1785708000000,
+        "kickoffMs": 1785708000000,
+        "endTimeMs": 1785729600000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [
+          {
+            "server": "English - ESPN Unlimited HD",
+            "url": "https://embed.st/embed/admin/ppv-wwe-summer-slam-night-2/1",
+            "hd": true,
+            "language": "English - ESPN Unlimited",
+            "streamNo": 1,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "English - ESPN Unlimited SD",
+            "url": "https://embed.st/embed/admin/ppv-wwe-summer-slam-night-2/2",
+            "hd": false,
+            "language": "English - ESPN Unlimited",
+            "streamNo": 2,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "Spanish - ESPN Unlimited HD",
+            "url": "https://embed.st/embed/admin/ppv-wwe-summer-slam-night-2/3",
+            "hd": true,
+            "language": "Spanish - ESPN Unlimited",
+            "streamNo": 3,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "Spanish - ESPN Unlimited SD",
+            "url": "https://embed.st/embed/admin/ppv-wwe-summer-slam-night-2/4",
+            "hd": false,
+            "language": "Spanish - ESPN Unlimited",
+            "streamNo": 4,
+            "fromStreamedPk": true
+          }
+        ],
+        "sources": [
+          {
+            "source": "admin",
+            "id": "ppv-wwe-summer-slam-night-2"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": true,
+        "teams": null,
+        "_streamedData": {
+          "id": "ppv-wwe-summer-slam-night-2",
+          "sources": [
+            {
+              "source": "admin",
+              "id": "ppv-wwe-summer-slam-night-2"
+            }
+          ],
+          "popular": true
+        },
+        "generated_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjAaEaSBQgAxuOnAIIKbKohtMHdnkgjehTFJKQ65SSXmjw7CnKyBQkU2z0whYElyKnITBuTlkHMicCSXJgtVI1IA.webp"
+      },
+      {
+        "id": "live-event_pfl-charlotte-battle-vs-rosta-live-stream",
+        "slug": "live-event_pfl-charlotte-battle-vs-rosta-live-stream",
+        "title": "PFL Charlotte: Battle vs Rosta",
+        "category": "combat sports",
+        "sport": "combat sports",
+        "league": "",
+        "poster": null,
+        "thumbnail": null,
+        "date": 1786143600000,
+        "kickoffMs": 1786143600000,
+        "endTimeMs": 1786165200000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [],
+        "sources": [
+          {
+            "source": "delta",
+            "id": "live-event_pfl-charlotte-battle-vs-rosta-live-stream"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": false,
+        "teams": {
+          "home": {
+            "name": "Battle",
+            "badge": null
+          },
+          "away": {
+            "name": "Rosta",
+            "badge": null
+          }
+        },
+        "_streamedData": {
+          "id": "live-event_pfl-charlotte-battle-vs-rosta-live-stream",
+          "sources": [
+            {
+              "source": "delta",
+              "id": "live-event_pfl-charlotte-battle-vs-rosta-live-stream"
+            }
+          ],
+          "popular": false
+        },
+        "generated_poster": "output/images/live-event_pfl-charlotte-battle-vs-rosta-live-stream.png"
+      },
+      {
+        "id": "live-event_david-nyika-vs-floyd-masson-live-stream",
+        "slug": "live-event_david-nyika-vs-floyd-masson-live-stream",
+        "title": "David Nyika vs Floyd Masson",
+        "category": "combat sports",
+        "sport": "combat sports",
+        "league": "",
+        "poster": null,
+        "thumbnail": null,
+        "date": 1786176000000,
+        "kickoffMs": 1786176000000,
+        "endTimeMs": 1786197600000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [],
+        "sources": [
+          {
+            "source": "delta",
+            "id": "live-event_david-nyika-vs-floyd-masson-live-stream"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": false,
+        "teams": null,
+        "_streamedData": {
+          "id": "live-event_david-nyika-vs-floyd-masson-live-stream",
+          "sources": [
+            {
+              "source": "delta",
+              "id": "live-event_david-nyika-vs-floyd-masson-live-stream"
+            }
+          ],
+          "popular": false
+        },
+        "generated_poster": null
+      },
+      {
+        "id": "live-event_ufc-fight-night-gamrot-vs-salkilld-live-stream",
+        "slug": "live-event_ufc-fight-night-gamrot-vs-salkilld-live-stream",
+        "title": "UFC Fight Night: Gamrot vs Salkilld",
+        "category": "combat sports",
+        "sport": "combat sports",
+        "league": "",
+        "poster": null,
+        "thumbnail": null,
+        "date": 1786212000000,
+        "kickoffMs": 1786212000000,
+        "endTimeMs": 1786233600000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [],
+        "sources": [
+          {
+            "source": "delta",
+            "id": "live-event_ufc-fight-night-gamrot-vs-salkilld-live-stream"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": false,
+        "teams": {
+          "home": {
+            "name": "Gamrot",
+            "badge": null
+          },
+          "away": {
+            "name": "Salkilld",
+            "badge": null
+          }
+        },
+        "_streamedData": {
+          "id": "live-event_ufc-fight-night-gamrot-vs-salkilld-live-stream",
+          "sources": [
+            {
+              "source": "delta",
+              "id": "live-event_ufc-fight-night-gamrot-vs-salkilld-live-stream"
+            }
+          ],
+          "popular": false
+        },
+        "generated_poster": "output/images/live-event_ufc-fight-night-gamrot-vs-salkilld-live-stream.png"
+      },
+      {
+        "id": "live-event_troy-williamson-vs-callum-simpson-live-stream",
+        "slug": "live-event_troy-williamson-vs-callum-simpson-live-stream",
+        "title": "Troy Williamson vs Callum Simpson",
+        "category": "combat sports",
+        "sport": "combat sports",
+        "league": "",
+        "poster": null,
+        "thumbnail": null,
+        "date": 1786212000000,
+        "kickoffMs": 1786212000000,
+        "endTimeMs": 1786233600000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [],
+        "sources": [
+          {
+            "source": "delta",
+            "id": "live-event_troy-williamson-vs-callum-simpson-live-stream"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": false,
+        "teams": null,
+        "_streamedData": {
+          "id": "live-event_troy-williamson-vs-callum-simpson-live-stream",
+          "sources": [
+            {
+              "source": "delta",
+              "id": "live-event_troy-williamson-vs-callum-simpson-live-stream"
+            }
+          ],
+          "popular": false
+        },
+        "generated_poster": null
+      },
+      {
+        "id": "live-event_aaron-mckenna-vs-etinosa-oliha-live-stream",
+        "slug": "live-event_aaron-mckenna-vs-etinosa-oliha-live-stream",
+        "title": "Aaron McKenna vs Etinosa Oliha",
+        "category": "combat sports",
+        "sport": "combat sports",
+        "league": "",
+        "poster": null,
+        "thumbnail": null,
+        "date": 1786212000000,
+        "kickoffMs": 1786212000000,
+        "endTimeMs": 1786233600000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [],
+        "sources": [
+          {
+            "source": "delta",
+            "id": "live-event_aaron-mckenna-vs-etinosa-oliha-live-stream"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": false,
+        "teams": null,
+        "_streamedData": {
+          "id": "live-event_aaron-mckenna-vs-etinosa-oliha-live-stream",
+          "sources": [
+            {
+              "source": "delta",
+              "id": "live-event_aaron-mckenna-vs-etinosa-oliha-live-stream"
+            }
+          ],
+          "popular": false
+        },
+        "generated_poster": null
+      },
+      {
+        "id": "live-event_cherneka-johnson-vs-dina-thorslund-live-stream",
+        "slug": "live-event_cherneka-johnson-vs-dina-thorslund-live-stream",
+        "title": "Cherneka Johnson vs Dina Thorslund",
+        "category": "combat sports",
+        "sport": "combat sports",
+        "league": "",
+        "poster": null,
+        "thumbnail": null,
+        "date": 1786240800000,
+        "kickoffMs": 1786240800000,
+        "endTimeMs": 1786262400000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [],
+        "sources": [
+          {
+            "source": "delta",
+            "id": "live-event_cherneka-johnson-vs-dina-thorslund-live-stream"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": false,
+        "teams": null,
+        "_streamedData": {
+          "id": "live-event_cherneka-johnson-vs-dina-thorslund-live-stream",
+          "sources": [
+            {
+              "source": "delta",
+              "id": "live-event_cherneka-johnson-vs-dina-thorslund-live-stream"
+            }
+          ],
+          "popular": false
+        },
+        "generated_poster": null
+      }
+    ],
+    "american football": [
+      {
+        "id": "firenze-red-lions-vs-paris-lights-2475825",
+        "slug": "firenze-red-lions-vs-paris-lights-2475825",
+        "title": "Firenze Red Lions vs Paris Lights",
+        "category": "american football",
+        "sport": "american football",
+        "league": "",
+        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiCwiQieMBpkI4ycuEgQwJWsQBjbJpBKyalCDXaQiszOC6U5CKDCCRTffbCFgSXDvtDnVkdhUnoCW3JnTVCIIA.webp",
+        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiCwiQieMBpkI4ycuEgQwJWsQBjbJpBKyalCDXaQiszOC6U5CKDCCRTffbCFgSXDvtDnVkdhUnoCW3JnTVCIIA.webp",
+        "date": 1785597000000,
+        "kickoffMs": 1785597000000,
+        "endTimeMs": 1785611400000,
+        "isLive": true,
+        "status": "live",
+        "iframes": [
+          {
+            "server": "English - AFLE+ HD",
+            "url": "https://embed.st/embed/admin/ppv-paris-lights-vs-firenze-red-lions/1",
+            "hd": true,
+            "language": "English - AFLE+",
+            "streamNo": 1,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "English - AFLE+ SD",
+            "url": "https://embed.st/embed/admin/ppv-paris-lights-vs-firenze-red-lions/2",
+            "hd": false,
+            "language": "English - AFLE+",
+            "streamNo": 2,
+            "fromStreamedPk": true
+          }
+        ],
+        "sources": [
+          {
+            "source": "admin",
+            "id": "ppv-paris-lights-vs-firenze-red-lions"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": true,
+        "teams": {
+          "home": {
+            "name": "Firenze Red Lions",
+            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDAmA+NAghuIPnoMgjuEABMzIFAQrqUXMGU315ou01pgHY0RCA.webp"
+          },
+          "away": {
+            "name": "Paris Lights",
+            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkT02A0BBDcQfXfpCHcRnXwIUmZrmDLwi80SmBNaYG2NEQgA.webp"
+          }
+        },
+        "_streamedData": {
+          "id": "firenze-red-lions-vs-paris-lights-2475825",
+          "sources": [
+            {
+              "source": "admin",
+              "id": "ppv-paris-lights-vs-firenze-red-lions"
+            }
+          ],
+          "popular": true
+        },
+        "generated_poster": "output/images/firenze-red-lions-vs-paris-lights-2475825.png"
+      },
+      {
+        "id": "rhein-fire-vs-alpine-rams-2475826",
+        "slug": "rhein-fire-vs-alpine-rams-2475826",
+        "title": "Rhein Fire vs Alpine Rams",
+        "category": "american football",
+        "sport": "american football",
+        "league": "",
+        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEYIhggaJacBpVpICCHjYJwccNLLlO4auwhZKTSJAGaBrHKqn+YQSKbr7hYElwBjU0MestUnoCDTBHMzIIIA.webp",
+        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEYIhggaJacBpVpICCHjYJwccNLLlO4auwhZKTSJAGaBrHKqn+YQSKbr7hYElwBjU0MestUnoCDTBHMzIIIA.webp",
+        "date": 1785600000000,
+        "kickoffMs": 1785600000000,
+        "endTimeMs": 1785614400000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [
+          {
+            "server": "English - AFLE+ HD",
+            "url": "https://embed.st/embed/admin/ppv-alpine-rams-vs-rhein-fire/1",
+            "hd": true,
+            "language": "English - AFLE+",
+            "streamNo": 1,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "English - AFLE+ SD",
+            "url": "https://embed.st/embed/admin/ppv-alpine-rams-vs-rhein-fire/2",
+            "hd": false,
+            "language": "English - AFLE+",
+            "streamNo": 2,
+            "fromStreamedPk": true
+          }
+        ],
+        "sources": [
+          {
+            "source": "admin",
+            "id": "ppv-alpine-rams-vs-rhein-fire"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": true,
+        "teams": {
+          "home": {
+            "name": "Rhein Fire",
+            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQgQwJILIkQ3EABMQENSFV8QiNcfgEKTPii5gy8IvNGOmtMM7GiIQA.webp"
+          },
+          "away": {
+            "name": "Alpine Rams",
+            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgHwwIfgjohuIPnoMgjuEDGPLCMYEz4ouYMmvrzRdprTAOxoiEA.webp"
+          }
+        },
+        "_streamedData": {
+          "id": "rhein-fire-vs-alpine-rams-2475826",
+          "sources": [
+            {
+              "source": "admin",
+              "id": "ppv-alpine-rams-vs-rhein-fire"
+            }
+          ],
+          "popular": true
+        },
+        "generated_poster": "output/images/rhein-fire-vs-alpine-rams-2475826.png"
+      },
+      {
+        "id": "hamilton-tiger-cats-vs-calgary-stampeders-2432566",
+        "slug": "hamilton-tiger-cats-vs-calgary-stampeders-2432566",
+        "title": "Hamilton Tiger-Cats vs Calgary Stampeders",
+        "category": "american football",
+        "sport": "american football",
+        "league": "",
+        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLAzAgQicEhDcQUnSBggUIEiAi5rOgsCQU+w2fRRgVKLp-L0Not5MtGCeYqIQQA.webp",
+        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLAzAgQicEhDcQUnSBggUIEiAi5rOgsCQU+w2fRRgVKLp-L0Not5MtGCeYqIQQA.webp",
+        "date": 1785610800000,
+        "kickoffMs": 1785610800000,
+        "endTimeMs": 1785625200000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [
+          {
+            "server": "English - CFL+ HD",
+            "url": "https://embed.st/embed/admin/ppv-calgary-stampeders-vs-hamilton-tiger-cats/1",
+            "hd": true,
+            "language": "English - CFL+",
+            "streamNo": 1,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "English - CFL+ SD",
+            "url": "https://embed.st/embed/admin/ppv-calgary-stampeders-vs-hamilton-tiger-cats/2",
+            "hd": false,
+            "language": "English - CFL+",
+            "streamNo": 2,
+            "fromStreamedPk": true
+          }
+        ],
+        "sources": [
+          {
+            "source": "admin",
+            "id": "ppv-calgary-stampeders-vs-hamilton-tiger-cats"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": true,
+        "teams": {
+          "home": {
+            "name": "Hamilton Tiger-Cats",
+            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm7Q+5MtxBaIuELr57DunDAIUmfFFzBl4ReaOtNaYW2NEQgA.webp"
+          },
+          "away": {
+            "name": "Calgary Stampeders",
+            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDAADAlJckIbiBIgAJvt0gURs6b4EKTa1zBl4ReaJTAmtMI7GiIQA.webp"
+          }
+        },
+        "_streamedData": {
+          "id": "hamilton-tiger-cats-vs-calgary-stampeders-2432566",
+          "sources": [
+            {
+              "source": "admin",
+              "id": "ppv-calgary-stampeders-vs-hamilton-tiger-cats"
+            }
+          ],
+          "popular": true
+        },
+        "generated_poster": "output/images/hamilton-tiger-cats-vs-calgary-stampeders-2432566.png"
+      },
+      {
+        "id": "edmonton-elks-vs-saskatchewan-roughriders-2432567",
+        "slug": "edmonton-elks-vs-saskatchewan-roughriders-2432567",
+        "title": "Edmonton Elks vs Saskatchewan Roughriders",
+        "category": "american football",
+        "sport": "american football",
+        "league": "",
+        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCCBTAADGDIkQh7iCkgDGnHxCJDp+AWBIKfYbPoo9bLWz3l6WWS0mWjBPelEIIA.webp",
+        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCCBTAADGDIkQh7iCkgDGnHxCJDp+AWBIKfYbPoo9bLWz3l6WWS0mWjBPelEIIA.webp",
+        "date": 1785625200000,
+        "kickoffMs": 1785625200000,
+        "endTimeMs": 1785639600000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [
+          {
+            "server": "English - CFL+ HD",
+            "url": "https://embed.st/embed/admin/ppv-saskatchewan-roughriders-vs-edmonton-elks/1",
+            "hd": true,
+            "language": "English - CFL+",
+            "streamNo": 1,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "English - CFL+ SD",
+            "url": "https://embed.st/embed/admin/ppv-saskatchewan-roughriders-vs-edmonton-elks/2",
+            "hd": false,
+            "language": "English - CFL+",
+            "streamNo": 2,
+            "fromStreamedPk": true
+          }
+        ],
+        "sources": [
+          {
+            "source": "admin",
+            "id": "ppv-saskatchewan-roughriders-vs-edmonton-elks"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": true,
+        "teams": {
+          "home": {
+            "name": "Edmonton Elks",
+            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCiUzMNxB9cILQBMQiGCBSrdJnIwpM+6tmDLwi8tcCa0wjsaIhA.webp"
+          },
+          "away": {
+            "name": "Saskatchewan Roughriders",
+            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDyoosMDAhuIACYhEMEChAlcFiGYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+          }
+        },
+        "_streamedData": {
+          "id": "edmonton-elks-vs-saskatchewan-roughriders-2432567",
+          "sources": [
+            {
+              "source": "admin",
+              "id": "ppv-saskatchewan-roughriders-vs-edmonton-elks"
+            }
+          ],
+          "popular": true
+        },
+        "generated_poster": "output/images/edmonton-elks-vs-saskatchewan-roughriders-2432567.png"
+      },
+      {
+        "id": "berlin-thunder-vs-london-warriors-2475827",
+        "slug": "berlin-thunder-vs-london-warriors-2475827",
+        "title": "Berlin Thunder vs London Warriors",
+        "category": "american football",
+        "sport": "american football",
+        "league": "",
+        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IYSCogSIeMBoyYIkAGMQKYBEnZNumsOBy5UmVhARDIK0qkS1EmBv5hBIpjqeFgSXCo1CXVgsDMg0CQ3IXXTIIIA.webp",
+        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IYSCogSIeMBoyYIkAGMQKYBEnZNumsOBy5UmVhARDIK0qkS1EmBv5hBIpjqeFgSXCo1CXVgsDMg0CQ3IXXTIIIA.webp",
+        "date": 1785679800000,
+        "kickoffMs": 1785679800000,
+        "endTimeMs": 1785694200000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [
+          {
+            "server": "English - AFLE+ HD",
+            "url": "https://embed.st/embed/admin/ppv-london-warriors-vs-berlin-thunder/1",
+            "hd": true,
+            "language": "English - AFLE+",
+            "streamNo": 1,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "English - AFLE+ SD",
+            "url": "https://embed.st/embed/admin/ppv-london-warriors-vs-berlin-thunder/2",
+            "hd": false,
+            "language": "English - AFLE+",
+            "streamNo": 2,
+            "fromStreamedPk": true
+          }
+        ],
+        "sources": [
+          {
+            "source": "admin",
+            "id": "ppv-london-warriors-vs-berlin-thunder"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": true,
+        "teams": {
+          "home": {
+            "name": "Berlin Thunder",
+            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjgpY6pKBDcQfECRAQQxnTqOIJhGMCZ8UXMGXhF5o+01phHY0RCA.webp"
+          },
+          "away": {
+            "name": "London Warriors",
+            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3g0QtMGBQhuIPnpCGSIbcd2IJhGMCZ8UXMGVX15o+0w2OxoiEA.webp"
+          }
+        },
+        "_streamedData": {
+          "id": "berlin-thunder-vs-london-warriors-2475827",
+          "sources": [
+            {
+              "source": "admin",
+              "id": "ppv-london-warriors-vs-berlin-thunder"
+            }
+          ],
+          "popular": true
+        },
+        "generated_poster": "output/images/berlin-thunder-vs-london-warriors-2475827.png"
+      },
+      {
+        "id": "live_nfl-preseason_cardinals-panthers-live-streaming-587559312",
+        "slug": "live_nfl-preseason_cardinals-panthers-live-streaming-587559312",
+        "title": "Arizona Cardinals vs Carolina Panthers",
+        "category": "american football",
+        "sport": "american football",
+        "league": "",
+        "poster": null,
+        "thumbnail": null,
+        "date": 1786060800000,
+        "kickoffMs": 1786060800000,
+        "endTimeMs": 1786075200000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [
+          {
+            "server": "English HD",
+            "url": "https://embed.st/embed/delta/live_nfl-preseason_cardinals-panthers-live-streaming-587559312/1",
+            "hd": true,
+            "language": "English",
+            "streamNo": 1,
+            "fromStreamedPk": true
+          }
+        ],
+        "sources": [
+          {
+            "source": "delta",
+            "id": "live_nfl-preseason_cardinals-panthers-live-streaming-587559312"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": false,
+        "teams": null,
+        "_streamedData": {
+          "id": "live_nfl-preseason_cardinals-panthers-live-streaming-587559312",
+          "sources": [
+            {
+              "source": "delta",
+              "id": "live_nfl-preseason_cardinals-panthers-live-streaming-587559312"
+            }
+          ],
+          "popular": false
+        },
+        "generated_poster": null
+      }
+    ],
     "basketball": [
       {
         "id": "nflstreams_live",
@@ -5877,9 +5757,9 @@
         "league": "",
         "poster": null,
         "thumbnail": null,
-        "date": 1785593620902,
-        "kickoffMs": 1785593620902,
-        "endTimeMs": 1785604420902,
+        "date": 1785597551862,
+        "kickoffMs": 1785597551862,
+        "endTimeMs": 1785608351862,
         "isLive": true,
         "status": "live",
         "iframes": [],
@@ -6288,9 +6168,9 @@
         "league": "",
         "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
         "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
-        "date": 1785593620902,
-        "kickoffMs": 1785593620902,
-        "endTimeMs": 1785636820902,
+        "date": 1785597551862,
+        "kickoffMs": 1785597551862,
+        "endTimeMs": 1785640751862,
         "isLive": true,
         "status": "live",
         "iframes": [
@@ -6376,9 +6256,9 @@
         "league": "",
         "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp",
         "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp",
-        "date": 1785593620902,
-        "kickoffMs": 1785593620902,
-        "endTimeMs": 1785618820902,
+        "date": 1785597551862,
+        "kickoffMs": 1785597551862,
+        "endTimeMs": 1785622751862,
         "isLive": true,
         "status": "live",
         "iframes": [
@@ -6432,9 +6312,9 @@
         "league": "",
         "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp",
         "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp",
-        "date": 1785593620902,
-        "kickoffMs": 1785593620902,
-        "endTimeMs": 1785615220902,
+        "date": 1785597551862,
+        "kickoffMs": 1785597551862,
+        "endTimeMs": 1785619151862,
         "isLive": true,
         "status": "live",
         "iframes": [
@@ -6505,352 +6385,26 @@
           "popular": false
         },
         "generated_poster": null
-      }
-    ],
-    "american football": [
-      {
-        "id": "firenze-red-lions-vs-paris-lights-2475825",
-        "slug": "firenze-red-lions-vs-paris-lights-2475825",
-        "title": "Firenze Red Lions vs Paris Lights",
-        "category": "american football",
-        "sport": "american football",
-        "league": "",
-        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiCwiQieMBpkI4ycuEgQwJWsQBjbJpBKyalCDXaQiszOC6U5CKDCCRTffbCFgSXDvtDnVkdhUnoCW3JnTVCIIA.webp",
-        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiCwiQieMBpkI4ycuEgQwJWsQBjbJpBKyalCDXaQiszOC6U5CKDCCRTffbCFgSXDvtDnVkdhUnoCW3JnTVCIIA.webp",
-        "date": 1785597000000,
-        "kickoffMs": 1785597000000,
-        "endTimeMs": 1785611400000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [
-          {
-            "server": "English - AFLE+ HD",
-            "url": "https://embed.st/embed/admin/ppv-paris-lights-vs-firenze-red-lions/1",
-            "hd": true,
-            "language": "English - AFLE+",
-            "streamNo": 1,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "English - AFLE+ SD",
-            "url": "https://embed.st/embed/admin/ppv-paris-lights-vs-firenze-red-lions/2",
-            "hd": false,
-            "language": "English - AFLE+",
-            "streamNo": 2,
-            "fromStreamedPk": true
-          }
-        ],
-        "sources": [
-          {
-            "source": "admin",
-            "id": "ppv-paris-lights-vs-firenze-red-lions"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": true,
-        "teams": {
-          "home": {
-            "name": "Firenze Red Lions",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDAmA+NAghuIPnoMgjuEABMzIFAQrqUXMGU315ou01pgHY0RCA.webp"
-          },
-          "away": {
-            "name": "Paris Lights",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkT02A0BBDcQfXfpCHcRnXwIUmZrmDLwi80SmBNaYG2NEQgA.webp"
-          }
-        },
-        "_streamedData": {
-          "id": "firenze-red-lions-vs-paris-lights-2475825",
-          "sources": [
-            {
-              "source": "admin",
-              "id": "ppv-paris-lights-vs-firenze-red-lions"
-            }
-          ],
-          "popular": true
-        },
-        "generated_poster": "output/images/firenze-red-lions-vs-paris-lights-2475825.png"
       },
       {
-        "id": "rhein-fire-vs-alpine-rams-2475826",
-        "slug": "rhein-fire-vs-alpine-rams-2475826",
-        "title": "Rhein Fire vs Alpine Rams",
-        "category": "american football",
-        "sport": "american football",
-        "league": "",
-        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEYIhggaJacBpVpICCHjYJwccNLLlO4auwhZKTSJAGaBrHKqn+YQSKbr7hYElwBjU0MestUnoCDTBHMzIIIA.webp",
-        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEYIhggaJacBpVpICCHjYJwccNLLlO4auwhZKTSJAGaBrHKqn+YQSKbr7hYElwBjU0MestUnoCDTBHMzIIIA.webp",
-        "date": 1785600000000,
-        "kickoffMs": 1785600000000,
-        "endTimeMs": 1785614400000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [
-          {
-            "server": "English - AFLE+ HD",
-            "url": "https://embed.st/embed/admin/ppv-alpine-rams-vs-rhein-fire/1",
-            "hd": true,
-            "language": "English - AFLE+",
-            "streamNo": 1,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "English - AFLE+ SD",
-            "url": "https://embed.st/embed/admin/ppv-alpine-rams-vs-rhein-fire/2",
-            "hd": false,
-            "language": "English - AFLE+",
-            "streamNo": 2,
-            "fromStreamedPk": true
-          }
-        ],
-        "sources": [
-          {
-            "source": "admin",
-            "id": "ppv-alpine-rams-vs-rhein-fire"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": true,
-        "teams": {
-          "home": {
-            "name": "Rhein Fire",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQgQwJILIkQ3EABMQENSFV8QiNcfgEKTPii5gy8IvNGOmtMM7GiIQA.webp"
-          },
-          "away": {
-            "name": "Alpine Rams",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgHwwIfgjohuIPnoMgjuEDGPLCMYEz4ouYMmvrzRdprTAOxoiEA.webp"
-          }
-        },
-        "_streamedData": {
-          "id": "rhein-fire-vs-alpine-rams-2475826",
-          "sources": [
-            {
-              "source": "admin",
-              "id": "ppv-alpine-rams-vs-rhein-fire"
-            }
-          ],
-          "popular": true
-        },
-        "generated_poster": "output/images/rhein-fire-vs-alpine-rams-2475826.png"
-      },
-      {
-        "id": "hamilton-tiger-cats-vs-calgary-stampeders-2432566",
-        "slug": "hamilton-tiger-cats-vs-calgary-stampeders-2432566",
-        "title": "Hamilton Tiger-Cats vs Calgary Stampeders",
-        "category": "american football",
-        "sport": "american football",
-        "league": "",
-        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLAzAgQicEhDcQUnSBggUIEiAi5rOgsCQU+w2fRRgVKLp-L0Not5MtGCeYqIQQA.webp",
-        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLAzAgQicEhDcQUnSBggUIEiAi5rOgsCQU+w2fRRgVKLp-L0Not5MtGCeYqIQQA.webp",
-        "date": 1785610800000,
-        "kickoffMs": 1785610800000,
-        "endTimeMs": 1785625200000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [
-          {
-            "server": "English - CFL+ HD",
-            "url": "https://embed.st/embed/admin/ppv-calgary-stampeders-vs-hamilton-tiger-cats/1",
-            "hd": true,
-            "language": "English - CFL+",
-            "streamNo": 1,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "English - CFL+ SD",
-            "url": "https://embed.st/embed/admin/ppv-calgary-stampeders-vs-hamilton-tiger-cats/2",
-            "hd": false,
-            "language": "English - CFL+",
-            "streamNo": 2,
-            "fromStreamedPk": true
-          }
-        ],
-        "sources": [
-          {
-            "source": "admin",
-            "id": "ppv-calgary-stampeders-vs-hamilton-tiger-cats"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": true,
-        "teams": {
-          "home": {
-            "name": "Hamilton Tiger-Cats",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm7Q+5MtxBaIuELr57DunDAIUmfFFzBl4ReaOtNaYW2NEQgA.webp"
-          },
-          "away": {
-            "name": "Calgary Stampeders",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDAADAlJckIbiBIgAJvt0gURs6b4EKTa1zBl4ReaJTAmtMI7GiIQA.webp"
-          }
-        },
-        "_streamedData": {
-          "id": "hamilton-tiger-cats-vs-calgary-stampeders-2432566",
-          "sources": [
-            {
-              "source": "admin",
-              "id": "ppv-calgary-stampeders-vs-hamilton-tiger-cats"
-            }
-          ],
-          "popular": true
-        },
-        "generated_poster": "output/images/hamilton-tiger-cats-vs-calgary-stampeders-2432566.png"
-      },
-      {
-        "id": "edmonton-elks-vs-saskatchewan-roughriders-2432567",
-        "slug": "edmonton-elks-vs-saskatchewan-roughriders-2432567",
-        "title": "Edmonton Elks vs Saskatchewan Roughriders",
-        "category": "american football",
-        "sport": "american football",
-        "league": "",
-        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCCBTAADGDIkQh7iCkgDGnHxCJDp+AWBIKfYbPoo9bLWz3l6WWS0mWjBPelEIIA.webp",
-        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCCBTAADGDIkQh7iCkgDGnHxCJDp+AWBIKfYbPoo9bLWz3l6WWS0mWjBPelEIIA.webp",
-        "date": 1785625200000,
-        "kickoffMs": 1785625200000,
-        "endTimeMs": 1785639600000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [
-          {
-            "server": "English - CFL+ HD",
-            "url": "https://embed.st/embed/admin/ppv-saskatchewan-roughriders-vs-edmonton-elks/1",
-            "hd": true,
-            "language": "English - CFL+",
-            "streamNo": 1,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "English - CFL+ SD",
-            "url": "https://embed.st/embed/admin/ppv-saskatchewan-roughriders-vs-edmonton-elks/2",
-            "hd": false,
-            "language": "English - CFL+",
-            "streamNo": 2,
-            "fromStreamedPk": true
-          }
-        ],
-        "sources": [
-          {
-            "source": "admin",
-            "id": "ppv-saskatchewan-roughriders-vs-edmonton-elks"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": true,
-        "teams": {
-          "home": {
-            "name": "Edmonton Elks",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCiUzMNxB9cILQBMQiGCBSrdJnIwpM+6tmDLwi8tcCa0wjsaIhA.webp"
-          },
-          "away": {
-            "name": "Saskatchewan Roughriders",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDyoosMDAhuIACYhEMEChAlcFiGYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-          }
-        },
-        "_streamedData": {
-          "id": "edmonton-elks-vs-saskatchewan-roughriders-2432567",
-          "sources": [
-            {
-              "source": "admin",
-              "id": "ppv-saskatchewan-roughriders-vs-edmonton-elks"
-            }
-          ],
-          "popular": true
-        },
-        "generated_poster": "output/images/edmonton-elks-vs-saskatchewan-roughriders-2432567.png"
-      },
-      {
-        "id": "berlin-thunder-vs-london-warriors-2475827",
-        "slug": "berlin-thunder-vs-london-warriors-2475827",
-        "title": "Berlin Thunder vs London Warriors",
-        "category": "american football",
-        "sport": "american football",
-        "league": "",
-        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IYSCogSIeMBoyYIkAGMQKYBEnZNumsOBy5UmVhARDIK0qkS1EmBv5hBIpjqeFgSXCo1CXVgsDMg0CQ3IXXTIIIA.webp",
-        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IYSCogSIeMBoyYIkAGMQKYBEnZNumsOBy5UmVhARDIK0qkS1EmBv5hBIpjqeFgSXCo1CXVgsDMg0CQ3IXXTIIIA.webp",
-        "date": 1785679800000,
-        "kickoffMs": 1785679800000,
-        "endTimeMs": 1785694200000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [
-          {
-            "server": "English - AFLE+ HD",
-            "url": "https://embed.st/embed/admin/ppv-london-warriors-vs-berlin-thunder/1",
-            "hd": true,
-            "language": "English - AFLE+",
-            "streamNo": 1,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "English - AFLE+ SD",
-            "url": "https://embed.st/embed/admin/ppv-london-warriors-vs-berlin-thunder/2",
-            "hd": false,
-            "language": "English - AFLE+",
-            "streamNo": 2,
-            "fromStreamedPk": true
-          }
-        ],
-        "sources": [
-          {
-            "source": "admin",
-            "id": "ppv-london-warriors-vs-berlin-thunder"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": true,
-        "teams": {
-          "home": {
-            "name": "Berlin Thunder",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjgpY6pKBDcQfECRAQQxnTqOIJhGMCZ8UXMGXhF5o+01phHY0RCA.webp"
-          },
-          "away": {
-            "name": "London Warriors",
-            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3g0QtMGBQhuIPnpCGSIbcd2IJhGMCZ8UXMGVX15o+0w2OxoiEA.webp"
-          }
-        },
-        "_streamedData": {
-          "id": "berlin-thunder-vs-london-warriors-2475827",
-          "sources": [
-            {
-              "source": "admin",
-              "id": "ppv-london-warriors-vs-berlin-thunder"
-            }
-          ],
-          "popular": true
-        },
-        "generated_poster": "output/images/berlin-thunder-vs-london-warriors-2475827.png"
-      },
-      {
-        "id": "live_nfl-preseason_cardinals-panthers-live-streaming-587559312",
-        "slug": "live_nfl-preseason_cardinals-panthers-live-streaming-587559312",
-        "title": "Arizona Cardinals vs Carolina Panthers",
-        "category": "american football",
-        "sport": "american football",
+        "id": "live-event_indycar-2026-bitnile-com-grand-prix-of-portland-live-stream",
+        "slug": "live-event_indycar-2026-bitnile-com-grand-prix-of-portland-live-stream",
+        "title": "IndyCar 2026 - BitNile.com Grand Prix of Portland",
+        "category": "motorsport",
+        "sport": "motorsport",
         "league": "",
         "poster": null,
         "thumbnail": null,
-        "date": 1786060800000,
-        "kickoffMs": 1786060800000,
-        "endTimeMs": 1786075200000,
+        "date": 1786195920000,
+        "kickoffMs": 1786195920000,
+        "endTimeMs": 1786217520000,
         "isLive": false,
         "status": "upcoming",
-        "iframes": [
-          {
-            "server": "English HD",
-            "url": "https://embed.st/embed/delta/live_nfl-preseason_cardinals-panthers-live-streaming-587559312/1",
-            "hd": true,
-            "language": "English",
-            "streamNo": 1,
-            "fromStreamedPk": true
-          }
-        ],
+        "iframes": [],
         "sources": [
           {
             "source": "delta",
-            "id": "live_nfl-preseason_cardinals-panthers-live-streaming-587559312"
+            "id": "live-event_indycar-2026-bitnile-com-grand-prix-of-portland-live-stream"
           }
         ],
         "embedUrl": null,
@@ -6858,11 +6412,11 @@
         "popular": false,
         "teams": null,
         "_streamedData": {
-          "id": "live_nfl-preseason_cardinals-panthers-live-streaming-587559312",
+          "id": "live-event_indycar-2026-bitnile-com-grand-prix-of-portland-live-stream",
           "sources": [
             {
               "source": "delta",
-              "id": "live_nfl-preseason_cardinals-panthers-live-streaming-587559312"
+              "id": "live-event_indycar-2026-bitnile-com-grand-prix-of-portland-live-stream"
             }
           ],
           "popular": false
@@ -6870,7 +6424,264 @@
         "generated_poster": null
       }
     ],
+    "rugby": [
+      {
+        "id": "york-city-knights-vs-st-helens-2395986",
+        "slug": "york-city-knights-vs-st-helens-2395986",
+        "title": "York City Knights vs St Helens",
+        "category": "rugby",
+        "sport": "rugby",
+        "league": "",
+        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLKDBTc-ECRDcQfENv0hzIRBBAw9BYEgp9hs+ijAqUXD+XobRXky0YB5iohBAA.webp",
+        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLKDBTc-ECRDcQfENv0hzIRBBAw9BYEgp9hs+ijAqUXD+XobRXky0YB5iohBAA.webp",
+        "date": 1785601800000,
+        "kickoffMs": 1785601800000,
+        "endTimeMs": 1785616200000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [],
+        "sources": [
+          {
+            "source": "echo",
+            "id": "york-knights-vs-st-helens-game-184842"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": true,
+        "teams": {
+          "home": {
+            "name": "York City Knights",
+            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIoQAgAzAAJghDd1IEiDXajIC4gggIBCkz4ouYMvCLzRTprTAuxoiCA.webp"
+          },
+          "away": {
+            "name": "St Helens",
+            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCVgYQbT4huIbTBAATI7hAGQeswQpM+KLmDLwi80faa0wjsaIhA.webp"
+          }
+        },
+        "_streamedData": {
+          "id": "york-city-knights-vs-st-helens-2395986",
+          "sources": [
+            {
+              "source": "echo",
+              "id": "york-knights-vs-st-helens-game-184842"
+            }
+          ],
+          "popular": true
+        },
+        "generated_poster": "output/images/york-city-knights-vs-st-helens-2395986.png"
+      },
+      {
+        "id": "catalans-dragons-vs-wakefield-trinity-wildcats-2395987",
+        "slug": "catalans-dragons-vs-wakefield-trinity-wildcats-2395987",
+        "title": "Catalans Dragons vs Wakefield Trinity Wildcats",
+        "category": "rugby",
+        "sport": "rugby",
+        "league": "",
+        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHFn7EmibiD4gpIEiFOnEEEHsbAkFPsNn0UYFSi6vy9TaPc7gYK5iohBAA.webp",
+        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHFn7EmibiD4gpIEiFOnEEEHsbAkFPsNn0UYFSi6vy9TaPc7gYK5iohBAA.webp",
+        "date": 1785610800000,
+        "kickoffMs": 1785610800000,
+        "endTimeMs": 1785625200000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [],
+        "sources": [
+          {
+            "source": "echo",
+            "id": "catalans-dragons-vs-wakefield-trinity-game-37322"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": true,
+        "teams": {
+          "home": {
+            "name": "Catalans Dragons",
+            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOoATMOBQaQ3EBFwhVIFCER8D+5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+          },
+          "away": {
+            "name": "Wakefield Trinity Wildcats",
+            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBIQIYGu5gSIbiD4gYR3KYjqLEAhSZ8UXHeXrzR9prTA6xoiEA.webp"
+          }
+        },
+        "_streamedData": {
+          "id": "catalans-dragons-vs-wakefield-trinity-wildcats-2395987",
+          "sources": [
+            {
+              "source": "echo",
+              "id": "catalans-dragons-vs-wakefield-trinity-game-37322"
+            }
+          ],
+          "popular": true
+        },
+        "generated_poster": "output/images/catalans-dragons-vs-wakefield-trinity-wildcats-2395987.png"
+      },
+      {
+        "id": "cronulla-sharks-vs-south-sydney-rabbitohs-2417332",
+        "slug": "cronulla-sharks-vs-south-sydney-rabbitohs-2417332",
+        "title": "Cronulla Sharks vs South Sydney Rabbitohs",
+        "category": "rugby",
+        "sport": "rugby",
+        "league": "",
+        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJJBD0NUsCBDcQfEFP0gSBkIghajBYBpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJJBD0NUsCBDcQfEFP0gSBkIghajBYBpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "date": 1785643200000,
+        "kickoffMs": 1785643200000,
+        "endTimeMs": 1785657600000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [
+          {
+            "server": "English - Fox League HD",
+            "url": "https://embed.st/embed/admin/ppv-sharks-vs-rabbitohs/1",
+            "hd": true,
+            "language": "English - Fox League",
+            "streamNo": 1,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "English - Fox League SD",
+            "url": "https://embed.st/embed/admin/ppv-sharks-vs-rabbitohs/2",
+            "hd": false,
+            "language": "English - Fox League",
+            "streamNo": 2,
+            "fromStreamedPk": true
+          }
+        ],
+        "sources": [
+          {
+            "source": "admin",
+            "id": "ppv-sharks-vs-rabbitohs"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": true,
+        "teams": {
+          "home": {
+            "name": "Cronulla Sharks",
+            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl74QtNWRzcQJXbhAwQfdYZDmQBCkz4ouYMvCLzRdprTAOxoiEA.webp"
+          },
+          "away": {
+            "name": "South Sydney Rabbitohs",
+            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAw2IKKMIwQ3ECX25VIPkYAmJkwQpM+KLmDLwi80faa0wjsaIhA.webp"
+          }
+        },
+        "_streamedData": {
+          "id": "cronulla-sharks-vs-south-sydney-rabbitohs-2417332",
+          "sources": [
+            {
+              "source": "admin",
+              "id": "ppv-sharks-vs-rabbitohs"
+            }
+          ],
+          "popular": true
+        },
+        "generated_poster": "output/images/cronulla-sharks-vs-south-sydney-rabbitohs-2417332.png"
+      },
+      {
+        "id": "wests-tigers-vs-parramatta-eels-2417333",
+        "slug": "wests-tigers-vs-parramatta-eels-2417333",
+        "title": "Wests Tigers vs Parramatta Eels",
+        "category": "rugby",
+        "sport": "rugby",
+        "league": "",
+        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rULxlYKaENxB8QUkCZJ6QiCCDONgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rULxlYKaENxB8QUkCZJ6QiCCDONgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "date": 1785650700000,
+        "kickoffMs": 1785650700000,
+        "endTimeMs": 1785665100000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [
+          {
+            "server": "English - Fox League HD",
+            "url": "https://embed.st/embed/admin/ppv-wests-tigers-vs-eels/1",
+            "hd": true,
+            "language": "English - Fox League",
+            "streamNo": 1,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "English - Fox League SD",
+            "url": "https://embed.st/embed/admin/ppv-wests-tigers-vs-eels/2",
+            "hd": false,
+            "language": "English - Fox League",
+            "streamNo": 2,
+            "fromStreamedPk": true
+          }
+        ],
+        "sources": [
+          {
+            "source": "admin",
+            "id": "ppv-wests-tigers-vs-eels"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": true,
+        "teams": {
+          "home": {
+            "name": "Wests Tigers",
+            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3gIQAE3Ybg6kNw0gIBxEb4hzKQwQpM+KLmDKr680faa0wjsaIhA.webp"
+          },
+          "away": {
+            "name": "Parramatta Eels",
+            "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBkoAEy7dcIbepAQQ+xIb4hzh9QQpM+KLmDLwi80faa0wjsaIhA.webp"
+          }
+        },
+        "_streamedData": {
+          "id": "wests-tigers-vs-parramatta-eels-2417333",
+          "sources": [
+            {
+              "source": "admin",
+              "id": "ppv-wests-tigers-vs-eels"
+            }
+          ],
+          "popular": true
+        },
+        "generated_poster": "output/images/wests-tigers-vs-parramatta-eels-2417333.png"
+      }
+    ],
     "other": [
+      {
+        "id": "ppv-event-07-brave-cf-kolev-v-ouassaidi-gameev-07",
+        "slug": "ppv-event-07-brave-cf-kolev-v-ouassaidi-gameev-07",
+        "title": "PPV EVENT 07: Brave CF Kolev v Ouassaidi",
+        "category": "other",
+        "sport": "other",
+        "league": "",
+        "poster": null,
+        "thumbnail": null,
+        "date": 1785601830000,
+        "kickoffMs": 1785601830000,
+        "endTimeMs": 1785623430000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [],
+        "sources": [
+          {
+            "source": "echo",
+            "id": "ppv-event-07-brave-cf-kolev-v-ouassaidi-gameev-07"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": true,
+        "teams": null,
+        "_streamedData": {
+          "id": "ppv-event-07-brave-cf-kolev-v-ouassaidi-gameev-07",
+          "sources": [
+            {
+              "source": "echo",
+              "id": "ppv-event-07-brave-cf-kolev-v-ouassaidi-gameev-07"
+            }
+          ],
+          "popular": true
+        },
+        "generated_poster": null
+      },
       {
         "id": "rocket-classic-day-3-pga-tour-golf-pga-526234",
         "slug": "rocket-classic-day-3-pga-tour-golf-pga-526234",
@@ -6946,60 +6757,6 @@
         "generated_poster": null
       },
       {
-        "id": "ppv-lollapalooza-chicago-2026-channel-1",
-        "slug": "ppv-lollapalooza-chicago-2026-channel-1",
-        "title": "Lollapalooza Chicago 2026 | Channel 1",
-        "category": "other",
-        "sport": "other",
-        "league": "",
-        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp",
-        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp",
-        "date": 1785614400000,
-        "kickoffMs": 1785614400000,
-        "endTimeMs": 1785636000000,
-        "isLive": false,
-        "status": "upcoming",
-        "iframes": [
-          {
-            "server": "English - Disney+ HD",
-            "url": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/1",
-            "hd": true,
-            "language": "English - Disney+",
-            "streamNo": 1,
-            "fromStreamedPk": true
-          },
-          {
-            "server": "English - Disney+ SD",
-            "url": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/2",
-            "hd": false,
-            "language": "English - Disney+",
-            "streamNo": 2,
-            "fromStreamedPk": true
-          }
-        ],
-        "sources": [
-          {
-            "source": "admin",
-            "id": "ppv-lollapalooza-chicago-2026-channel-1"
-          }
-        ],
-        "embedUrl": null,
-        "source": "streamed",
-        "popular": true,
-        "teams": null,
-        "_streamedData": {
-          "id": "ppv-lollapalooza-chicago-2026-channel-1",
-          "sources": [
-            {
-              "source": "admin",
-              "id": "ppv-lollapalooza-chicago-2026-channel-1"
-            }
-          ],
-          "popular": true
-        },
-        "generated_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp"
-      },
-      {
         "id": "ppv-lollapalooza-chicago-2026-channel-2",
         "slug": "ppv-lollapalooza-chicago-2026-channel-2",
         "title": "Lollapalooza Chicago 2026 | Channel 2",
@@ -7047,6 +6804,60 @@
             {
               "source": "admin",
               "id": "ppv-lollapalooza-chicago-2026-channel-2"
+            }
+          ],
+          "popular": true
+        },
+        "generated_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp"
+      },
+      {
+        "id": "ppv-lollapalooza-chicago-2026-channel-1",
+        "slug": "ppv-lollapalooza-chicago-2026-channel-1",
+        "title": "Lollapalooza Chicago 2026 | Channel 1",
+        "category": "other",
+        "sport": "other",
+        "league": "",
+        "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp",
+        "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp",
+        "date": 1785614400000,
+        "kickoffMs": 1785614400000,
+        "endTimeMs": 1785636000000,
+        "isLive": false,
+        "status": "upcoming",
+        "iframes": [
+          {
+            "server": "English - Disney+ HD",
+            "url": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/1",
+            "hd": true,
+            "language": "English - Disney+",
+            "streamNo": 1,
+            "fromStreamedPk": true
+          },
+          {
+            "server": "English - Disney+ SD",
+            "url": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/2",
+            "hd": false,
+            "language": "English - Disney+",
+            "streamNo": 2,
+            "fromStreamedPk": true
+          }
+        ],
+        "sources": [
+          {
+            "source": "admin",
+            "id": "ppv-lollapalooza-chicago-2026-channel-1"
+          }
+        ],
+        "embedUrl": null,
+        "source": "streamed",
+        "popular": true,
+        "teams": null,
+        "_streamedData": {
+          "id": "ppv-lollapalooza-chicago-2026-channel-1",
+          "sources": [
+            {
+              "source": "admin",
+              "id": "ppv-lollapalooza-chicago-2026-channel-1"
             }
           ],
           "popular": true
@@ -9557,6 +9368,161 @@
   },
   "matches": [
     {
+      "id": "ban-k-ostrava-vs-slavia-prague-2497735",
+      "slug": "ban-k-ostrava-vs-slavia-prague-2497735",
+      "title": "Baník Ostrava vs Slavia Prague",
+      "category": "football",
+      "sport": "football",
+      "league": "",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmKowBpECRC8QWECeogzKEJf0mr+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp",
+      "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmKowBpECRC8QWECeogzKEJf0mr+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp",
+      "date": 1785596400000,
+      "kickoffMs": 1785596400000,
+      "endTimeMs": 1785607200000,
+      "isLive": true,
+      "status": "live",
+      "iframes": [
+        {
+          "server": "Czech - Oneplay Sport 1 HD",
+          "url": "https://embed.st/embed/admin/ppv-ban-k-ostrava-vs-slavia-prague/1",
+          "hd": true,
+          "language": "Czech - Oneplay Sport 1",
+          "streamNo": 1,
+          "fromStreamedPk": true
+        },
+        {
+          "server": "Czech - Oneplay Sport 1 SD",
+          "url": "https://embed.st/embed/admin/ppv-ban-k-ostrava-vs-slavia-prague/2",
+          "hd": false,
+          "language": "Czech - Oneplay Sport 1",
+          "streamNo": 2,
+          "fromStreamedPk": true
+        }
+      ],
+      "sources": [
+        {
+          "source": "admin",
+          "id": "ppv-ban-k-ostrava-vs-slavia-prague"
+        }
+      ],
+      "embedUrl": null,
+      "source": "streamed",
+      "popular": true,
+      "teams": {
+        "home": {
+          "name": "Baník Ostrava",
+          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQhuFFMCQgIakABMQq7jr2qYIS3wIUm1rmDLwi80Zqa0wjsaIhA.webp"
+        },
+        "away": {
+          "name": "Slavia Prague",
+          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAgBABmCr6+ENzUgSIFLkOn9iFAQpM+KLmDLwi80faa0wjsaIhA.webp"
+        }
+      },
+      "_streamedData": {
+        "id": "ban-k-ostrava-vs-slavia-prague-2497735",
+        "sources": [
+          {
+            "source": "admin",
+            "id": "ppv-ban-k-ostrava-vs-slavia-prague"
+          }
+        ],
+        "popular": true
+      },
+      "generated_poster": "output/images/ban-k-ostrava-vs-slavia-prague-2497735.png"
+    },
+    {
+      "id": "hamburg-vs-everton-2521760",
+      "slug": "hamburg-vs-everton-2521760",
+      "title": "Hamburg vs Everton",
+      "category": "football",
+      "sport": "football",
+      "league": "",
+      "poster": null,
+      "thumbnail": null,
+      "date": 1785596400000,
+      "kickoffMs": 1785596400000,
+      "endTimeMs": 1785607200000,
+      "isLive": true,
+      "status": "live",
+      "iframes": [],
+      "sources": [
+        {
+          "source": "echo",
+          "id": "hamburger-sv-vs-everton-game-2787886"
+        }
+      ],
+      "embedUrl": null,
+      "source": "streamed",
+      "popular": false,
+      "teams": {
+        "home": {
+          "name": "Hamburg",
+          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLAATaHDgQQ3ENr4hE2kodwgUIVQQpM+KLmDLwi80faa0wjsaIhA.webp"
+        },
+        "away": {
+          "name": "Everton",
+          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzK9uYFNmAATENxAlcIRPpAgIIPiBTmCFJnxRcwZeEXminTWmBdjREEA.webp"
+        }
+      },
+      "_streamedData": {
+        "id": "hamburg-vs-everton-2521760",
+        "sources": [
+          {
+            "source": "echo",
+            "id": "hamburger-sv-vs-everton-game-2787886"
+          }
+        ],
+        "popular": false
+      },
+      "generated_poster": "output/images/hamburg-vs-everton-2521760.png"
+    },
+    {
+      "id": "rio-ave-vs-tondela-2521719",
+      "slug": "rio-ave-vs-tondela-2521719",
+      "title": "Rio Ave vs Tondela",
+      "category": "football",
+      "sport": "football",
+      "league": "",
+      "poster": null,
+      "thumbnail": null,
+      "date": 1785594600000,
+      "kickoffMs": 1785594600000,
+      "endTimeMs": 1785605400000,
+      "isLive": true,
+      "status": "live",
+      "iframes": [],
+      "sources": [
+        {
+          "source": "echo",
+          "id": "rio-ave-vs-tondela-game-311111"
+        }
+      ],
+      "embedUrl": null,
+      "source": "streamed",
+      "popular": false,
+      "teams": {
+        "home": {
+          "name": "Rio Ave",
+          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyYD5ABmBgw3ELoAmuEMeMk9RxCgIVVKLmDLwi80Xaa1toqXSA.webp"
+        },
+        "away": {
+          "name": "Tondela",
+          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzQgBhXgBNgmkNxC6cIYyBIGQMExMIxgTPii5gy8IvNGOmtMM7GiIQA.webp"
+        }
+      },
+      "_streamedData": {
+        "id": "rio-ave-vs-tondela-2521719",
+        "sources": [
+          {
+            "source": "echo",
+            "id": "rio-ave-vs-tondela-game-311111"
+          }
+        ],
+        "popular": false
+      },
+      "generated_poster": "output/images/rio-ave-vs-tondela-2521719.png"
+    },
+    {
       "id": "ufc-fight-night-283-medi--vs-rodriguez-2476379",
       "slug": "ufc-fight-night-283-medi--vs-rodriguez-2476379",
       "title": "UFC Fight Night 283 Medić vs Rodriguez",
@@ -9700,144 +9666,6 @@
       "generated_poster": "output/images/ufc-fight-night-283-medi--vs-rodriguez-2476379.png"
     },
     {
-      "id": "castleford-tigers-vs-warrington-wolves-2395985",
-      "slug": "castleford-tigers-vs-warrington-wolves-2395985",
-      "title": "Castleford Tigers vs Warrington Wolves",
-      "category": "rugby",
-      "sport": "rugby",
-      "league": "",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJOVF8wKYAAYQ3EHxBSQJEJcuJEKYwWAaY-YbPoowK3W0-l6WWV0mWjBPMVEIIA.webp",
-      "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJOVF8wKYAAYQ3EHxBSQJEJcuJEKYwWAaY-YbPoowK3W0-l6WWV0mWjBPMVEIIA.webp",
-      "date": 1785592800000,
-      "kickoffMs": 1785592800000,
-      "endTimeMs": 1785607200000,
-      "isLive": true,
-      "status": "live",
-      "iframes": [],
-      "sources": [
-        {
-          "source": "echo",
-          "id": "castleford-tigers-vs-warrington-wolves-game-182283"
-        }
-      ],
-      "embedUrl": null,
-      "source": "streamed",
-      "popular": true,
-      "teams": {
-        "home": {
-          "name": "Castleford Tigers",
-          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzJlu0FCC3cQfEABMQOnYYghEe5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-        },
-        "away": {
-          "name": "Warrington Wolves",
-          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplq8UXJMAAMIbiAAmIEgZB8Q5lCb36CFJn3VswZeEXmj1TWmGdjREIA.webp"
-        }
-      },
-      "_streamedData": {
-        "id": "castleford-tigers-vs-warrington-wolves-2395985",
-        "sources": [
-          {
-            "source": "echo",
-            "id": "castleford-tigers-vs-warrington-wolves-game-182283"
-          }
-        ],
-        "popular": true
-      },
-      "generated_poster": "output/images/castleford-tigers-vs-warrington-wolves-2395985.png"
-    },
-    {
-      "id": "middlesbrough-vs-espanyol-2482891",
-      "slug": "middlesbrough-vs-espanyol-2482891",
-      "title": "Middlesbrough vs Espanyol",
-      "category": "football",
-      "sport": "football",
-      "league": "",
-      "poster": null,
-      "thumbnail": null,
-      "date": 1785592800000,
-      "kickoffMs": 1785592800000,
-      "endTimeMs": 1785603600000,
-      "isLive": true,
-      "status": "live",
-      "iframes": [],
-      "sources": [
-        {
-          "source": "echo",
-          "id": "middlesbrough-vs-espanyol-gameas-131"
-        }
-      ],
-      "embedUrl": null,
-      "source": "streamed",
-      "popular": false,
-      "teams": {
-        "home": {
-          "name": "Middlesbrough",
-          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh15QAJsCT8QfENx0hDMEMbWGQKE7gIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-        },
-        "away": {
-          "name": "Espanyol",
-          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqAJiAGEkYJCG4gNqg3xAwQiHFYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-        }
-      },
-      "_streamedData": {
-        "id": "middlesbrough-vs-espanyol-2482891",
-        "sources": [
-          {
-            "source": "echo",
-            "id": "middlesbrough-vs-espanyol-gameas-131"
-          }
-        ],
-        "popular": false
-      },
-      "generated_poster": "output/images/middlesbrough-vs-espanyol-2482891.png"
-    },
-    {
-      "id": "tranmere-rovers-vs-rochdale-2491635",
-      "slug": "tranmere-rovers-vs-rochdale-2491635",
-      "title": "Tranmere Rovers vs Rochdale",
-      "category": "football",
-      "sport": "football",
-      "league": "",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGUhwKhCF4gs2-YZNGjBxfmBIKWEXMYowqlDxflG1OW+v0wLuJiEEA.webp",
-      "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGUhwKhCF4gs2-YZNGjBxfmBIKWEXMYowqlDxflG1OW+v0wLuJiEEA.webp",
-      "date": 1785592800000,
-      "kickoffMs": 1785592800000,
-      "endTimeMs": 1785603600000,
-      "isLive": true,
-      "status": "live",
-      "iframes": [],
-      "sources": [
-        {
-          "source": "echo",
-          "id": "tranmere-vs-rochdale-football-1554097"
-        }
-      ],
-      "embedUrl": null,
-      "source": "streamed",
-      "popular": false,
-      "teams": {
-        "home": {
-          "name": "Tranmere Rovers",
-          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh15oQJXGHAQQ3EABNcB3SBSmQfEFYmEYwJnxRcwZeEXminTWmBdjREEA.webp"
-        },
-        "away": {
-          "name": "Rochdale",
-          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjLcwfdWHA5uICLj0gYIRDhIgAJiAmEYwJnxRcwZeEXminTWmBdjREEA.webp"
-        }
-      },
-      "_streamedData": {
-        "id": "tranmere-rovers-vs-rochdale-2491635",
-        "sources": [
-          {
-            "source": "echo",
-            "id": "tranmere-vs-rochdale-football-1554097"
-          }
-        ],
-        "popular": false
-      },
-      "generated_poster": "output/images/tranmere-rovers-vs-rochdale-2491635.png"
-    },
-    {
       "id": "falkirk-vs-st-mirren-2494411",
       "slug": "falkirk-vs-st-mirren-2494411",
       "title": "Falkirk vs St Mirren",
@@ -9909,52 +9737,6 @@
       "generated_poster": "output/images/falkirk-vs-st-mirren-2494411.png"
     },
     {
-      "id": "cardiff-city-vs-roma-2521739",
-      "slug": "cardiff-city-vs-roma-2521739",
-      "title": "Cardiff City vs Roma",
-      "category": "football",
-      "sport": "football",
-      "league": "",
-      "poster": null,
-      "thumbnail": null,
-      "date": 1785592800000,
-      "kickoffMs": 1785592800000,
-      "endTimeMs": 1785603600000,
-      "isLive": true,
-      "status": "live",
-      "iframes": [],
-      "sources": [
-        {
-          "source": "echo",
-          "id": "cardiff-city-vs-as-roma-game-415151"
-        }
-      ],
-      "embedUrl": null,
-      "source": "streamed",
-      "popular": false,
-      "teams": {
-        "home": {
-          "name": "Cardiff City",
-          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBQU0OBBDcQWrSAMgYhnAeWEYwJnxRcwZeEXmjbTWmHtjREIA.webp"
-        },
-        "away": {
-          "name": "Roma",
-          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRg+2SrgQhuIPiAAmIGCFM4TR-RAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-        }
-      },
-      "_streamedData": {
-        "id": "cardiff-city-vs-roma-2521739",
-        "sources": [
-          {
-            "source": "echo",
-            "id": "cardiff-city-vs-as-roma-game-415151"
-          }
-        ],
-        "popular": false
-      },
-      "generated_poster": "output/images/cardiff-city-vs-roma-2521739.png"
-    },
-    {
       "id": "manchester-united-vs-atl-tico-madrid-2467932",
       "slug": "manchester-united-vs-atl-tico-madrid-2467932",
       "title": "Manchester United vs Atlético Madrid",
@@ -9990,14 +9772,6 @@
         {
           "source": "admin",
           "id": "ppv-manchester-united-vs-atl-tico-madrid"
-        },
-        {
-          "source": "delta",
-          "id": "live_club-friendly-games_man-utd-atl-madrid-live-streaming-597944592"
-        },
-        {
-          "source": "echo",
-          "id": "manchester-united-vs-atletico-madrid-game-6111"
         }
       ],
       "embedUrl": null,
@@ -10019,14 +9793,6 @@
           {
             "source": "admin",
             "id": "ppv-manchester-united-vs-atl-tico-madrid"
-          },
-          {
-            "source": "delta",
-            "id": "live_club-friendly-games_man-utd-atl-madrid-live-streaming-597944592"
-          },
-          {
-            "source": "echo",
-            "id": "manchester-united-vs-atletico-madrid-game-6111"
           }
         ],
         "popular": true
@@ -10034,33 +9800,33 @@
       "generated_poster": "output/images/manchester-united-vs-atl-tico-madrid-2467932.png"
     },
     {
-      "id": "magdeburg-vs-west-ham-united-2527447",
-      "slug": "magdeburg-vs-west-ham-united-2527447",
-      "title": "Magdeburg vs West Ham United",
-      "category": "football",
-      "sport": "football",
+      "id": "firenze-red-lions-vs-paris-lights-2475825",
+      "slug": "firenze-red-lions-vs-paris-lights-2475825",
+      "title": "Firenze Red Lions vs Paris Lights",
+      "category": "american football",
+      "sport": "american football",
       "league": "",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKRBVxIYSETDgEufGxSQAY03qIIParm7EW-XpBYZWYNOlyYKchIFCRTbPTCFgSXBodCwbk5lUnoCYFUwQKVQiCA.webp",
-      "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKRBVxIYSETDgEufGxSQAY03qIIParm7EW-XpBYZWYNOlyYKchIFCRTbPTCFgSXBodCwbk5lUnoCYFUwQKVQiCA.webp",
-      "date": 1785587400000,
-      "kickoffMs": 1785587400000,
-      "endTimeMs": 1785598200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiCwiQieMBpkI4ycuEgQwJWsQBjbJpBKyalCDXaQiszOC6U5CKDCCRTffbCFgSXDvtDnVkdhUnoCW3JnTVCIIA.webp",
+      "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiCwiQieMBpkI4ycuEgQwJWsQBjbJpBKyalCDXaQiszOC6U5CKDCCRTffbCFgSXDvtDnVkdhUnoCW3JnTVCIIA.webp",
+      "date": 1785597000000,
+      "kickoffMs": 1785597000000,
+      "endTimeMs": 1785611400000,
       "isLive": true,
       "status": "live",
       "iframes": [
         {
-          "server": "English - West Ham TV HD",
-          "url": "https://embed.st/embed/admin/ppv-1-fc-magdeburg-vs-west-ham-united/1",
+          "server": "English - AFLE+ HD",
+          "url": "https://embed.st/embed/admin/ppv-paris-lights-vs-firenze-red-lions/1",
           "hd": true,
-          "language": "English - West Ham TV",
+          "language": "English - AFLE+",
           "streamNo": 1,
           "fromStreamedPk": true
         },
         {
-          "server": "English - West Ham TV SD",
-          "url": "https://embed.st/embed/admin/ppv-1-fc-magdeburg-vs-west-ham-united/2",
+          "server": "English - AFLE+ SD",
+          "url": "https://embed.st/embed/admin/ppv-paris-lights-vs-firenze-red-lions/2",
           "hd": false,
-          "language": "English - West Ham TV",
+          "language": "English - AFLE+",
           "streamNo": 2,
           "fromStreamedPk": true
         }
@@ -10068,11 +9834,7 @@
       "sources": [
         {
           "source": "admin",
-          "id": "ppv-1-fc-magdeburg-vs-west-ham-united"
-        },
-        {
-          "source": "echo",
-          "id": "magdeburg-vs-west-ham-united-gamefeg-1433"
+          "id": "ppv-paris-lights-vs-firenze-red-lions"
         }
       ],
       "embedUrl": null,
@@ -10080,29 +9842,25 @@
       "popular": true,
       "teams": {
         "home": {
-          "name": "Magdeburg",
-          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmuYCrBlwibiBIhEOEPpBqcelQQpM+KLlvL15o+01pgtY0RCA.webp"
+          "name": "Firenze Red Lions",
+          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDAmA+NAghuIPnoMgjuEABMzIFAQrqUXMGU315ou01pgHY0RCA.webp"
         },
         "away": {
-          "name": "West Ham United",
-          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRgyUVeETcQEEABMQfXSBIgU50wYIUmfFFzXl680Q6a0wasaIhA.webp"
+          "name": "Paris Lights",
+          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkT02A0BBDcQfXfpCHcRnXwIUmZrmDLwi80SmBNaYG2NEQgA.webp"
         }
       },
       "_streamedData": {
-        "id": "magdeburg-vs-west-ham-united-2527447",
+        "id": "firenze-red-lions-vs-paris-lights-2475825",
         "sources": [
           {
             "source": "admin",
-            "id": "ppv-1-fc-magdeburg-vs-west-ham-united"
-          },
-          {
-            "source": "echo",
-            "id": "magdeburg-vs-west-ham-united-gamefeg-1433"
+            "id": "ppv-paris-lights-vs-firenze-red-lions"
           }
         ],
         "popular": true
       },
-      "generated_poster": "output/images/magdeburg-vs-west-ham-united-2527447.png"
+      "generated_poster": "output/images/firenze-red-lions-vs-paris-lights-2475825.png"
     },
     {
       "id": "nflstreams_live",
@@ -10113,9 +9871,9 @@
       "league": "",
       "poster": null,
       "thumbnail": null,
-      "date": 1785593620902,
-      "kickoffMs": 1785593620902,
-      "endTimeMs": 1785604420902,
+      "date": 1785597551862,
+      "kickoffMs": 1785597551862,
+      "endTimeMs": 1785608351862,
       "isLive": true,
       "status": "live",
       "iframes": [],
@@ -10150,9 +9908,9 @@
       "league": "",
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
       "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
-      "date": 1785593620902,
-      "kickoffMs": 1785593620902,
-      "endTimeMs": 1785636820902,
+      "date": 1785597551862,
+      "kickoffMs": 1785597551862,
+      "endTimeMs": 1785640751862,
       "isLive": true,
       "status": "live",
       "iframes": [
@@ -10236,9 +9994,9 @@
       "league": "",
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp",
       "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp",
-      "date": 1785593620902,
-      "kickoffMs": 1785593620902,
-      "endTimeMs": 1785618820902,
+      "date": 1785597551862,
+      "kickoffMs": 1785597551862,
+      "endTimeMs": 1785622751862,
       "isLive": true,
       "status": "live",
       "iframes": [
@@ -10290,9 +10048,9 @@
       "league": "",
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp",
       "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp",
-      "date": 1785593620902,
-      "kickoffMs": 1785593620902,
-      "endTimeMs": 1785615220902,
+      "date": 1785597551862,
+      "kickoffMs": 1785597551862,
+      "endTimeMs": 1785619151862,
       "isLive": true,
       "status": "live",
       "iframes": [
@@ -10326,224 +10084,6 @@
         "popular": true
       },
       "generated_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp"
-    },
-    {
-      "id": "rio-ave-vs-tondela-2521719",
-      "slug": "rio-ave-vs-tondela-2521719",
-      "title": "Rio Ave vs Tondela",
-      "category": "football",
-      "sport": "football",
-      "league": "",
-      "poster": null,
-      "thumbnail": null,
-      "date": 1785594600000,
-      "kickoffMs": 1785594600000,
-      "endTimeMs": 1785605400000,
-      "isLive": false,
-      "status": "upcoming",
-      "iframes": [],
-      "sources": [
-        {
-          "source": "echo",
-          "id": "rio-ave-vs-tondela-game-311111"
-        }
-      ],
-      "embedUrl": null,
-      "source": "streamed",
-      "popular": false,
-      "teams": {
-        "home": {
-          "name": "Rio Ave",
-          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyYD5ABmBgw3ELoAmuEMeMk9RxCgIVVKLmDLwi80Xaa1toqXSA.webp"
-        },
-        "away": {
-          "name": "Tondela",
-          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzQgBhXgBNgmkNxC6cIYyBIGQMExMIxgTPii5gy8IvNGOmtMM7GiIQA.webp"
-        }
-      },
-      "_streamedData": {
-        "id": "rio-ave-vs-tondela-2521719",
-        "sources": [
-          {
-            "source": "echo",
-            "id": "rio-ave-vs-tondela-game-311111"
-          }
-        ],
-        "popular": false
-      },
-      "generated_poster": "output/images/rio-ave-vs-tondela-2521719.png"
-    },
-    {
-      "id": "hamburg-vs-everton-2521760",
-      "slug": "hamburg-vs-everton-2521760",
-      "title": "Hamburg vs Everton",
-      "category": "football",
-      "sport": "football",
-      "league": "",
-      "poster": null,
-      "thumbnail": null,
-      "date": 1785596400000,
-      "kickoffMs": 1785596400000,
-      "endTimeMs": 1785607200000,
-      "isLive": false,
-      "status": "upcoming",
-      "iframes": [],
-      "sources": [
-        {
-          "source": "echo",
-          "id": "hamburger-sv-vs-everton-game-2787886"
-        }
-      ],
-      "embedUrl": null,
-      "source": "streamed",
-      "popular": false,
-      "teams": {
-        "home": {
-          "name": "Hamburg",
-          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLAATaHDgQQ3ENr4hE2kodwgUIVQQpM+KLmDLwi80faa0wjsaIhA.webp"
-        },
-        "away": {
-          "name": "Everton",
-          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzK9uYFNmAATENxAlcIRPpAgIIPiBTmCFJnxRcwZeEXminTWmBdjREEA.webp"
-        }
-      },
-      "_streamedData": {
-        "id": "hamburg-vs-everton-2521760",
-        "sources": [
-          {
-            "source": "echo",
-            "id": "hamburger-sv-vs-everton-game-2787886"
-          }
-        ],
-        "popular": false
-      },
-      "generated_poster": "output/images/hamburg-vs-everton-2521760.png"
-    },
-    {
-      "id": "ban-k-ostrava-vs-slavia-prague-2497735",
-      "slug": "ban-k-ostrava-vs-slavia-prague-2497735",
-      "title": "Baník Ostrava vs Slavia Prague",
-      "category": "football",
-      "sport": "football",
-      "league": "",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmKowBpECRC8QWECeogzKEJf0mr+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp",
-      "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmKowBpECRC8QWECeogzKEJf0mr+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp",
-      "date": 1785596400000,
-      "kickoffMs": 1785596400000,
-      "endTimeMs": 1785607200000,
-      "isLive": false,
-      "status": "upcoming",
-      "iframes": [
-        {
-          "server": "Czech - Oneplay Sport 1 HD",
-          "url": "https://embed.st/embed/admin/ppv-ban-k-ostrava-vs-slavia-prague/1",
-          "hd": true,
-          "language": "Czech - Oneplay Sport 1",
-          "streamNo": 1,
-          "fromStreamedPk": true
-        },
-        {
-          "server": "Czech - Oneplay Sport 1 SD",
-          "url": "https://embed.st/embed/admin/ppv-ban-k-ostrava-vs-slavia-prague/2",
-          "hd": false,
-          "language": "Czech - Oneplay Sport 1",
-          "streamNo": 2,
-          "fromStreamedPk": true
-        }
-      ],
-      "sources": [
-        {
-          "source": "admin",
-          "id": "ppv-ban-k-ostrava-vs-slavia-prague"
-        }
-      ],
-      "embedUrl": null,
-      "source": "streamed",
-      "popular": true,
-      "teams": {
-        "home": {
-          "name": "Baník Ostrava",
-          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQhuFFMCQgIakABMQq7jr2qYIS3wIUm1rmDLwi80Zqa0wjsaIhA.webp"
-        },
-        "away": {
-          "name": "Slavia Prague",
-          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAgBABmCr6+ENzUgSIFLkOn9iFAQpM+KLmDLwi80faa0wjsaIhA.webp"
-        }
-      },
-      "_streamedData": {
-        "id": "ban-k-ostrava-vs-slavia-prague-2497735",
-        "sources": [
-          {
-            "source": "admin",
-            "id": "ppv-ban-k-ostrava-vs-slavia-prague"
-          }
-        ],
-        "popular": true
-      },
-      "generated_poster": "output/images/ban-k-ostrava-vs-slavia-prague-2497735.png"
-    },
-    {
-      "id": "firenze-red-lions-vs-paris-lights-2475825",
-      "slug": "firenze-red-lions-vs-paris-lights-2475825",
-      "title": "Firenze Red Lions vs Paris Lights",
-      "category": "american football",
-      "sport": "american football",
-      "league": "",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiCwiQieMBpkI4ycuEgQwJWsQBjbJpBKyalCDXaQiszOC6U5CKDCCRTffbCFgSXDvtDnVkdhUnoCW3JnTVCIIA.webp",
-      "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiCwiQieMBpkI4ycuEgQwJWsQBjbJpBKyalCDXaQiszOC6U5CKDCCRTffbCFgSXDvtDnVkdhUnoCW3JnTVCIIA.webp",
-      "date": 1785597000000,
-      "kickoffMs": 1785597000000,
-      "endTimeMs": 1785611400000,
-      "isLive": false,
-      "status": "upcoming",
-      "iframes": [
-        {
-          "server": "English - AFLE+ HD",
-          "url": "https://embed.st/embed/admin/ppv-paris-lights-vs-firenze-red-lions/1",
-          "hd": true,
-          "language": "English - AFLE+",
-          "streamNo": 1,
-          "fromStreamedPk": true
-        },
-        {
-          "server": "English - AFLE+ SD",
-          "url": "https://embed.st/embed/admin/ppv-paris-lights-vs-firenze-red-lions/2",
-          "hd": false,
-          "language": "English - AFLE+",
-          "streamNo": 2,
-          "fromStreamedPk": true
-        }
-      ],
-      "sources": [
-        {
-          "source": "admin",
-          "id": "ppv-paris-lights-vs-firenze-red-lions"
-        }
-      ],
-      "embedUrl": null,
-      "source": "streamed",
-      "popular": true,
-      "teams": {
-        "home": {
-          "name": "Firenze Red Lions",
-          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDAmA+NAghuIPnoMgjuEABMzIFAQrqUXMGU315ou01pgHY0RCA.webp"
-        },
-        "away": {
-          "name": "Paris Lights",
-          "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkT02A0BBDcQfXfpCHcRnXwIUmZrmDLwi80SmBNaYG2NEQgA.webp"
-        }
-      },
-      "_streamedData": {
-        "id": "firenze-red-lions-vs-paris-lights-2475825",
-        "sources": [
-          {
-            "source": "admin",
-            "id": "ppv-paris-lights-vs-firenze-red-lions"
-          }
-        ],
-        "popular": true
-      },
-      "generated_poster": "output/images/firenze-red-lions-vs-paris-lights-2475825.png"
     },
     {
       "id": "wieczysta-krak-w-vs-lech-pozna--2490206",
@@ -10947,6 +10487,10 @@
           "id": "live-event_pierce-o-leary-vs-mark-chamberlain-live-stream"
         },
         {
+          "source": "echo",
+          "id": "ppv-event-06-oleary-v-chamberlain-gameev-06"
+        },
+        {
           "source": "golf",
           "id": "24100"
         }
@@ -10970,6 +10514,10 @@
           {
             "source": "delta",
             "id": "live-event_pierce-o-leary-vs-mark-chamberlain-live-stream"
+          },
+          {
+            "source": "echo",
+            "id": "ppv-event-06-oleary-v-chamberlain-gameev-06"
           },
           {
             "source": "golf",
@@ -11254,6 +10802,43 @@
         "popular": true
       },
       "generated_poster": "output/images/oktagon-92-szabov--vs-pudilov--2475855.png"
+    },
+    {
+      "id": "ppv-event-07-brave-cf-kolev-v-ouassaidi-gameev-07",
+      "slug": "ppv-event-07-brave-cf-kolev-v-ouassaidi-gameev-07",
+      "title": "PPV EVENT 07: Brave CF Kolev v Ouassaidi",
+      "category": "other",
+      "sport": "other",
+      "league": "",
+      "poster": null,
+      "thumbnail": null,
+      "date": 1785601830000,
+      "kickoffMs": 1785601830000,
+      "endTimeMs": 1785623430000,
+      "isLive": false,
+      "status": "upcoming",
+      "iframes": [],
+      "sources": [
+        {
+          "source": "echo",
+          "id": "ppv-event-07-brave-cf-kolev-v-ouassaidi-gameev-07"
+        }
+      ],
+      "embedUrl": null,
+      "source": "streamed",
+      "popular": true,
+      "teams": null,
+      "_streamedData": {
+        "id": "ppv-event-07-brave-cf-kolev-v-ouassaidi-gameev-07",
+        "sources": [
+          {
+            "source": "echo",
+            "id": "ppv-event-07-brave-cf-kolev-v-ouassaidi-gameev-07"
+          }
+        ],
+        "popular": true
+      },
+      "generated_poster": null
     },
     {
       "id": "chicago-sky-w-vs-las-vegas-aces-w-basketball-494989",
@@ -12170,60 +11755,6 @@
       "generated_poster": "output/images/porto-vs-torreense-2532943.png"
     },
     {
-      "id": "ppv-lollapalooza-chicago-2026-channel-1",
-      "slug": "ppv-lollapalooza-chicago-2026-channel-1",
-      "title": "Lollapalooza Chicago 2026 | Channel 1",
-      "category": "other",
-      "sport": "other",
-      "league": "",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp",
-      "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp",
-      "date": 1785614400000,
-      "kickoffMs": 1785614400000,
-      "endTimeMs": 1785636000000,
-      "isLive": false,
-      "status": "upcoming",
-      "iframes": [
-        {
-          "server": "English - Disney+ HD",
-          "url": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/1",
-          "hd": true,
-          "language": "English - Disney+",
-          "streamNo": 1,
-          "fromStreamedPk": true
-        },
-        {
-          "server": "English - Disney+ SD",
-          "url": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/2",
-          "hd": false,
-          "language": "English - Disney+",
-          "streamNo": 2,
-          "fromStreamedPk": true
-        }
-      ],
-      "sources": [
-        {
-          "source": "admin",
-          "id": "ppv-lollapalooza-chicago-2026-channel-1"
-        }
-      ],
-      "embedUrl": null,
-      "source": "streamed",
-      "popular": true,
-      "teams": null,
-      "_streamedData": {
-        "id": "ppv-lollapalooza-chicago-2026-channel-1",
-        "sources": [
-          {
-            "source": "admin",
-            "id": "ppv-lollapalooza-chicago-2026-channel-1"
-          }
-        ],
-        "popular": true
-      },
-      "generated_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp"
-    },
-    {
       "id": "ppv-lollapalooza-chicago-2026-channel-2",
       "slug": "ppv-lollapalooza-chicago-2026-channel-2",
       "title": "Lollapalooza Chicago 2026 | Channel 2",
@@ -12271,6 +11802,60 @@
           {
             "source": "admin",
             "id": "ppv-lollapalooza-chicago-2026-channel-2"
+          }
+        ],
+        "popular": true
+      },
+      "generated_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp"
+    },
+    {
+      "id": "ppv-lollapalooza-chicago-2026-channel-1",
+      "slug": "ppv-lollapalooza-chicago-2026-channel-1",
+      "title": "Lollapalooza Chicago 2026 | Channel 1",
+      "category": "other",
+      "sport": "other",
+      "league": "",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp",
+      "thumbnail": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp",
+      "date": 1785614400000,
+      "kickoffMs": 1785614400000,
+      "endTimeMs": 1785636000000,
+      "isLive": false,
+      "status": "upcoming",
+      "iframes": [
+        {
+          "server": "English - Disney+ HD",
+          "url": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/1",
+          "hd": true,
+          "language": "English - Disney+",
+          "streamNo": 1,
+          "fromStreamedPk": true
+        },
+        {
+          "server": "English - Disney+ SD",
+          "url": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/2",
+          "hd": false,
+          "language": "English - Disney+",
+          "streamNo": 2,
+          "fromStreamedPk": true
+        }
+      ],
+      "sources": [
+        {
+          "source": "admin",
+          "id": "ppv-lollapalooza-chicago-2026-channel-1"
+        }
+      ],
+      "embedUrl": null,
+      "source": "streamed",
+      "popular": true,
+      "teams": null,
+      "_streamedData": {
+        "id": "ppv-lollapalooza-chicago-2026-channel-1",
+        "sources": [
+          {
+            "source": "admin",
+            "id": "ppv-lollapalooza-chicago-2026-channel-1"
           }
         ],
         "popular": true
@@ -18681,6 +18266,43 @@
           {
             "source": "delta",
             "id": "live-event_moto2-2026-british-grand-prix-live-stream"
+          }
+        ],
+        "popular": false
+      },
+      "generated_poster": null
+    },
+    {
+      "id": "live-event_indycar-2026-bitnile-com-grand-prix-of-portland-live-stream",
+      "slug": "live-event_indycar-2026-bitnile-com-grand-prix-of-portland-live-stream",
+      "title": "IndyCar 2026 - BitNile.com Grand Prix of Portland",
+      "category": "motorsport",
+      "sport": "motorsport",
+      "league": "",
+      "poster": null,
+      "thumbnail": null,
+      "date": 1786195920000,
+      "kickoffMs": 1786195920000,
+      "endTimeMs": 1786217520000,
+      "isLive": false,
+      "status": "upcoming",
+      "iframes": [],
+      "sources": [
+        {
+          "source": "delta",
+          "id": "live-event_indycar-2026-bitnile-com-grand-prix-of-portland-live-stream"
+        }
+      ],
+      "embedUrl": null,
+      "source": "streamed",
+      "popular": false,
+      "teams": null,
+      "_streamedData": {
+        "id": "live-event_indycar-2026-bitnile-com-grand-prix-of-portland-live-stream",
+        "sources": [
+          {
+            "source": "delta",
+            "id": "live-event_indycar-2026-bitnile-com-grand-prix-of-portland-live-stream"
           }
         ],
         "popular": false
