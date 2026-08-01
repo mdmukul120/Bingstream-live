@@ -1,38 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKRBVxIYSETDgEufGxSQAY03qIIParm7EW-XpBYZWYNOlyYKchIFCRTbPTCFgSXBodCwbk5lUnoCYFUwQKVQiCA.webp" group-title="Football", Magdeburg vs West Ham United (English - West Ham TV HD)
-https://embed.st/embed/admin/ppv-1-fc-magdeburg-vs-west-ham-united/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKRBVxIYSETDgEufGxSQAY03qIIParm7EW-XpBYZWYNOlyYKchIFCRTbPTCFgSXBodCwbk5lUnoCYFUwQKVQiCA.webp" group-title="Football", Magdeburg vs West Ham United (English - West Ham TV SD)
-https://embed.st/embed/admin/ppv-1-fc-magdeburg-vs-west-ham-united/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IMlhARgVEChCyAxiBUgRIRMpUkFG7HKkgYencuGkVpEcGmTR5aQKHWC2emELAkuRSmdhuTmlzMj9XeHIAmysIIA.webp" group-title="Football", Manchester City vs Inter Milan (English - CBS Sports Network HD)
-https://embed.st/embed/admin/ppv-manchester-city-vs-inter-milan/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IMlhARgVEChCyAxiBUgRIRMpUkFG7HKkgYencuGkVpEcGmTR5aQKHWC2emELAkuRSmdhuTmlzMj9XeHIAmysIIA.webp" group-title="Football", Manchester City vs Inter Milan (English - CBS Sports Network SD)
-https://embed.st/embed/admin/ppv-manchester-city-vs-inter-milan/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Cricket (English HD)
-https://embed.st/embed/admin/admin-willow-cricket/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Cricket (Willow 2 HD)
-https://embed.st/embed/admin/admin-willow-cricket/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Cricket (Willow Sports HD)
-https://embed.st/embed/admin/admin-willow-cricket/3
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Cricket (English SD)
-https://embed.st/embed/admin/admin-willow-cricket/4
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Cricket (Willow 2 SD)
-https://embed.st/embed/admin/admin-willow-cricket/5
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Cricket (Willow Sports SD)
-https://embed.st/embed/admin/admin-willow-cricket/6
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp" group-title="Tennis", Tennis Channel (English HD)
-https://embed.st/embed/admin/admin-tennis-channel/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp" group-title="Tennis", Tennis Channel (English SD)
-https://embed.st/embed/admin/admin-tennis-channel/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp" group-title="Motorsport", Rally TV (English HD)
-https://embed.st/embed/admin/admin-rally-tv/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCJAopIAMbjsIENmCIspOeJBYZOpSg1UZskcCNlhmmJojaD-MINMEV9wsCS5ZBoY9YThUnoXeHJHYAkyCCA.webp" group-title="Football", Manchester United vs Atlético Madrid (English - MUTV HD)
-https://embed.st/embed/admin/ppv-manchester-united-vs-atl-tico-madrid/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCJAopIAMbjsIENmCIspOeJBYZOpSg1UZskcCNlhmmJojaD-MINMEV9wsCS5ZBoY9YThUnoXeHJHYAkyCCA.webp" group-title="Football", Manchester United vs Atlético Madrid (English - MUTV SD)
-https://embed.st/embed/admin/ppv-manchester-united-vs-atl-tico-madrid/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDKCADOP5YQvEAZAhqhkChCJzBlCyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp" group-title="Football", Falkirk vs St Mirren (English - Paramount+ HD)
-https://embed.st/embed/admin/ppv-falkirk-vs-st-mirren/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDKCADOP5YQvEAZAhqhkChCJzBlCyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp" group-title="Football", Falkirk vs St Mirren (English - Paramount+ SD)
-https://embed.st/embed/admin/ppv-falkirk-vs-st-mirren/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmIAMDELxAkQ1XSCwgzBmCBQhL041fzAkFLCLmMUYVSh5fyjajkfR3owL3ExCCA.webp" group-title="Combat sports", UFC Fight Night 283 Medić vs Rodriguez (English - Paramount+ HD)
 https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmIAMDELxAkQ1XSCwgzBmCBQhL041fzAkFLCLmMUYVSh5fyjajkfR3owL3ExCCA.webp" group-title="Combat sports", UFC Fight Night 283 Medić vs Rodriguez (English - Paramount+ SD)
@@ -53,6 +19,36 @@ https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/8
 https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/9
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmIAMDELxAkQ1XSCwgzBmCBQhL041fzAkFLCLmMUYVSh5fyjajkfR3owL3ExCCA.webp" group-title="Combat sports", UFC Fight Night 283 Medić vs Rodriguez (Czech - Nova Sport 6 SD)
 https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/10
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDKCADOP5YQvEAZAhqhkChCJzBlCyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp" group-title="Football", Falkirk vs St Mirren (English - Paramount+ HD)
+https://embed.st/embed/admin/ppv-falkirk-vs-st-mirren/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDKCADOP5YQvEAZAhqhkChCJzBlCyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp" group-title="Football", Falkirk vs St Mirren (English - Paramount+ SD)
+https://embed.st/embed/admin/ppv-falkirk-vs-st-mirren/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCJAopIAMbjsIENmCIspOeJBYZOpSg1UZskcCNlhmmJojaD-MINMEV9wsCS5ZBoY9YThUnoXeHJHYAkyCCA.webp" group-title="Football", Manchester United vs Atlético Madrid (English - MUTV HD)
+https://embed.st/embed/admin/ppv-manchester-united-vs-atl-tico-madrid/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCJAopIAMbjsIENmCIspOeJBYZOpSg1UZskcCNlhmmJojaD-MINMEV9wsCS5ZBoY9YThUnoXeHJHYAkyCCA.webp" group-title="Football", Manchester United vs Atlético Madrid (English - MUTV SD)
+https://embed.st/embed/admin/ppv-manchester-united-vs-atl-tico-madrid/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKRBVxIYSETDgEufGxSQAY03qIIParm7EW-XpBYZWYNOlyYKchIFCRTbPTCFgSXBodCwbk5lUnoCYFUwQKVQiCA.webp" group-title="Football", Magdeburg vs West Ham United (English - West Ham TV HD)
+https://embed.st/embed/admin/ppv-1-fc-magdeburg-vs-west-ham-united/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKRBVxIYSETDgEufGxSQAY03qIIParm7EW-XpBYZWYNOlyYKchIFCRTbPTCFgSXBodCwbk5lUnoCYFUwQKVQiCA.webp" group-title="Football", Magdeburg vs West Ham United (English - West Ham TV SD)
+https://embed.st/embed/admin/ppv-1-fc-magdeburg-vs-west-ham-united/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Cricket (English HD)
+https://embed.st/embed/admin/admin-willow-cricket/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Cricket (Willow 2 HD)
+https://embed.st/embed/admin/admin-willow-cricket/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Cricket (Willow Sports HD)
+https://embed.st/embed/admin/admin-willow-cricket/3
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Cricket (English SD)
+https://embed.st/embed/admin/admin-willow-cricket/4
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Cricket (Willow 2 SD)
+https://embed.st/embed/admin/admin-willow-cricket/5
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Cricket (Willow Sports SD)
+https://embed.st/embed/admin/admin-willow-cricket/6
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp" group-title="Tennis", Tennis Channel (English HD)
+https://embed.st/embed/admin/admin-tennis-channel/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp" group-title="Tennis", Tennis Channel (English SD)
+https://embed.st/embed/admin/admin-tennis-channel/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp" group-title="Motorsport", Rally TV (English HD)
+https://embed.st/embed/admin/admin-rally-tv/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmKowBpECRC8QWECeogzKEJf0mr+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Football", Baník Ostrava vs Slavia Prague (Czech - Oneplay Sport 1 HD)
 https://embed.st/embed/admin/ppv-ban-k-ostrava-vs-slavia-prague/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmKowBpECRC8QWECeogzKEJf0mr+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Football", Baník Ostrava vs Slavia Prague (Czech - Oneplay Sport 1 SD)
@@ -113,14 +109,14 @@ https://embed.st/embed/admin/ppv-calgary-stampeders-vs-hamilton-tiger-cats/2
 https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-toronto-blue-jays/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBIgQcilJDcQ+rfv18QWmCAgGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Baseball", Toronto Blue Jays vs St. Louis Cardinals (English - Sportsnet SD)
 https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-toronto-blue-jays/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp" group-title="Other", Lollapalooza Chicago 2026 | Channel 2 (English - Disney+ HD)
-https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp" group-title="Other", Lollapalooza Chicago 2026 | Channel 2 (English - Disney+ SD)
-https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp" group-title="Other", Lollapalooza Chicago 2026 | Channel 1 (English - Disney+ HD)
 https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp" group-title="Other", Lollapalooza Chicago 2026 | Channel 1 (English - Disney+ SD)
 https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp" group-title="Other", Lollapalooza Chicago 2026 | Channel 2 (English - Disney+ HD)
+https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp" group-title="Other", Lollapalooza Chicago 2026 | Channel 2 (English - Disney+ SD)
+https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAXwRdgYbiD199IEiFMQQKC8ZAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Baseball", Seattle Mariners vs Minnesota Twins (English - Mariners.TV HD)
 https://embed.st/embed/admin/ppv-minnesota-twins-vs-seattle-mariners/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAXwRdgYbiD199IEiFMQQKC8ZAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Baseball", Seattle Mariners vs Minnesota Twins (English - Mariners.TV SD)
