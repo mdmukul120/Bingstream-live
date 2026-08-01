@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IMlhARgVEChCyAxiBUgRIRMpUkFG7HKkgYencuGkVpEcGmTR5aQKHWC2emELAkuRSmdhuTmlzMj9XeHIAmysIIA.webp" group-title="Football", Manchester City vs Inter Milan (English - CBS Sports Network HD)
+https://embed.st/embed/admin/ppv-manchester-city-vs-inter-milan/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IMlhARgVEChCyAxiBUgRIRMpUkFG7HKkgYencuGkVpEcGmTR5aQKHWC2emELAkuRSmdhuTmlzMj9XeHIAmysIIA.webp" group-title="Football", Manchester City vs Inter Milan (English - CBS Sports Network SD)
+https://embed.st/embed/admin/ppv-manchester-city-vs-inter-milan/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNEiAggAxpJnYQMESBVYQaquuBSlWbSE3DlKlCpApty4SESIlJC-zCCRTbPTCFgSXNItDnVghXMgsCYHhyZ0syCCA.webp" group-title="Football", Chelsea vs Tottenham Hotspur (English - CBS Sports Golazo HD)
 https://embed.st/embed/admin/ppv-chelsea-vs-tottenham-hotspur/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNEiAggAxpJnYQMESBVYQaquuBSlWbSE3DlKlCpApty4SESIlJC-zCCRTbPTCFgSXNItDnVghXMgsCYHhyZ0syCCA.webp" group-title="Football", Chelsea vs Tottenham Hotspur (English - CBS Sports Golazo SD)
@@ -25,10 +29,6 @@ https://embed.st/embed/admin/admin-tennis-channel/1
 https://embed.st/embed/admin/admin-tennis-channel/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp" group-title="Motorsport", Rally TV (English HD)
 https://embed.st/embed/admin/admin-rally-tv/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IMlhARgVEChCyAxiBUgRIRMpUkFG7HKkgYencuGkVpEcGmTR5aQKHWC2emELAkuRSmdhuTmlzMj9XeHIAmysIIA.webp" group-title="Football", Manchester City vs Inter Milan (English - CBS Sports Network HD)
-https://embed.st/embed/admin/ppv-manchester-city-vs-inter-milan/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IMlhARgVEChCyAxiBUgRIRMpUkFG7HKkgYencuGkVpEcGmTR5aQKHWC2emELAkuRSmdhuTmlzMj9XeHIAmysIIA.webp" group-title="Football", Manchester City vs Inter Milan (English - CBS Sports Network SD)
-https://embed.st/embed/admin/ppv-manchester-city-vs-inter-milan/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCJAopIAMbjsIENmCIspOeJBYZOpSg1UZskcCNlhmmJojaD-MINMEV9wsCS5ZBoY9YThUnoXeHJHYAkyCCA.webp" group-title="Football", Manchester United vs Atlético Madrid (English - MUTV HD)
 https://embed.st/embed/admin/ppv-manchester-united-vs-atl-tico-madrid/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCJAopIAMbjsIENmCIspOeJBYZOpSg1UZskcCNlhmmJojaD-MINMEV9wsCS5ZBoY9YThUnoXeHJHYAkyCCA.webp" group-title="Football", Manchester United vs Atlético Madrid (English - MUTV SD)
@@ -87,6 +87,8 @@ https://embed.st/embed/admin/ppv-aberdeen-vs-heart-of-midlothian/2
 https://embed.st/embed/admin/ppv-las-vegas-aces-vs-chicago-sky/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCCgkQopGCQhuIKTsMgU5kFcQWUBYHpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Basketball", Chicago Sky vs Las Vegas Aces (English - CBS SD)
 https://embed.st/embed/admin/ppv-las-vegas-aces-vs-chicago-sky/2
+#EXTINF:-1 tvg-logo="None" group-title="Combat sports", BKFC Fight Night Garside - Taylor (English HD)
+https://embed.st/embed/golf/24101/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSAjB42ESADGk4FLJYFwGsOzidIECRAxlIGTKomQKC1hHTLChSnJSBQ2wVlOwhYElzynITBuTiktMicPGTBg5VJlIA.webp" group-title="Football", Girona vs Arsenal (English - Arsenal.com HD)
 https://embed.st/embed/admin/ppv-girona-vs-arsenal/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSAjB42ESADGk4FLJYFwGsOzidIECRAxlIGTKomQKC1hHTLChSnJSBQ2wVlOwhYElzynITBuTiktMicPGTBg5VJlIA.webp" group-title="Football", Girona vs Arsenal (English - Arsenal.com SD)
@@ -103,6 +105,14 @@ https://embed.st/embed/admin/ppv-calgary-stampeders-vs-hamilton-tiger-cats/2
 https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-toronto-blue-jays/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBIgQcilJDcQ+rfv18QWmCAgGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Baseball", Toronto Blue Jays vs St. Louis Cardinals (English - Sportsnet SD)
 https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-toronto-blue-jays/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp" group-title="Other", Lollapalooza Chicago 2026 | Channel 2 (English - Disney+ HD)
+https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp" group-title="Other", Lollapalooza Chicago 2026 | Channel 2 (English - Disney+ SD)
+https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp" group-title="Other", Lollapalooza Chicago 2026 | Channel 1 (English - Disney+ HD)
+https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp" group-title="Other", Lollapalooza Chicago 2026 | Channel 1 (English - Disney+ SD)
+https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAXwRdgYbiD199IEiFMQQKC8ZAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Baseball", Seattle Mariners vs Minnesota Twins (English - Mariners.TV HD)
 https://embed.st/embed/admin/ppv-minnesota-twins-vs-seattle-mariners/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAXwRdgYbiD199IEiFMQQKC8ZAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Baseball", Seattle Mariners vs Minnesota Twins (English - Mariners.TV SD)
@@ -115,8 +125,8 @@ https://embed.st/embed/admin/ppv-miami-marlins-vs-new-york-mets/2
 https://embed.st/embed/admin/ppv-chicago-white-sox-vs-tampa-bay-rays/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGBh2IWipDcQfA7pBmpplCAhGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Baseball", Tampa Bay Rays vs Chicago White Sox (English - Rays.TV SD)
 https://embed.st/embed/admin/ppv-chicago-white-sox-vs-tampa-bay-rays/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrSTyQIBiBgheILDpCID0kJZIgUIEiyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Combat sports", Lamont Roach Jr. vs William Zepeda (English HD)
-https://embed.st/embed/delta/live-event_lamont-roach-vs-william-zepeda-live-stream/1
+#EXTINF:-1 tvg-logo="None" group-title="Combat sports", Roach Jr - Zepede (English HD)
+https://embed.st/embed/golf/24099/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjAaEaSBQgAxuOnAIIKbKohtMHdnkgjehTFJKQ65SSXmjw7CnKyBQkU2z0whYElyKnITBuTlkHMicCSXJgtVI1IA.webp" group-title="Combat sports", WWE SummerSlam | Night 1 (English - ESPN Unlimited HD)
 https://embed.st/embed/admin/ppv-wwe-summer-slam-night-1/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjAaEaSBQgAxuOnAIIKbKohtMHdnkgjehTFJKQ65SSXmjw7CnKyBQkU2z0whYElyKnITBuTlkHMicCSXJgtVI1IA.webp" group-title="Combat sports", WWE SummerSlam | Night 1 (English - ESPN Unlimited SD)
@@ -189,6 +199,14 @@ https://embed.st/embed/admin/ppv-inter-miami-cf-vs-columbus-crew/2
 https://embed.st/embed/admin/ppv-aew-saturday-night-collision/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRDCQKESCwi5VEAGMZwCBpCSsIRPGCIQ2xcOznNiM4k3TdvcpoFDFBc7LCFgSXCtlCwbk5bUno3AzBAjVCIIA.webp" group-title="Combat sports", AEW: Saturday Night Collision (English - TNT SD)
 https://embed.st/embed/admin/ppv-aew-saturday-night-collision/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrSTyQIBiBgheILDpCID0kJZIgUIEiyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Combat sports", Lamont Roach Jr. vs William Zepeda (English - TNT HD)
+https://embed.st/embed/admin/ppv-roach-jr-vs-zepeda/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrSTyQIBiBgheILDpCID0kJZIgUIEiyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Combat sports", Lamont Roach Jr. vs William Zepeda (English - TNT SD)
+https://embed.st/embed/admin/ppv-roach-jr-vs-zepeda/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrSTyQIBiBgheILDpCID0kJZIgUIEiyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Combat sports", Lamont Roach Jr. vs William Zepeda (English - DAZN HD)
+https://embed.st/embed/admin/ppv-roach-jr-vs-zepeda/3
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrSTyQIBiBgheILDpCID0kJZIgUIEiyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Combat sports", Lamont Roach Jr. vs William Zepeda (English - DAZN SD)
+https://embed.st/embed/admin/ppv-roach-jr-vs-zepeda/4
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXnzBluIHTh18QMEFJMgU5kBCO4CwJBT7DZ9FFrYouW8vSyzPTLRg7vSiEEA.webp" group-title="Baseball", Colorado Rockies vs Kansas City Royals (English - Rockies.TV HD)
 https://embed.st/embed/admin/ppv-kansas-city-royals-vs-colorado-rockies/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXnzBluIHTh18QMEFJMgU5kBCO4CwJBT7DZ9FFrYouW8vSyzPTLRg7vSiEEA.webp" group-title="Baseball", Colorado Rockies vs Kansas City Royals (English - Rockies.TV SD)
