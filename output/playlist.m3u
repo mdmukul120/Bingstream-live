@@ -1,28 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDDrUQwAAzApIbiD4gSICBpCGQZixoLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="Baseball", San Diego Padres vs San Francisco Giants (English - Padres.TV HD)
-https://embed.st/embed/admin/ppv-san-francisco-giants-vs-san-diego-padres/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDDrUQwAAzApIbiD4gSICBpCGQZixoLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="Baseball", San Diego Padres vs San Francisco Giants (English - Padres.TV SD)
-https://embed.st/embed/admin/ppv-san-francisco-giants-vs-san-diego-padres/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAQJQgSIGGxDcQfXSClGDIRDhjaCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Chicago Fire vs Charlotte FC (English - Apple TV HD)
-https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-charlotte-fc/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAQJQgSIGGxDcQfXSClGDIRDhjaCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Chicago Fire vs Charlotte FC (English - Apple TV SD)
-https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-charlotte-fc/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAdzBJoMNiG4g+h-cZIhEiIyQLBtuvsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football", Minnesota United vs San Diego FC (English - Apple TV HD)
-https://embed.st/embed/admin/ppv-minnesota-united-fc-vs-san-diego-fc/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAdzBJoMNiG4g+h-cZIhEiIyQLBtuvsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football", Minnesota United vs San Diego FC (English - Apple TV SD)
-https://embed.st/embed/admin/ppv-minnesota-united-fc-vs-san-diego-fc/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKBBC8wwJCH3cQfEDBBSjWkIkMojBXRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Sporting Kansas City vs Houston Dynamo (English - Apple TV HD)
-https://embed.st/embed/admin/ppv-sporting-kansas-city-vs-houston-dynamo-fc/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKBBC8wwJCH3cQfEDBBSjWkIkMojBXRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Sporting Kansas City vs Houston Dynamo (English - Apple TV SD)
-https://embed.st/embed/admin/ppv-sporting-kansas-city-vs-houston-dynamo-fc/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VZWxAoQZRNxB8DIfYZIhEiQ1ILAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football", St. Louis City SC vs Real Salt Lake (English - Apple TV HD)
-https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-real-salt-lake/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VZWxAoQZRNxB8DIfYZIhEiQ1ILAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football", St. Louis City SC vs Real Salt Lake (English - Apple TV SD)
-https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-real-salt-lake/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXnzBluIHTh18QMEFJMgU5kBCO4CwJBT7DZ9FFrYouW8vSyzPTLRg7vSiEEA.webp" group-title="Baseball", Colorado Rockies vs Kansas City Royals (English - Rockies.TV HD)
-https://embed.st/embed/admin/ppv-kansas-city-royals-vs-colorado-rockies/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXnzBluIHTh18QMEFJMgU5kBCO4CwJBT7DZ9FFrYouW8vSyzPTLRg7vSiEEA.webp" group-title="Baseball", Colorado Rockies vs Kansas City Royals (English - Rockies.TV SD)
-https://embed.st/embed/admin/ppv-kansas-city-royals-vs-colorado-rockies/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJJBD0NUsCBDcQfEFP0gSBkIghajBYBpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Rugby", Cronulla Sharks vs South Sydney Rabbitohs (English - Fox League HD)
+https://embed.st/embed/admin/ppv-sharks-vs-rabbitohs/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJJBD0NUsCBDcQfEFP0gSBkIghajBYBpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Rugby", Cronulla Sharks vs South Sydney Rabbitohs (English - Fox League SD)
+https://embed.st/embed/admin/ppv-sharks-vs-rabbitohs/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtJAxgABibyOIXiCwgzEEBZggSWuyRZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp" group-title="Football", Cruz Azul vs Atlante (Spanish - ViX Premium Deportes 2 HD)
+https://embed.st/embed/admin/ppv-cruz-azul-vs-atlante/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtJAxgABibyOIXiCwgzEEBZggSWuyRZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp" group-title="Football", Cruz Azul vs Atlante (Spanish - ViX Premium Deportes 2 SD)
+https://embed.st/embed/admin/ppv-cruz-azul-vs-atlante/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxD0wYErjCbNfEMaMg9iRMb4FgSCjdYixKXWxRdd5ellkemtDqi9MFAA.webp" group-title="Football", LA Galaxy vs FC Dallas (English - Apple TV HD)
+https://embed.st/embed/admin/ppv-la-galaxy-vs-fc-dallas/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxD0wYErjCbNfEMaMg9iRMb4FgSCjdYixKXWxRdd5ellkemtDqi9MFAA.webp" group-title="Football", LA Galaxy vs FC Dallas (English - Apple TV SD)
+https://embed.st/embed/admin/ppv-la-galaxy-vs-fc-dallas/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFCRgQIKduBIQ3EHxNGzJEIkSmQBAxT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Portland Timbers vs Seattle Sounders (English - Apple TV HD)
+https://embed.st/embed/admin/ppv-portland-timbers-vs-seattle-sounders-fc/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFCRgQIKduBIQ3EHxNGzJEIkSmQBAxT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Portland Timbers vs Seattle Sounders (English - Apple TV SD)
+https://embed.st/embed/admin/ppv-portland-timbers-vs-seattle-sounders-fc/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxBwsPYAAYQh7hpMQQxnJsRSQ8AsCQU+w2fRRgVKLh-L0doryZaMA8xUQggA.webp" group-title="Baseball", Athletics vs Detroit Tigers (English - NBC Sports CA HD)
+https://embed.st/embed/admin/ppv-detroit-tigers-vs-athletics/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxBwsPYAAYQh7hpMQQxnJsRSQ8AsCQU+w2fRRgVKLh-L0doryZaMA8xUQggA.webp" group-title="Baseball", Athletics vs Detroit Tigers (English - NBC Sports CA SD)
+https://embed.st/embed/admin/ppv-detroit-tigers-vs-athletics/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMDAhtULJRDcQfAyBLaQEECnPH4BYEgp9hs+ijAqNbD+Xp7RGky0YB5iohBAA.webp" group-title="Baseball", Los Angeles Angels vs Milwaukee Brewers (English - Angels.TV HD)
+https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-los-angeles-angels/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMDAhtULJRDcQfAyBLaQEECnPH4BYEgp9hs+ijAqNbD+Xp7RGky0YB5iohBAA.webp" group-title="Baseball", Los Angeles Angels vs Milwaukee Brewers (English - Angels.TV SD)
+https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-los-angeles-angels/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWvTYhgUkCRDcQfIyAgHcJxLolMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Baseball", Los Angeles Dodgers vs Boston Red Sox (English - Sportsnet LA HD)
+https://embed.st/embed/admin/ppv-boston-red-sox-vs-los-angeles-dodgers/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWvTYhgUkCRDcQfIyAgHcJxLolMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Baseball", Los Angeles Dodgers vs Boston Red Sox (English - Sportsnet LA SD)
+https://embed.st/embed/admin/ppv-boston-red-sox-vs-los-angeles-dodgers/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDDrUQwAAzApIbiD4gSICBpCGQZixoLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="Baseball", San Diego Padres vs San Francisco Giants (English HD)
+https://embed.st/embed/golf/24075/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXnzBluIHTh18QMEFJMgU5kBCO4CwJBT7DZ9FFrYouW8vSyzPTLRg7vSiEEA.webp" group-title="Baseball", Colorado Rockies vs Kansas City Royals (English HD)
+https://embed.st/embed/golf/24074/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrSTyQIBiBgheILDpCID0kJZIgUIEiyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Combat sports", Lamont Roach Jr. vs William Zepeda (English - TNT HD)
 https://embed.st/embed/admin/ppv-roach-jr-vs-zepeda/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrSTyQIBiBgheILDpCID0kJZIgUIEiyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Combat sports", Lamont Roach Jr. vs William Zepeda (English - TNT SD)
@@ -31,92 +39,6 @@ https://embed.st/embed/admin/ppv-roach-jr-vs-zepeda/2
 https://embed.st/embed/admin/ppv-roach-jr-vs-zepeda/3
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrSTyQIBiBgheILDpCID0kJZIgUIEiyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Combat sports", Lamont Roach Jr. vs William Zepeda (English - DAZN SD)
 https://embed.st/embed/admin/ppv-roach-jr-vs-zepeda/4
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiHp8EoSCG4g+IGCCmH9IRDjMwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Inter Miami vs Columbus Crew (English - Apple TV HD)
-https://embed.st/embed/admin/ppv-inter-miami-cf-vs-columbus-crew/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiHp8EoSCG4g+IGCCmH9IRDjMwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Inter Miami vs Columbus Crew (English - Apple TV SD)
-https://embed.st/embed/admin/ppv-inter-miami-cf-vs-columbus-crew/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBtEAGYFJC0+IbiEMwQew8cTWNBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp" group-title="Football", Vancouver Whitecaps vs Los Angeles FC (English HD)
-https://embed.st/embed/delta/live_mls_vancouver-los-angeles-live-streaming-538389936/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGSmxyKJENxB8QMEFIN6QiRChAkCwJBT7DZ9TSpRcwZeESyyPTLRgXmKiEEA.webp" group-title="Football", Philadelphia Union vs Atlanta United (English - Apple TV HD)
-https://embed.st/embed/admin/ppv-philadelphia-union-vs-atlanta-united-fc/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGSmxyKJENxB8QMEFIN6QiRChAkCwJBT7DZ9TSpRcwZeESyyPTLRgXmKiEEA.webp" group-title="Football", Philadelphia Union vs Atlanta United (English - Apple TV SD)
-https://embed.st/embed/admin/ppv-philadelphia-union-vs-atlanta-united-fc/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiDLwwAgAwg+IbgZAwQUk8cQ4IRgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football", New York Red Bulls vs Orlando City (English - Apple TV HD)
-https://embed.st/embed/admin/ppv-red-bull-new-york-vs-orlando-city-sc/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiDLwwAgAwg+IbgZAwQUk8cQ4IRgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football", New York Red Bulls vs Orlando City (English - Apple TV SD)
-https://embed.st/embed/admin/ppv-red-bull-new-york-vs-orlando-city-sc/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VON1zQZUkJt0QQhkriNmcUgsCQU+w2fRRgVKLs-L0ss101phnYqIQQA.webp" group-title="Football", FC Cincinnati vs San Jose Earthquakes (English - Apple TV HD)
-https://embed.st/embed/admin/ppv-fc-cincinnati-vs-san-jose-earthquakes/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VON1zQZUkJt0QQhkriNmcUgsCQU+w2fRRgVKLs-L0ss101phnYqIQQA.webp" group-title="Football", FC Cincinnati vs San Jose Earthquakes (English - Apple TV SD)
-https://embed.st/embed/admin/ppv-fc-cincinnati-vs-san-jose-earthquakes/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECEpgBYWNhDcQfEDBBSjBkIkSm+BYEgp3WIsSjAqUXD+XpZZXky0uqL0oUA.webp" group-title="Football", DC United vs Nashville SC (English - Apple TV HD)
-https://embed.st/embed/admin/ppv-d-c-united-vs-nashville-sc/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECEpgBYWNhDcQfEDBBSjBkIkSm+BYEgp3WIsSjAqUXD+XpZZXky0uqL0oUA.webp" group-title="Football", DC United vs Nashville SC (English - Apple TV SD)
-https://embed.st/embed/admin/ppv-d-c-united-vs-nashville-sc/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWuD5gpIEiH3cQfIyEPG9iRMYVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football", CF Montréal vs New England Revolution (English - Apple TV HD)
-https://embed.st/embed/admin/ppv-cf-montr-al-vs-new-england-revolution/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWuD5gpIEiH3cQfIyEPG9iRMYVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football", CF Montréal vs New England Revolution (English - Apple TV SD)
-https://embed.st/embed/admin/ppv-cf-montr-al-vs-new-england-revolution/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcfBGlSIAMYgYIRJKxKQJBdNXDgEYJOEgsMlNhA6L5uSAhLpo8noFCpBbPTCFgSXLNNCwbk49HTJTN0kwQN1pCCA.webp" group-title="Football", Vancouver Whitecaps vs. LAFC (English - Apple TV HD)
-https://embed.st/embed/admin/ppv-vancouver-whitecaps-vs-lafc/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcfBGlSIAMYgYIRJKxKQJBdNXDgEYJOEgsMlNhA6L5uSAhLpo8noFCpBbPTCFgSXLNNCwbk49HTJTN0kwQN1pCCA.webp" group-title="Football", Vancouver Whitecaps vs. LAFC (English - Apple TV SD)
-https://embed.st/embed/admin/ppv-vancouver-whitecaps-vs-lafc/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBDcQAwuE3a+WkIhAgpICMdMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Baseball", Cleveland Guardians vs Arizona Diamondbacks (English - MLB.TV HD)
-https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-cleveland-guardians/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBDcQAwuE3a+WkIhAgpICMdMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Baseball", Cleveland Guardians vs Arizona Diamondbacks (English - MLB.TV SD)
-https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-cleveland-guardians/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELRC4QEEN236+II7v04jiKbgLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Baseball", Chicago Cubs vs New York Yankees (English - MLB.TV HD)
-https://embed.st/embed/admin/ppv-new-york-yankees-vs-chicago-cubs/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELRC4QEEN236+II7v04jiKbgLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Baseball", Chicago Cubs vs New York Yankees (English - MLB.TV SD)
-https://embed.st/embed/admin/ppv-new-york-yankees-vs-chicago-cubs/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VZSBBzKYEiG4g+IPVMP6QMEIhwkCwJBT7DZ9FLrYouu8vSyzPTLRg7vSiEEA.webp" group-title="Baseball", Atlanta Braves vs Washington Nationals (English - BravesVision HD)
-https://embed.st/embed/admin/ppv-washington-nationals-vs-atlanta-braves/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VZSBBzKYEiG4g+IPVMP6QMEIhwkCwJBT7DZ9FLrYouu8vSyzPTLRg7vSiEEA.webp" group-title="Baseball", Atlanta Braves vs Washington Nationals (English - BravesVision SD)
-https://embed.st/embed/admin/ppv-washington-nationals-vs-atlanta-braves/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWvSat6KENxB8QJEFIMgYIXft0wCwJBT7DZOsCpRc35ellkemtGBuYqIQQA.webp" group-title="Baseball", Houston Astros vs Texas Rangers (English - Space City Home Network HD)
-https://embed.st/embed/admin/ppv-texas-rangers-vs-houston-astros/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWvSat6KENxB8QJEFIMgYIXft0wCwJBT7DZOsCpRc35ellkemtGBuYqIQQA.webp" group-title="Baseball", Houston Astros vs Texas Rangers (English - Space City Home Network SD)
-https://embed.st/embed/admin/ppv-texas-rangers-vs-houston-astros/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHwQhuYFGGnaNhkiFMQQKUyHMkCwJBT7DZ9PSpRd95ellkemtGD6YqIQQA.webp" group-title="Baseball", Baltimore Orioles vs Philadelphia Phillies (English - MASN HD)
-https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-baltimore-orioles/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHwQhuYFGGnaNhkiFMQQKUyHMkCwJBT7DZ9PSpRd95ellkemtGD6YqIQQA.webp" group-title="Baseball", Baltimore Orioles vs Philadelphia Phillies (English - MASN SD)
-https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-baltimore-orioles/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCCBTAADGDIkQh7iCkgDGnHxCJDp+AWBIKfYbPoo9bLWz3l6WWS0mWjBPelEIIA.webp" group-title="American football", Edmonton Elks vs Saskatchewan Roughriders (English - CFL+ HD)
-https://embed.st/embed/admin/ppv-saskatchewan-roughriders-vs-edmonton-elks/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCCBTAADGDIkQh7iCkgDGnHxCJDp+AWBIKfYbPoo9bLWz3l6WWS0mWjBPelEIIA.webp" group-title="American football", Edmonton Elks vs Saskatchewan Roughriders (English - CFL+ SD)
-https://embed.st/embed/admin/ppv-saskatchewan-roughriders-vs-edmonton-elks/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjkQpyKECRC8QWECYggzMI3qskWSClhFzG21Sh5gy8ItTnv8rMBgnuJiEEA.webp" group-title="Football", Querétaro vs Tigres UANL (Spanish - TUDN HD)
-https://embed.st/embed/admin/ppv-quer-taro-vs-tigres-uanl/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjkQpyKECRC8QWECYggzMI3qskWSClhFzG21Sh5gy8ItTnv8rMBgnuJiEEA.webp" group-title="Football", Querétaro vs Tigres UANL (Spanish - TUDN SD)
-https://embed.st/embed/admin/ppv-quer-taro-vs-tigres-uanl/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiBh0QUWtxD6+IDVJBH9MHQZ0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Baseball", Cincinnati Reds vs Pittsburgh Pirates (English - Reds.TV HD)
-https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-cincinnati-reds/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiBh0QUWtxD6+IDVJBH9MHQZ0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Baseball", Cincinnati Reds vs Pittsburgh Pirates (English - Reds.TV SD)
-https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-cincinnati-reds/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjAaEaSBQgAxuOnAIIKbKohtMHdnkgjehTFJKQ65SSXmjw7CnKyBQkU2z0whYElyKnITBuTlkHMicCSXJgtVI1IA.webp" group-title="Combat sports", WWE SummerSlam | Night 1 (English - ESPN Unlimited HD)
-https://embed.st/embed/admin/ppv-wwe-summer-slam-night-1/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjAaEaSBQgAxuOnAIIKbKohtMHdnkgjehTFJKQ65SSXmjw7CnKyBQkU2z0whYElyKnITBuTlkHMicCSXJgtVI1IA.webp" group-title="Combat sports", WWE SummerSlam | Night 1 (English - ESPN Unlimited SD)
-https://embed.st/embed/admin/ppv-wwe-summer-slam-night-1/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjAaEaSBQgAxuOnAIIKbKohtMHdnkgjehTFJKQ65SSXmjw7CnKyBQkU2z0whYElyKnITBuTlkHMicCSXJgtVI1IA.webp" group-title="Combat sports", WWE SummerSlam | Night 1 (Spanish - ESPN Unlimited HD)
-https://embed.st/embed/admin/ppv-wwe-summer-slam-night-1/3
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjAaEaSBQgAxuOnAIIKbKohtMHdnkgjehTFJKQ65SSXmjw7CnKyBQkU2z0whYElyKnITBuTlkHMicCSXJgtVI1IA.webp" group-title="Combat sports", WWE SummerSlam | Night 1 (Spanish - ESPN Unlimited SD)
-https://embed.st/embed/admin/ppv-wwe-summer-slam-night-1/4
-#EXTINF:-1 tvg-logo="None" group-title="Combat sports", Roach Jr v Zepede 🔥 (English HD)
-https://embed.st/embed/golf/24099/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp" group-title="Other", Lollapalooza Chicago 2026 | Channel 2 (English - Disney+ HD)
-https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp" group-title="Other", Lollapalooza Chicago 2026 | Channel 2 (English - Disney+ SD)
-https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp" group-title="Other", Lollapalooza Chicago 2026 | Channel 1 (English - Disney+ HD)
-https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp" group-title="Other", Lollapalooza Chicago 2026 | Channel 1 (English - Disney+ SD)
-https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAXwRdgYbiD199IEiFMQQKC8ZAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Baseball", Seattle Mariners vs Minnesota Twins (English HD)
-https://embed.st/embed/golf/24067/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmCkI5IPrpDd9JEBBAwQUkChCIcUgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="Baseball", New York Mets vs Miami Marlins (English HD)
-https://embed.st/embed/golf/24066/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGBh2IWipDcQfA7pBmpplCAhGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Baseball", Tampa Bay Rays vs Chicago White Sox (English HD)
-https://embed.st/embed/golf/24065/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Cricket (English HD)
 https://embed.st/embed/admin/admin-willow-cricket/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Cricket (Willow 2 HD)
@@ -135,46 +57,6 @@ https://embed.st/embed/admin/admin-tennis-channel/1
 https://embed.st/embed/admin/admin-tennis-channel/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp" group-title="Motorsport", Rally TV (English HD)
 https://embed.st/embed/admin/admin-rally-tv/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH7VgYbu0S8QWECYggzMECRCXLi-MCQUsIuYxRhVKHp-KNtYt4O9GCe4mIQQA.webp" group-title="Football", León vs Pachuca (Spanish - ViX Premium Deportes 4 HD)
-https://embed.st/embed/admin/ppv-le-n-vs-pachuca/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH7VgYbu0S8QWECYggzMECRCXLi-MCQUsIuYxRhVKHp-KNtYt4O9GCe4mIQQA.webp" group-title="Football", León vs Pachuca (Spanish - ViX Premium Deportes 4 SD)
-https://embed.st/embed/admin/ppv-le-n-vs-pachuca/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvDAgQvENWK7dWbSAimQMECQs3F+YEgpYRcxijCqUPD+Ub6xXvb0YB7iYhBAA.webp" group-title="Football", Atlas vs Monterrey (Spanish - TUDN HD)
-https://embed.st/embed/admin/ppv-atlas-vs-monterrey/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvDAgQvENWK7dWbSAimQMECQs3F+YEgpYRcxijCqUPD+Ub6xXvb0YB7iYhBAA.webp" group-title="Football", Atlas vs Monterrey (Spanish - TUDN SD)
-https://embed.st/embed/admin/ppv-atlas-vs-monterrey/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWvTYhgUkCRDcQfIyAgHcJxLolMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Baseball", Los Angeles Dodgers vs Boston Red Sox (English - Sportsnet LA HD)
-https://embed.st/embed/admin/ppv-boston-red-sox-vs-los-angeles-dodgers/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWvTYhgUkCRDcQfIyAgHcJxLolMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Baseball", Los Angeles Dodgers vs Boston Red Sox (English - Sportsnet LA SD)
-https://embed.st/embed/admin/ppv-boston-red-sox-vs-los-angeles-dodgers/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvSQgQwAAzAt3EHxAwQU4yCOIcJECQIGKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="Football", Colorado Rapids vs Austin FC (English - Apple TV HD)
-https://embed.st/embed/admin/ppv-colorado-rapids-vs-austin-fc/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvSQgQwAAzAt3EHxAwQU4yCOIcJECQIGKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="Football", Colorado Rapids vs Austin FC (English - Apple TV SD)
-https://embed.st/embed/admin/ppv-colorado-rapids-vs-austin-fc/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMDAhtULJRDcQfAyBLaQEECnPH4BYEgp9hs+ijAqNbD+Xp7RGky0YB5iohBAA.webp" group-title="Baseball", Los Angeles Angels vs Milwaukee Brewers (English - Angels.TV HD)
-https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-los-angeles-angels/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMDAhtULJRDcQfAyBLaQEECnPH4BYEgp9hs+ijAqNbD+Xp7RGky0YB5iohBAA.webp" group-title="Baseball", Los Angeles Angels vs Milwaukee Brewers (English - Angels.TV SD)
-https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-los-angeles-angels/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxBwsPYAAYQh7hpMQQxnJsRSQ8AsCQU+w2fRRgVKLh-L0doryZaMA8xUQggA.webp" group-title="Baseball", Athletics vs Detroit Tigers (English - NBC Sports CA HD)
-https://embed.st/embed/admin/ppv-detroit-tigers-vs-athletics/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxBwsPYAAYQh7hpMQQxnJsRSQ8AsCQU+w2fRRgVKLh-L0doryZaMA8xUQggA.webp" group-title="Baseball", Athletics vs Detroit Tigers (English - NBC Sports CA SD)
-https://embed.st/embed/admin/ppv-detroit-tigers-vs-athletics/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFCRgQIKduBIQ3EHxNGzJEIkSmQBAxT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Portland Timbers vs Seattle Sounders (English - Apple TV HD)
-https://embed.st/embed/admin/ppv-portland-timbers-vs-seattle-sounders-fc/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFCRgQIKduBIQ3EHxNGzJEIkSmQBAxT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Portland Timbers vs Seattle Sounders (English - Apple TV SD)
-https://embed.st/embed/admin/ppv-portland-timbers-vs-seattle-sounders-fc/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxD0wYErjCbNfEMaMg9iRMb4FgSCjdYixKXWxRdd5ellkemtDqi9MFAA.webp" group-title="Football", LA Galaxy vs FC Dallas (English - Apple TV HD)
-https://embed.st/embed/admin/ppv-la-galaxy-vs-fc-dallas/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxD0wYErjCbNfEMaMg9iRMb4FgSCjdYixKXWxRdd5ellkemtDqi9MFAA.webp" group-title="Football", LA Galaxy vs FC Dallas (English - Apple TV SD)
-https://embed.st/embed/admin/ppv-la-galaxy-vs-fc-dallas/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtJAxgABibyOIXiCwgzEEBZggSWuyRZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp" group-title="Football", Cruz Azul vs Atlante (Spanish - ViX Premium Deportes 2 HD)
-https://embed.st/embed/admin/ppv-cruz-azul-vs-atlante/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtJAxgABibyOIXiCwgzEEBZggSWuyRZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp" group-title="Football", Cruz Azul vs Atlante (Spanish - ViX Premium Deportes 2 SD)
-https://embed.st/embed/admin/ppv-cruz-azul-vs-atlante/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJJBD0NUsCBDcQfEFP0gSBkIghajBYBpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Rugby", Cronulla Sharks vs South Sydney Rabbitohs (English - Fox League HD)
-https://embed.st/embed/admin/ppv-sharks-vs-rabbitohs/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJJBD0NUsCBDcQfEFP0gSBkIghajBYBpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Rugby", Cronulla Sharks vs South Sydney Rabbitohs (English - Fox League SD)
-https://embed.st/embed/admin/ppv-sharks-vs-rabbitohs/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rULxlYKaENxB8QUkCZJ6QiCCDONgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Rugby", Wests Tigers vs Parramatta Eels (English - Fox League HD)
 https://embed.st/embed/admin/ppv-wests-tigers-vs-eels/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rULxlYKaENxB8QUkCZJ6QiCCDONgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Rugby", Wests Tigers vs Parramatta Eels (English - Fox League SD)
@@ -191,34 +73,70 @@ https://embed.st/embed/admin/ppv-london-warriors-vs-berlin-thunder/2
 https://embed.st/embed/admin/ppv-hibernian-vs-motherwell/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQhZVXmBACQvEFhBnqRzSEQXzLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football", Hibernian vs Motherwell (English - SPFL Premiership SD)
 https://embed.st/embed/admin/ppv-hibernian-vs-motherwell/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VZSBBzKYEiG4g+IPVMP6QMEIhwkCwJBT7DZ9FLrYouu8vSyzPTLRg7vSiEEA.webp" group-title="Baseball", Atlanta Braves vs Washington Nationals (English HD)
-https://embed.st/embed/golf/24083/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHwQhuYFGGnaNhkiFMQQKUyHMkCwJBT7DZ9PSpRd95ellkemtGD6YqIQQA.webp" group-title="Baseball", Baltimore Orioles vs Philadelphia Phillies (English HD)
-https://embed.st/embed/golf/24082/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBIgQcilJDcQ+rfv18QWmCAgGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Baseball", Toronto Blue Jays vs St. Louis Cardinals (English HD)
-https://embed.st/embed/golf/24084/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiBh0QUWtxD6+IDVJBH9MHQZ0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Baseball", Cincinnati Reds vs Pittsburgh Pirates (English HD)
-https://embed.st/embed/golf/24088/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBDcQAwuE3a+WkIhAgpICMdMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Baseball", Cleveland Guardians vs Arizona Diamondbacks (English HD)
-https://embed.st/embed/golf/24085/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmCkI5IPrpDd9JEBBAwQUkChCIcUgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="Baseball", New York Mets vs Miami Marlins (English HD)
-https://embed.st/embed/golf/24087/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGBh2IWipDcQfA7pBmpplCAhGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Baseball", Tampa Bay Rays vs Chicago White Sox (English HD)
-https://embed.st/embed/golf/24086/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWvSat6KENxB8QJEFIMgYIXft0wCwJBT7DZOsCpRc35ellkemtGBuYqIQQA.webp" group-title="Baseball", Houston Astros vs Texas Rangers (English HD)
-https://embed.st/embed/golf/24089/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXmBAxOaEHxDc9RiAdxHEUkFILAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Baseball", Chicago Cubs vs New York Yankees (English HD)
-https://embed.st/embed/golf/24090/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXnzBluIHTh18QMEFJMgU5kBCO4CwJBT7DZ9FFrYouW8vSyzPTLRg7vSiEEA.webp" group-title="Baseball", Colorado Rockies vs Kansas City Royals (English HD)
-https://embed.st/embed/golf/24091/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMDAhtULJRDcQfAyBLaQEECnPH4BYEgp9hs+ijAqNbD+Xp7RGky0YB5iohBAA.webp" group-title="Baseball", Los Angeles Angels vs Milwaukee Brewers (English HD)
-https://embed.st/embed/golf/24092/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRCFmicUkNxB8DICHtxHEuvgWBIKV1iLEowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="Baseball", Athletics vs Detroit Tigers (English HD)
-https://embed.st/embed/golf/24093/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDDrUQwAAzApIbiD4gSICBpCGQZixoLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="Baseball", San Diego Padres vs San Francisco Giants (English HD)
-https://embed.st/embed/golf/24095/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAXwRdgYbiD199IEiFMQQKC8ZAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Baseball", Seattle Mariners vs Minnesota Twins (English HD)
-https://embed.st/embed/golf/24094/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLAzCiqcJCG4gpIEvpAozISxFN8CwJBVusRYlFrYouW8vQ2jPTLRg7vSiEEA.webp" group-title="Basketball", Minnesota Lynx vs Indiana Fever (English - ABC HD)
+https://embed.st/embed/admin/ppv-indiana-fever-vs-minnesota-lynx/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLAzCiqcJCG4gpIEvpAozISxFN8CwJBVusRYlFrYouW8vQ2jPTLRg7vSiEEA.webp" group-title="Basketball", Minnesota Lynx vs Indiana Fever (English - ABC SD)
+https://embed.st/embed/admin/ppv-indiana-fever-vs-minnesota-lynx/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VZSBBzKYEiG4g+IPVMP6QMEIhwkCwJBT7DZ9FLrYouu8vSyzPTLRg7vSiEEA.webp" group-title="Baseball", Atlanta Braves vs Washington Nationals (English - BravesVision HD)
+https://embed.st/embed/admin/ppv-washington-nationals-vs-atlanta-braves/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VZSBBzKYEiG4g+IPVMP6QMEIhwkCwJBT7DZ9FLrYouu8vSyzPTLRg7vSiEEA.webp" group-title="Baseball", Atlanta Braves vs Washington Nationals (English - BravesVision SD)
+https://embed.st/embed/admin/ppv-washington-nationals-vs-atlanta-braves/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHwQhuYFGGnaNhkiFMQQKUyHMkCwJBT7DZ9PSpRd95ellkemtGD6YqIQQA.webp" group-title="Baseball", Baltimore Orioles vs Philadelphia Phillies (English - MASN HD)
+https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-baltimore-orioles/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHwQhuYFGGnaNhkiFMQQKUyHMkCwJBT7DZ9PSpRd95ellkemtGD6YqIQQA.webp" group-title="Baseball", Baltimore Orioles vs Philadelphia Phillies (English - MASN SD)
+https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-baltimore-orioles/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBIgQcilJDcQ+rfv18QWmCAgGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Baseball", Toronto Blue Jays vs St. Louis Cardinals (English - Sportsnet HD)
+https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-toronto-blue-jays/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBIgQcilJDcQ+rfv18QWmCAgGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Baseball", Toronto Blue Jays vs St. Louis Cardinals (English - Sportsnet SD)
+https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-toronto-blue-jays/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiBh0QUWtxD6+IDVJBH9MHQZ0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Baseball", Cincinnati Reds vs Pittsburgh Pirates (English - Reds.TV HD)
+https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-cincinnati-reds/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiBh0QUWtxD6+IDVJBH9MHQZ0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Baseball", Cincinnati Reds vs Pittsburgh Pirates (English - Reds.TV SD)
+https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-cincinnati-reds/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBDcQAwuE3a+WkIhAgpICMdMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Baseball", Cleveland Guardians vs Arizona Diamondbacks (English - CLEGuardians.TV HD)
+https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-cleveland-guardians/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBDcQAwuE3a+WkIhAgpICMdMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Baseball", Cleveland Guardians vs Arizona Diamondbacks (English - CLEGuardians.TV SD)
+https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-cleveland-guardians/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmCkI5IPrpDd9JEBBAwQUkChCIcUgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="Baseball", New York Mets vs Miami Marlins (English - SNY HD)
+https://embed.st/embed/admin/ppv-miami-marlins-vs-new-york-mets/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmCkI5IPrpDd9JEBBAwQUkChCIcUgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="Baseball", New York Mets vs Miami Marlins (English - SNY SD)
+https://embed.st/embed/admin/ppv-miami-marlins-vs-new-york-mets/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGBh2IWipDcQfA7pBmpplCAhGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Baseball", Tampa Bay Rays vs Chicago White Sox (English - Rays.TV HD)
+https://embed.st/embed/admin/ppv-chicago-white-sox-vs-tampa-bay-rays/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGBh2IWipDcQfA7pBmpplCAhGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Baseball", Tampa Bay Rays vs Chicago White Sox (English - Rays.TV SD)
+https://embed.st/embed/admin/ppv-chicago-white-sox-vs-tampa-bay-rays/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWvSat6KENxB8QJEFIMgYIXft0wCwJBT7DZOsCpRc35ellkemtGBuYqIQQA.webp" group-title="Baseball", Houston Astros vs Texas Rangers (English - Space City Home Network HD)
+https://embed.st/embed/admin/ppv-texas-rangers-vs-houston-astros/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWvSat6KENxB8QJEFIMgYIXft0wCwJBT7DZOsCpRc35ellkemtGBuYqIQQA.webp" group-title="Baseball", Houston Astros vs Texas Rangers (English - Space City Home Network SD)
+https://embed.st/embed/admin/ppv-texas-rangers-vs-houston-astros/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXmBAxOaEHxDc9RiAdxHEUkFILAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Baseball", Chicago Cubs vs New York Yankees (English - Marquee Sports Net HD)
+https://embed.st/embed/admin/ppv-new-york-yankees-vs-chicago-cubs/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXmBAxOaEHxDc9RiAdxHEUkFILAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Baseball", Chicago Cubs vs New York Yankees (English - Marquee Sports Net SD)
+https://embed.st/embed/admin/ppv-new-york-yankees-vs-chicago-cubs/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXnzBluIHTh18QMEFJMgU5kBCO4CwJBT7DZ9FFrYouW8vSyzPTLRg7vSiEEA.webp" group-title="Baseball", Colorado Rockies vs Kansas City Royals (English - Rockies.TV HD)
+https://embed.st/embed/admin/ppv-kansas-city-royals-vs-colorado-rockies/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXnzBluIHTh18QMEFJMgU5kBCO4CwJBT7DZ9FFrYouW8vSyzPTLRg7vSiEEA.webp" group-title="Baseball", Colorado Rockies vs Kansas City Royals (English - Rockies.TV SD)
+https://embed.st/embed/admin/ppv-kansas-city-royals-vs-colorado-rockies/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMDAhtULJRDcQfAyBLaQEECnPH4BYEgp9hs+ijAqNbD+Xp7RGky0YB5iohBAA.webp" group-title="Baseball", Los Angeles Angels vs Milwaukee Brewers (English - Angels.TV HD)
+https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-los-angeles-angels/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMDAhtULJRDcQfAyBLaQEECnPH4BYEgp9hs+ijAqNbD+Xp7RGky0YB5iohBAA.webp" group-title="Baseball", Los Angeles Angels vs Milwaukee Brewers (English - Angels.TV SD)
+https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-los-angeles-angels/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEFmzYJIFNMTCQMYFRABjWdJpYQ8YOOHA9iOWTJ6dp3UZES5-MIJFMp9wsCS41coY9YRnMjkCGzBHfVJ9IA.webp" group-title="Basketball", Portland Fire vs Los Angeles Sparks (English - NBC HD)
+https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-portland-fire/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEFmzYJIFNMTCQMYFRABjWdJpYQ8YOOHA9iOWTJ6dp3UZES5-MIJFMp9wsCS41coY9YRnMjkCGzBHfVJ9IA.webp" group-title="Basketball", Portland Fire vs Los Angeles Sparks (English - NBC SD)
+https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-portland-fire/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRCFmicUkNxB8DICHtxHEuvgWBIKV1iLEowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="Baseball", Athletics vs Detroit Tigers (English - NBC Sports CA HD)
+https://embed.st/embed/admin/ppv-detroit-tigers-vs-athletics/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRCFmicUkNxB8DICHtxHEuvgWBIKV1iLEowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="Baseball", Athletics vs Detroit Tigers (English - NBC Sports CA SD)
+https://embed.st/embed/admin/ppv-detroit-tigers-vs-athletics/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDDrUQwAAzApIbiD4gSICBpCGQZixoLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="Baseball", San Diego Padres vs San Francisco Giants (English - Padres.TV HD)
+https://embed.st/embed/admin/ppv-san-francisco-giants-vs-san-diego-padres/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDDrUQwAAzApIbiD4gSICBpCGQZixoLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="Baseball", San Diego Padres vs San Francisco Giants (English - Padres.TV SD)
+https://embed.st/embed/admin/ppv-san-francisco-giants-vs-san-diego-padres/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAXwRdgYbiD199IEiFMQQKC8ZAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Baseball", Seattle Mariners vs Minnesota Twins (English - Mariners.TV HD)
+https://embed.st/embed/admin/ppv-minnesota-twins-vs-seattle-mariners/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAXwRdgYbiD199IEiFMQQKC8ZAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Baseball", Seattle Mariners vs Minnesota Twins (English - Mariners.TV SD)
+https://embed.st/embed/admin/ppv-minnesota-twins-vs-seattle-mariners/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjAaEaSBQgAxuOnAIIKbKohtMHdnkgjehTFJKQ65SSXmjw7CnKyBQkU2z0whYElyKnITBuTlkHMicCSXJgtVI1IA.webp" group-title="Combat sports", WWE SummerSlam | Night 2 (English - ESPN Unlimited HD)
 https://embed.st/embed/admin/ppv-wwe-summer-slam-night-2/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjAaEaSBQgAxuOnAIIKbKohtMHdnkgjehTFJKQ65SSXmjw7CnKyBQkU2z0whYElyKnITBuTlkHMicCSXJgtVI1IA.webp" group-title="Combat sports", WWE SummerSlam | Night 2 (English - ESPN Unlimited SD)
@@ -227,12 +145,24 @@ https://embed.st/embed/admin/ppv-wwe-summer-slam-night-2/2
 https://embed.st/embed/admin/ppv-wwe-summer-slam-night-2/3
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjAaEaSBQgAxuOnAIIKbKohtMHdnkgjehTFJKQ65SSXmjw7CnKyBQkU2z0whYElyKnITBuTlkHMicCSXJgtVI1IA.webp" group-title="Combat sports", WWE SummerSlam | Night 2 (Spanish - ESPN Unlimited SD)
 https://embed.st/embed/admin/ppv-wwe-summer-slam-night-2/4
+#EXTINF:-1 tvg-logo="None" group-title="Football", Liverpool vs Leeds United (English HD)
+https://embed.st/embed/delta/live_club-friendly-games_liverpool-leeds-live-streaming-598471632/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQg4ZEiGnaQvEFhBmIICzBB7r16SyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football", América vs Santos Laguna (Spanish - TUDN HD)
 https://embed.st/embed/admin/ppv-am-rica-vs-santos/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQg4ZEiGnaQvEFhBmIICzBB7r16SyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football", América vs Santos Laguna (Spanish - TUDN SD)
 https://embed.st/embed/admin/ppv-am-rica-vs-santos/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCD7YeXFCG6bDEfbkOIpIEgWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="Baseball", Los Angeles Dodgers vs Boston Red Sox (English HD)
-https://embed.st/embed/golf/24096/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rHFmZhefXCG4gpIEvpAozISxBDXGwJBT7DZ9FGBUou78vU2jPTLRg7mKiEEA.webp" group-title="Basketball", Dallas Wings vs Connecticut Sun (English - ESPN HD)
+https://embed.st/embed/admin/ppv-connecticut-sun-vs-dallas-wings/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rHFmZhefXCG4gpIEvpAozISxBDXGwJBT7DZ9FGBUou78vU2jPTLRg7mKiEEA.webp" group-title="Basketball", Dallas Wings vs Connecticut Sun (English - ESPN SD)
+https://embed.st/embed/admin/ppv-connecticut-sun-vs-dallas-wings/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCD7YeXFCG6bDEfbkOIpIEgWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="Baseball", Los Angeles Dodgers vs Boston Red Sox (English - Sportsnet LA HD)
+https://embed.st/embed/admin/ppv-boston-red-sox-vs-los-angeles-dodgers/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCD7YeXFCG6bDEfbkOIpIEgWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="Baseball", Los Angeles Dodgers vs Boston Red Sox (English - Sportsnet LA SD)
+https://embed.st/embed/admin/ppv-boston-red-sox-vs-los-angeles-dodgers/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IKiBDAIIFCBmIIwCQGNps0iGHBEMWSDXCtGoxKVKJeyWplzR5JQKEim2emELAkuFSmdhuTiVtMj8CHXIA6VJpIA.webp" group-title="Basketball", Golden State Valkyries vs Toronto Tempo (English - KPIX+ HD)
+https://embed.st/embed/admin/ppv-toronto-tempo-vs-golden-state-valkyries/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IKiBDAIIFCBmIIwCQGNps0iGHBEMWSDXCtGoxKVKJeyWplzR5JQKEim2emELAkuFSmdhuTiVtMj8CHXIA6VJpIA.webp" group-title="Basketball", Golden State Valkyries vs Toronto Tempo (English - KPIX+ SD)
+https://embed.st/embed/admin/ppv-toronto-tempo-vs-golden-state-valkyries/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtWDSQMEJvqJeILCFMQQ53SR02sLJBTvtR4lGFUoe78o01jP+KzAYO7iYhBAA.webp" group-title="Football", Toluca vs Necaxa (Spanish - ViX Premium Deportes 3 HD)
 https://embed.st/embed/admin/ppv-toluca-vs-necaxa/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtWDSQMEJvqJeILCFMQQ53SR02sLJBTvtR4lGFUoe78o01jP+KzAYO7iYhBAA.webp" group-title="Football", Toluca vs Necaxa (Spanish - ViX Premium Deportes 3 SD)
