@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtRDh61YGFgheILFpAQQiEsbMgYWlkgpYRcxijCqUPD+Ua6xXviseh7iYhBAA.webp" group-title="Football", IFK Göteborg vs Degerfors (Swedish - TV4 Fotboll HD)
+https://embed.st/embed/admin/ppv-ifk-g-teborg-vs-degerfors-if/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtRDh61YGFgheILFpAQQiEsbMgYWlkgpYRcxijCqUPD+Ua6xXviseh7iYhBAA.webp" group-title="Football", IFK Göteborg vs Degerfors (Swedish - TV4 Fotboll SD)
+https://embed.st/embed/admin/ppv-ifk-g-teborg-vs-degerfors-if/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvTCsafEIl4gsIYxD0gSxkNJCmSLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football", Brommapojkarna vs Malmö (Swedish - TV4 Sportkanalen HD)
+https://embed.st/embed/admin/ppv-if-brommapojkarna-vs-malm-ff/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvTCsafEIl4gsIYxD0gSxkNJCmSLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football", Brommapojkarna vs Malmö (Swedish - TV4 Sportkanalen SD)
+https://embed.st/embed/admin/ppv-if-brommapojkarna-vs-malm-ff/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlhCJGKAVpC8QmkCGqmDIEpZDSQMFkgpYRcnWFW6O78o2pzd+KzAYO7iYhBAA.webp" group-title="Football", FC Nordsjælland vs Randers FC (DK - TV3 Sport HD)
+https://embed.st/embed/admin/ppv-fc-nordsj-lland-vs-randers-fc/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlhCJGKAVpC8QmkCGqmDIEpZDSQMFkgpYRcnWFW6O78o2pzd+KzAYO7iYhBAA.webp" group-title="Football", FC Nordsjælland vs Randers FC (DK - TV3 Sport SD)
+https://embed.st/embed/admin/ppv-fc-nordsj-lland-vs-randers-fc/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Cricket (English HD)
 https://embed.st/embed/admin/admin-willow-cricket/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Cricket (Willow 2 HD)
@@ -17,18 +29,6 @@ https://embed.st/embed/admin/admin-tennis-channel/1
 https://embed.st/embed/admin/admin-tennis-channel/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp" group-title="Motorsport", Rally TV (English HD)
 https://embed.st/embed/admin/admin-rally-tv/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlhCJGKAVpC8QmkCGqmDIEpZDSQMFkgpYRcnWFW6O78o2pzd+KzAYO7iYhBAA.webp" group-title="Football", FC Nordsjælland vs Randers FC (DK - TV3 Sport HD)
-https://embed.st/embed/admin/ppv-fc-nordsj-lland-vs-randers-fc/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlhCJGKAVpC8QmkCGqmDIEpZDSQMFkgpYRcnWFW6O78o2pzd+KzAYO7iYhBAA.webp" group-title="Football", FC Nordsjælland vs Randers FC (DK - TV3 Sport SD)
-https://embed.st/embed/admin/ppv-fc-nordsj-lland-vs-randers-fc/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvTCsafEIl4gsIYxD0gSxkNJCmSLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football", Brommapojkarna vs Malmö (Swedish - TV4 Sportkanalen HD)
-https://embed.st/embed/admin/ppv-if-brommapojkarna-vs-malm-ff/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvTCsafEIl4gsIYxD0gSxkNJCmSLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football", Brommapojkarna vs Malmö (Swedish - TV4 Sportkanalen SD)
-https://embed.st/embed/admin/ppv-if-brommapojkarna-vs-malm-ff/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtRDh61YGFgheILFpAQQiEsbMgYWlkgpYRcxijCqUPD+Ua6xXviseh7iYhBAA.webp" group-title="Football", IFK Göteborg vs Degerfors (Swedish - TV4 Fotboll HD)
-https://embed.st/embed/admin/ppv-ifk-g-teborg-vs-degerfors-if/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtRDh61YGFgheILFpAQQiEsbMgYWlkgpYRcxijCqUPD+Ua6xXviseh7iYhBAA.webp" group-title="Football", IFK Göteborg vs Degerfors (Swedish - TV4 Fotboll SD)
-https://embed.st/embed/admin/ppv-ifk-g-teborg-vs-degerfors-if/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYNCw8QM0Nx0gShkH2MgzJgsCQU+w2fRRgVKLs-L0to101phnYqIQQA.webp" group-title="Football", Legia Warsaw vs Zagłębie Lubin (English - beIN Sports 4 USA HD)
 https://embed.st/embed/admin/ppv-legia-warszawa-vs-zag-bie-lubin/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYNCw8QM0Nx0gShkH2MgzJgsCQU+w2fRRgVKLs-L0to101phnYqIQQA.webp" group-title="Football", Legia Warsaw vs Zagłębie Lubin (English - beIN Sports 4 USA SD)
