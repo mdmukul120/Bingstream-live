@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="None" group-title="Baseball", Texas Rangers - San Francisco Giants (English HD)
+https://embed.st/embed/golf/9/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvDAgQjaWBIgUIXiCzaQB7QcQnpFlkgpYRcxin0cUPfeUbU5XviswGAejGIQQA.webp" group-title="Football", AGF Aarhus vs Sabah Baku (DK - TV3+ HD)
+https://embed.st/embed/admin/ppv-agf-vs-sabah-fk/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvDAgQjaWBIgUIXiCzaQB7QcQnpFlkgpYRcxin0cUPfeUbU5XviswGAejGIQQA.webp" group-title="Football", AGF Aarhus vs Sabah Baku (DK - TV3+ SD)
+https://embed.st/embed/admin/ppv-agf-vs-sabah-fk/2
+#EXTINF:-1 tvg-logo="None" group-title="Baseball", Chicago Cubs - Los Angeles Dodgers (English HD)
+https://embed.st/embed/golf/8/1
+#EXTINF:-1 tvg-logo="None" group-title="Baseball", Houston Astros - Toronto Blue Jays (English HD)
+https://embed.st/embed/golf/7/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCBBUQZYaWCIAxiBQK1EtSSkgIwCDPEhFmkDEkgsUkQpBz42VfzCDrBbPTCFgSXItVDnVl05MlU3ezBnPXkIIA.webp" group-title="Motorsport", AMA Motocross Championship at Loretta Lynn's - Day 2 (English - FloRacing HD)
 https://embed.st/embed/admin/ppv-ama-motocross-championship-at-loretta-lynn-s-day-2/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCBBUQZYaWCIAxiBQK1EtSSkgIwCDPEhFmkDEkgsUkQpBz42VfzCDrBbPTCFgSXItVDnVl05MlU3ezBnPXkIIA.webp" group-title="Motorsport", AMA Motocross Championship at Loretta Lynn's - Day 2 (English - FloRacing SD)
@@ -21,10 +31,6 @@ https://embed.st/embed/admin/admin-tennis-channel/1
 https://embed.st/embed/admin/admin-tennis-channel/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp" group-title="Motorsport", Rally TV (English HD)
 https://embed.st/embed/admin/admin-rally-tv/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvDAgQjaWBIgUIXiCzaQB7QcQnpFlkgpYRcxin0cUPfeUbU5XviswGAejGIQQA.webp" group-title="Football", AGF Aarhus vs Sabah Baku (DK - TV3+ HD)
-https://embed.st/embed/admin/ppv-agf-vs-sabah-fk/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvDAgQjaWBIgUIXiCzaQB7QcQnpFlkgpYRcxin0cUPfeUbU5XviswGAejGIQQA.webp" group-title="Football", AGF Aarhus vs Sabah Baku (DK - TV3+ SD)
-https://embed.st/embed/admin/ppv-agf-vs-sabah-fk/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKohggQHGjRC8QWbSBImziQ9KMskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="Football", Fenerbahçe vs Sturm Graz (German - ORF 1 HD)
 https://embed.st/embed/admin/ppv-fenerbahce-vs-sk-sturm-graz/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKohggQHGjRC8QWbSBImziQ9KMskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="Football", Fenerbahçe vs Sturm Graz (German - ORF 1 SD)
