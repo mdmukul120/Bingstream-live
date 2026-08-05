@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="None" group-title="Baseball", Milwaukee Brewers - Pittsburgh Pirates (English HD)
+https://embed.st/embed/golf/18/1
+#EXTINF:-1 tvg-logo="None" group-title="Baseball", Kansas City Royals - Minnesota Twins (English HD)
+https://embed.st/embed/golf/19/1
 #EXTINF:-1 tvg-logo="None" group-title="Baseball", Atlanta Braves - Miami Marlins (English HD)
 https://embed.st/embed/golf/17/1
 #EXTINF:-1 tvg-logo="None" group-title="Baseball", Boston Red Sox - Chicago White Sox (English HD)
@@ -17,22 +21,6 @@ https://embed.st/embed/golf/11/1
 https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-colorado-rockies/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAZYIQUhBwQIXjsMgSIFEdNZ9IeCyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp" group-title="Baseball", Colorado Rockies vs Tampa Bay Rays (English - Rockies.TV SD)
 https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-colorado-rockies/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcShCSawkFinjsU0uJBUQEEDBCIYS+YgDGa4IhBL1xrMHWSIplOXsChIptnphCwJLkOOhMG5Oe2FSegJTciDgezIIIA.webp" group-title="Football", Mallorca vs Paris Saint-Germain (English - DAZN HD)
-https://embed.st/embed/admin/ppv-mallorca-vs-paris-saint-germain/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcShCSawkFinjsU0uJBUQEEDBCIYS+YgDGa4IhBL1xrMHWSIplOXsChIptnphCwJLkOOhMG5Oe2FSegJTciDgezIIIA.webp" group-title="Football", Mallorca vs Paris Saint-Germain (English - DAZN SD)
-https://embed.st/embed/admin/ppv-mallorca-vs-paris-saint-germain/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKokEoQcLCH28Qe-SRDbD+6Wf0skFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="Baseball", Texas Rangers vs San Francisco Giants (English - Rangers Sports Network HD)
-https://embed.st/embed/admin/ppv-san-francisco-giants-vs-texas-rangers/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKokEoQcLCH28Qe-SRDbD+6Wf0skFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="Baseball", Texas Rangers vs San Francisco Giants (English - Rangers Sports Network SD)
-https://embed.st/embed/admin/ppv-san-francisco-giants-vs-texas-rangers/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKo2rAwYfh14gDWECZIgUhkyGMwQ0lkgpYRcxijCqUPD+U1yv+KzaHuJiEEA.webp" group-title="Baseball", Chicago Cubs vs Los Angeles Dodgers (English - Marquee Sports Net HD)
-https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-chicago-cubs/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKo2rAwYfh14gDWECZIgUhkyGMwQ0lkgpYRcxijCqUPD+U1yv+KzaHuJiEEA.webp" group-title="Baseball", Chicago Cubs vs Los Angeles Dodgers (English - Marquee Sports Net SD)
-https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-chicago-cubs/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHBRBHMAJC8QWTSBIgUBk9PNGWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Baseball", Houston Astros vs Toronto Blue Jays (English - Space City Home Network HD)
-https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-houston-astros/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHBRBHMAJC8QWTSBIgUBk9PNGWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Baseball", Houston Astros vs Toronto Blue Jays (English - Space City Home Network SD)
-https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-houston-astros/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Cricket (English HD)
 https://embed.st/embed/admin/admin-willow-cricket/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Cricket (Willow 2 HD)
@@ -311,10 +299,10 @@ https://embed.st/embed/admin/ppv-rgryte-is-vs-aik/2
 https://embed.st/embed/admin/ppv-firenze-red-lions-vs-alpine-rams/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw0iADGIkDGDwJWWTLIKSIdXKpSZiFMAggjSiAdlSQiRJJDje5UwKEim2emELAkuSfqFhuTlNxMn0CeXIAg1IDIA.webp" group-title="American football", Firenze Red Lions vs. Alpine Rams (English - AFLE+ SD)
 https://embed.st/embed/admin/ppv-firenze-red-lions-vs-alpine-rams/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCBTZgEEFRAkQwkFhkhZE5QGNgNVTUTyUIEyeOK9I0sEQQRprFP5hBVgtKeFgSXFqlCXVjthayl3eHIXGWsIIA.webp" group-title="Football", Derby County vs. Lincoln City (English - Paramount+ HD)
-https://embed.st/embed/admin/ppv-derby-county-vs-lincoln-city/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCBTZgEEFRAkQwkFhkhZE5QGNgNVTUTyUIEyeOK9I0sEQQRprFP5hBVgtKeFgSXFqlCXVjthayl3eHIXGWsIIA.webp" group-title="Football", Derby County vs. Lincoln City (English - Paramount+ SD)
-https://embed.st/embed/admin/ppv-derby-county-vs-lincoln-city/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEESEQBjEChBZsIMiRCqVKRRuEgYpJZJ0gZVVSBMwjBjRBA3xVDfzCCRTbPTCFgSXFI1DnVnFhUnoCYHhyZ2BxMgggA.webp" group-title="Football", Leicester City vs. Northampton Town (English - Paramount+ HD)
+https://embed.st/embed/admin/ppv-leicester-city-vs-northampton-town/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEESEQBjEChBZsIMiRCqVKRRuEgYpJZJ0gZVVSBMwjBjRBA3xVDfzCCRTbPTCFgSXFI1DnVnFhUnoCYHhyZ2BxMgggA.webp" group-title="Football", Leicester City vs. Northampton Town (English - Paramount+ SD)
+https://embed.st/embed/admin/ppv-leicester-city-vs-northampton-town/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCBABjESGHAIILCBQgqkkGSwLgNYWs1zSOiMHhmVK3aTVmdiKSnKmBQkU2z0whYElyO3MG5OU3kyJwI7MCCdMgggA.webp" group-title="Football", Tottenham Hotspur vs. Getafe (English - SPURSPLAY HD)
 https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-getafe/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCBABjESGHAIILCBQgqkkGSwLgNYWs1zSOiMHhmVK3aTVmdiKSnKmBQkU2z0whYElyO3MG5OU3kyJwI7MCCdMgggA.webp" group-title="Football", Tottenham Hotspur vs. Getafe (English - SPURSPLAY SD)
@@ -323,10 +311,10 @@ https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-getafe/2
 https://embed.st/embed/admin/ppv-burnley-vs-notts-county/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52ICNhBYQNeMDlUZIAMYgUwCcJAkls+ZOHZ5IGBpHBFZHdLkQT6-mEHmCRh4WBJcy9UKetNUnpXOTAnMzIIIA.webp" group-title="Football", Burnley vs. Notts County (English - Paramount+ SD)
 https://embed.st/embed/admin/ppv-burnley-vs-notts-county/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEESEQBjEChBZsIMiRCqVKRRuEgYpJZJ0gZVVSBMwjBjRBA3xVDfzCCRTbPTCFgSXFI1DnVnFhUnoCYHhyZ2BxMgggA.webp" group-title="Football", Leicester City vs. Northampton Town (English - Paramount+ HD)
-https://embed.st/embed/admin/ppv-leicester-city-vs-northampton-town/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEESEQBjEChBZsIMiRCqVKRRuEgYpJZJ0gZVVSBMwjBjRBA3xVDfzCCRTbPTCFgSXFI1DnVnFhUnoCYHhyZ2BxMgggA.webp" group-title="Football", Leicester City vs. Northampton Town (English - Paramount+ SD)
-https://embed.st/embed/admin/ppv-leicester-city-vs-northampton-town/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCBTZgEEFRAkQwkFhkhZE5QGNgNVTUTyUIEyeOK9I0sEQQRprFP5hBVgtKeFgSXFqlCXVjthayl3eHIXGWsIIA.webp" group-title="Football", Derby County vs. Lincoln City (English - Paramount+ HD)
+https://embed.st/embed/admin/ppv-derby-county-vs-lincoln-city/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCBTZgEEFRAkQwkFhkhZE5QGNgNVTUTyUIEyeOK9I0sEQQRprFP5hBVgtKeFgSXFqlCXVjthayl3eHIXGWsIIA.webp" group-title="Football", Derby County vs. Lincoln City (English - Paramount+ SD)
+https://embed.st/embed/admin/ppv-derby-county-vs-lincoln-city/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYcCogyEiCCnxS8kHJQgAxhpApgc4SEQxxymoiy7lE-RGwiR2nfzCC7BW48LAkudTqHPWGwkyHTdFMGddUl0gA.webp" group-title="Football", Swansea City vs. Birmingham City (English - Paramount+ HD)
 https://embed.st/embed/admin/ppv-swansea-city-vs-birmingham-city/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYcCogyEiCCnxS8kHJQgAxhpApgc4SEQxxymoiy7lE-RGwiR2nfzCC7BW48LAkudTqHPWGwkyHTdFMGddUl0gA.webp" group-title="Football", Swansea City vs. Birmingham City (English - Paramount+ SD)
@@ -415,14 +403,14 @@ https://embed.st/embed/admin/ppv-raiders-vs-knights/2
 https://embed.st/embed/admin/ppv-dragons-vs-sharks/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRDQkgSIYSBTYQSxCGBUQWYBEUwQAYyUgYpeeI1mlWEBEO65hhfzCCRTbPTCFgSXHoVDnVm1hUnoCYHhyZy1QiCA.webp" group-title="Rugby", Dragons vs. Sharks (English - Fox League SD)
 https://embed.st/embed/admin/ppv-dragons-vs-sharks/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCAggq0kMLkjFJSSDJSAxivkyZy+VhUoRIdcZ2TSJkNapH+YQYoLZ6YQsCS51RoQ9YQlemd4cgdgALUgA.webp" group-title="Football", Hammarby IF vs. BK Häcken (Swedish - TV4 Fotboll HD)
-https://embed.st/embed/admin/ppv-hammarby-if-vs-bk-h-cken/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCAggq0kMLkjFJSSDJSAxivkyZy+VhUoRIdcZ2TSJkNapH+YQYoLZ6YQsCS51RoQ9YQlemd4cgdgALUgA.webp" group-title="Football", Hammarby IF vs. BK Häcken (Swedish - TV4 Fotboll SD)
-https://embed.st/embed/admin/ppv-hammarby-if-vs-bk-h-cken/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRAGMQJEChAwQVEFhARVweBtLZFqkBJ0GZc4SJDD9s9Vh0WDK-OQigwgkU2z0whYElwSUIXJuTmdTMkCCLTBXYGcyCCA.webp" group-title="Football", Malmö FF vs. Degerfors IF (Swedish - TV4 Sport Live 1 HD)
 https://embed.st/embed/admin/ppv-malm-ff-vs-degerfors-if/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRAGMQJEChAwQVEFhARVweBtLZFqkBJ0GZc4SJDD9s9Vh0WDK-OQigwgkU2z0whYElwSUIXJuTmdTMkCCLTBXYGcyCCA.webp" group-title="Football", Malmö FF vs. Degerfors IF (Swedish - TV4 Sport Live 1 SD)
 https://embed.st/embed/admin/ppv-malm-ff-vs-degerfors-if/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCAggq0kMLkjFJSSDJSAxivkyZy+VhUoRIdcZ2TSJkNapH+YQYoLZ6YQsCS51RoQ9YQlemd4cgdgALUgA.webp" group-title="Football", Hammarby IF vs. BK Häcken (Swedish - TV4 Fotboll HD)
+https://embed.st/embed/admin/ppv-hammarby-if-vs-bk-h-cken/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCAggq0kMLkjFJSSDJSAxivkyZy+VhUoRIdcZ2TSJkNapH+YQYoLZ6YQsCS51RoQ9YQlemd4cgdgALUgA.webp" group-title="Football", Hammarby IF vs. BK Häcken (Swedish - TV4 Fotboll SD)
+https://embed.st/embed/admin/ppv-hammarby-if-vs-bk-h-cken/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiBDBEEiCJEgYIEopABjaQo3xgEdSCyaVWSdlWITkySuEhbJFOTkCh8gtnphCwJLjWOhMG5OOWFSencdMCDdcIggA.webp" group-title="American football", Paris Lights vs. London Warriors (English - AFLE+ HD)
 https://embed.st/embed/admin/ppv-paris-lights-vs-london-warriors/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiBDBEEiCJEgYIEopABjaQo3xgEdSCyaVWSdlWITkySuEhbJFOTkCh8gtnphCwJLjWOhMG5OOWFSencdMCDdcIggA.webp" group-title="American football", Paris Lights vs. London Warriors (English - AFLE+ SD)
@@ -447,14 +435,14 @@ https://embed.st/embed/admin/ppv-mansfield-town-vs-sheffield-united/2
 https://embed.st/embed/admin/ppv-seattle-sounders-fc-vs-quer-taro/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeNmASsICCDIQRIYaRBVxILFJAhtclBq00V+2SADGwU8M0X5KcooFCRTSQ7CFgSXOYdCwbk5FFTIHAilyQKtSKyA.webp" group-title="Football", Seattle Sounders FC vs. Querétaro (English - Apple TV SD)
 https://embed.st/embed/admin/ppv-seattle-sounders-fc-vs-quer-taro/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEIhriU2YBFIgUExQqUQQVEFhDjNmxOPikROncBpH1AYxDrR5eQKEimsmWELAkuKzKFhuTnlhYxkCYCMwALljCCA.webp" group-title="Football", Philadelphia Union vs. Necaxa (English - Apple TV HD)
-https://embed.st/embed/admin/ppv-philadelphia-union-vs-necaxa/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEIhriU2YBFIgUExQqUQQVEFhDjNmxOPikROncBpH1AYxDrR5eQKEimsmWELAkuKzKFhuTnlhYxkCYCMwALljCCA.webp" group-title="Football", Philadelphia Union vs. Necaxa (English - Apple TV SD)
-https://embed.st/embed/admin/ppv-philadelphia-union-vs-necaxa/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8YInGIqIGsOAQQEUiCwhhIcWpggYIpbuA1FyxTJCyJVsiXVKU5ZQKEim2emELAkuAMYOhMG5OZXkyBwIrMCCFUgUgA.webp" group-title="Football", Cruz Azul vs. New York City FC (English - Apple TV HD)
 https://embed.st/embed/admin/ppv-cruz-azul-vs-new-york-city-fc/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8YInGIqIGsOAQQEUiCwhhIcWpggYIpbuA1FyxTJCyJVsiXVKU5ZQKEim2emELAkuAMYOhMG5OZXkyBwIrMCCFUgUgA.webp" group-title="Football", Cruz Azul vs. New York City FC (English - Apple TV SD)
 https://embed.st/embed/admin/ppv-cruz-azul-vs-new-york-city-fc/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEIhriU2YBFIgUExQqUQQVEFhDjNmxOPikROncBpH1AYxDrR5eQKEimsmWELAkuKzKFhuTnlhYxkCYCMwALljCCA.webp" group-title="Football", Philadelphia Union vs. Necaxa (English - Apple TV HD)
+https://embed.st/embed/admin/ppv-philadelphia-union-vs-necaxa/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEIhriU2YBFIgUExQqUQQVEFhDjNmxOPikROncBpH1AYxDrR5eQKEimsmWELAkuKzKFhuTnlhYxkCYCMwALljCCA.webp" group-title="Football", Philadelphia Union vs. Necaxa (English - Apple TV SD)
+https://embed.st/embed/admin/ppv-philadelphia-union-vs-necaxa/2
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICMEQQQVGSGEgswGjQlYQJDZNJaaS6SnkgYx04k3SpOk1hTkJAoSKbZ6YQsCS4AxnaFhuTglhUnoCbTAA4AkyCCA.webp" group-title="Football", Chicago Fire FC vs. Santos (English - Apple TV HD)
 https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-santos/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICMEQQQVGSGEgswGjQlYQJDZNJaaS6SnkgYx04k3SpOk1hTkJAoSKbZ6YQsCS4AxnaFhuTglhUnoCbTAA4AkyCCA.webp" group-title="Football", Chicago Fire FC vs. Santos (English - Apple TV SD)
@@ -513,30 +501,30 @@ https://embed.st/embed/admin/ppv-dutch-grand-prix-sprint-qualifying/10
 https://embed.st/embed/admin/ppv-dutch-grand-prix-sprint-qualifying/11
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFMCrjgEEFlIgYIAMYh4pYIkRThMuSsUhhIGseMppEbCBKHbp7BP5hBIptnphCwJLmUShF1YrXTIJAk1yFxkNCCA.webp" group-title="Motorsport", Dutch Grand Prix - Sprint Qualifying (Dutch - Viaplay SD)
 https://embed.st/embed/admin/ppv-dutch-grand-prix-sprint-qualifying/12
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEFhEgIwRDBCIAxiHGLSIGCKkhp04OJTY9ECSGFmVFtTTIkVh-mEFaC2emELAkuRYaFPWGWFSeld4cidgGTIIIA.webp" group-title="Motorsport", Dutch Grand Prix - Qualifying (English - Sky Sport NZ HD)
-https://embed.st/embed/admin/ppv-dutch-grand-prix-qualifying/1
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEFhEgIwRDBCIAxiHGLSIGCKkhp04OJTY9ECSGFmVFtTTIkVh-mEFaC2emELAkuRYaFPWGWFSeld4cidgGTIIIA.webp" group-title="Motorsport", Dutch Grand Prix - Qualifying (English - Sky Sport NZ SD)
-https://embed.st/embed/admin/ppv-dutch-grand-prix-qualifying/2
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEFhEgIwRDBCIAxiHGLSIGCKkhp04OJTY9ECSGFmVFtTTIkVh-mEFaC2emELAkuRYaFPWGWFSeld4cidgGTIIIA.webp" group-title="Motorsport", Dutch Grand Prix - Qualifying (English - Apple TV (F1TV) HD)
-https://embed.st/embed/admin/ppv-dutch-grand-prix-qualifying/3
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEFhEgIwRDBCIAxiHGLSIGCKkhp04OJTY9ECSGFmVFtTTIkVh-mEFaC2emELAkuRYaFPWGWFSeld4cidgGTIIIA.webp" group-title="Motorsport", Dutch Grand Prix - Qualifying (English - Apple TV (F1TV) SD)
-https://embed.st/embed/admin/ppv-dutch-grand-prix-qualifying/4
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEFhEgIwRDBCIAxiHGLSIGCKkhp04OJTY9ECSGFmVFtTTIkVh-mEFaC2emELAkuRYaFPWGWFSeld4cidgGTIIIA.webp" group-title="Motorsport", Dutch Grand Prix - Qualifying (Spanish - DAZN F1 HD)
-https://embed.st/embed/admin/ppv-dutch-grand-prix-qualifying/5
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEFhEgIwRDBCIAxiHGLSIGCKkhp04OJTY9ECSGFmVFtTTIkVh-mEFaC2emELAkuRYaFPWGWFSeld4cidgGTIIIA.webp" group-title="Motorsport", Dutch Grand Prix - Qualifying (Spanish - DAZN F1 SD)
-https://embed.st/embed/admin/ppv-dutch-grand-prix-qualifying/6
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEFhEgIwRDBCIAxiHGLSIGCKkhp04OJTY9ECSGFmVFtTTIkVh-mEFaC2emELAkuRYaFPWGWFSeld4cidgGTIIIA.webp" group-title="Motorsport", Dutch Grand Prix - Qualifying (German - Sky Sport F1 HD)
-https://embed.st/embed/admin/ppv-dutch-grand-prix-qualifying/7
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEFhEgIwRDBCIAxiHGLSIGCKkhp04OJTY9ECSGFmVFtTTIkVh-mEFaC2emELAkuRYaFPWGWFSeld4cidgGTIIIA.webp" group-title="Motorsport", Dutch Grand Prix - Qualifying (German - Sky Sport F1 SD)
-https://embed.st/embed/admin/ppv-dutch-grand-prix-qualifying/8
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEFhEgIwRDBCIAxiHGLSIGCKkhp04OJTY9ECSGFmVFtTTIkVh-mEFaC2emELAkuRYaFPWGWFSeld4cidgGTIIIA.webp" group-title="Motorsport", Dutch Grand Prix - Qualifying (Swedish - V Sport Motor HD)
-https://embed.st/embed/admin/ppv-dutch-grand-prix-qualifying/9
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEFhEgIwRDBCIAxiHGLSIGCKkhp04OJTY9ECSGFmVFtTTIkVh-mEFaC2emELAkuRYaFPWGWFSeld4cidgGTIIIA.webp" group-title="Motorsport", Dutch Grand Prix - Qualifying (Swedish - V Sport Motor SD)
-https://embed.st/embed/admin/ppv-dutch-grand-prix-qualifying/10
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEFhEgIwRDBCIAxiHGLSIGCKkhp04OJTY9ECSGFmVFtTTIkVh-mEFaC2emELAkuRYaFPWGWFSeld4cidgGTIIIA.webp" group-title="Motorsport", Dutch Grand Prix - Qualifying (Dutch - Viaplay HD)
-https://embed.st/embed/admin/ppv-dutch-grand-prix-qualifying/11
-#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEFhEgIwRDBCIAxiHGLSIGCKkhp04OJTY9ECSGFmVFtTTIkVh-mEFaC2emELAkuRYaFPWGWFSeld4cidgGTIIIA.webp" group-title="Motorsport", Dutch Grand Prix - Qualifying (Dutch - Viaplay SD)
-https://embed.st/embed/admin/ppv-dutch-grand-prix-qualifying/12
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKRDxgVECRABjKSBTAJ0mrJghZWEDBGT5KRSJUyQINZIjn5ViKv5hBhgtnphCwJLgWqhF1YJYVJ6d2kwF2syCCA.webp" group-title="Motorsport", Dutch Grand Prix - Sprint (English - Sky Sport NZ HD)
+https://embed.st/embed/admin/ppv-dutch-grand-prix-sprint/1
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKRDxgVECRABjKSBTAJ0mrJghZWEDBGT5KRSJUyQINZIjn5ViKv5hBhgtnphCwJLgWqhF1YJYVJ6d2kwF2syCCA.webp" group-title="Motorsport", Dutch Grand Prix - Sprint (English - Sky Sport NZ SD)
+https://embed.st/embed/admin/ppv-dutch-grand-prix-sprint/2
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKRDxgVECRABjKSBTAJ0mrJghZWEDBGT5KRSJUyQINZIjn5ViKv5hBhgtnphCwJLgWqhF1YJYVJ6d2kwF2syCCA.webp" group-title="Motorsport", Dutch Grand Prix - Sprint (English - Apple TV (F1TV) HD)
+https://embed.st/embed/admin/ppv-dutch-grand-prix-sprint/3
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKRDxgVECRABjKSBTAJ0mrJghZWEDBGT5KRSJUyQINZIjn5ViKv5hBhgtnphCwJLgWqhF1YJYVJ6d2kwF2syCCA.webp" group-title="Motorsport", Dutch Grand Prix - Sprint (English - Apple TV (F1TV) SD)
+https://embed.st/embed/admin/ppv-dutch-grand-prix-sprint/4
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKRDxgVECRABjKSBTAJ0mrJghZWEDBGT5KRSJUyQINZIjn5ViKv5hBhgtnphCwJLgWqhF1YJYVJ6d2kwF2syCCA.webp" group-title="Motorsport", Dutch Grand Prix - Sprint (Spanish - DAZN F1 HD)
+https://embed.st/embed/admin/ppv-dutch-grand-prix-sprint/5
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKRDxgVECRABjKSBTAJ0mrJghZWEDBGT5KRSJUyQINZIjn5ViKv5hBhgtnphCwJLgWqhF1YJYVJ6d2kwF2syCCA.webp" group-title="Motorsport", Dutch Grand Prix - Sprint (Spanish - DAZN F1 SD)
+https://embed.st/embed/admin/ppv-dutch-grand-prix-sprint/6
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKRDxgVECRABjKSBTAJ0mrJghZWEDBGT5KRSJUyQINZIjn5ViKv5hBhgtnphCwJLgWqhF1YJYVJ6d2kwF2syCCA.webp" group-title="Motorsport", Dutch Grand Prix - Sprint (German - Sky Sport F1 HD)
+https://embed.st/embed/admin/ppv-dutch-grand-prix-sprint/7
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKRDxgVECRABjKSBTAJ0mrJghZWEDBGT5KRSJUyQINZIjn5ViKv5hBhgtnphCwJLgWqhF1YJYVJ6d2kwF2syCCA.webp" group-title="Motorsport", Dutch Grand Prix - Sprint (German - Sky Sport F1 SD)
+https://embed.st/embed/admin/ppv-dutch-grand-prix-sprint/8
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKRDxgVECRABjKSBTAJ0mrJghZWEDBGT5KRSJUyQINZIjn5ViKv5hBhgtnphCwJLgWqhF1YJYVJ6d2kwF2syCCA.webp" group-title="Motorsport", Dutch Grand Prix - Sprint (Swedish - V Sport Motor HD)
+https://embed.st/embed/admin/ppv-dutch-grand-prix-sprint/9
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKRDxgVECRABjKSBTAJ0mrJghZWEDBGT5KRSJUyQINZIjn5ViKv5hBhgtnphCwJLgWqhF1YJYVJ6d2kwF2syCCA.webp" group-title="Motorsport", Dutch Grand Prix - Sprint (Swedish - V Sport Motor SD)
+https://embed.st/embed/admin/ppv-dutch-grand-prix-sprint/10
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKRDxgVECRABjKSBTAJ0mrJghZWEDBGT5KRSJUyQINZIjn5ViKv5hBhgtnphCwJLgWqhF1YJYVJ6d2kwF2syCCA.webp" group-title="Motorsport", Dutch Grand Prix - Sprint (Dutch - Viaplay HD)
+https://embed.st/embed/admin/ppv-dutch-grand-prix-sprint/11
+#EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKRDxgVECRABjKSBTAJ0mrJghZWEDBGT5KRSJUyQINZIjn5ViKv5hBhgtnphCwJLgWqhF1YJYVJ6d2kwF2syCCA.webp" group-title="Motorsport", Dutch Grand Prix - Sprint (Dutch - Viaplay SD)
+https://embed.st/embed/admin/ppv-dutch-grand-prix-sprint/12
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBQh4wCCGHjgVcfNUThIkHIDGIbbNXKQ04-KV695uVP00IKchFBhBIptnphCwJLm0OhF1YnDTIHAmAZMBdZUlkgA.webp" group-title="Motorsport", Dutch Grand Prix - Race (English - Sky Sport NZ HD)
 https://embed.st/embed/admin/ppv-dutch-grand-prix-race/1
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBQh4wCCGHjgVcfNUThIkHIDGIbbNXKQ04-KV695uVP00IKchFBhBIptnphCwJLm0OhF1YnDTIHAmAZMBdZUlkgA.webp" group-title="Motorsport", Dutch Grand Prix - Race (English - Sky Sport NZ SD)
